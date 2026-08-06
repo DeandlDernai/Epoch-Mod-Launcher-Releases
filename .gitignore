@@ -1,0 +1,4 @@
+# Signaturschluessel duerfen niemals in dieses Repository gelangen
+*.key
+*.pem
+secrets/
