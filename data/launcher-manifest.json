@@ -1,17 +1,21 @@
 {
-  "sequence": 11,
-  "createdAt": "2026-08-16T15:26:06.7271619+00:00",
+  "sequence": 12,
+  "createdAt": "2026-08-16T15:43:51.3434069+00:00",
   "latestVersion": "1.0.0",
   "links": {
     "github": "https://github.com/DeandlDernai/Epoch-Mod-Launcher-Releases/releases",
     "discord": "https://discord.gg/kjGXC7X93S"
   },
-  "win11Fix": {
-    "url": "https://drive.google.com/uc?export=download\u0026id=1we3dYUkNBaB1U74LuJQWBQ9DfR6Ua3a5",
-    "fileName": "arma2oa-BE_A2OA_v164_2024_Windows11_fix_v2.7z",
-    "sha256": "7A7A7E9683AB2CFD6F217182A6F6256AA8F7C56D1C9F32B0148E33728B634E1B"
-  },
+  "win11Fix": null,
   "servers": [
+    {
+      "id": "steam-90291041350668308",
+      "name": "DayZ Epoch Chernarus Server (1.0.7.1/144629) [Personal]",
+      "host": "102.66.147.185",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
     {
       "id": "steam-90291032047457291",
       "name": "Pandapuppet Arma 2: EPOCH",
@@ -456,14 +460,6 @@
       "id": "steam-90291026183587856",
       "name": "DayZ Revolution Hungary PVE 2025",
       "host": "188.157.5.120",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-90291039301080071",
-      "name": "Cubis Epoch Lingor Wip",
-      "host": "188.193.107.76",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -1053,8 +1049,8 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90291034081825817",
-      "name": "Stalkers DayZ Epoch Survival Server (1.0.7.1, Slow Walking Zomb",
+      "id": "steam-90291012058770457",
+      "name": "Slow Walking Zombies DayZ Epoch Chernarus (Private Server) (1.0",
       "host": "5.67.136.94",
       "gamePort": 2302,
       "queryPort": 2303,
@@ -1613,9 +1609,9 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90291040047937556",
-      "name": "DayZ Epoch Chernarus Server (1.0.7.1/144629) [Personal]",
-      "host": "102.66.147.185",
+      "id": "steam-90291039301080071",
+      "name": "Cubis Epoch Lingor Wip",
+      "host": "188.193.107.76",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
