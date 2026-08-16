@@ -1,6 +1,6 @@
 {
-  "sequence": 10,
-  "createdAt": "2026-08-16T15:13:43.168139+00:00",
+  "sequence": 11,
+  "createdAt": "2026-08-16T15:26:06.7271619+00:00",
   "latestVersion": "1.0.0",
   "links": {
     "github": "https://github.com/DeandlDernai/Epoch-Mod-Launcher-Releases/releases",
@@ -12,14 +12,6 @@
     "sha256": "7A7A7E9683AB2CFD6F217182A6F6256AA8F7C56D1C9F32B0148E33728B634E1B"
   },
   "servers": [
-    {
-      "id": "steam-90291040047937556",
-      "name": "DayZ Epoch Chernarus Server (1.0.7.1/144629) [Personal]",
-      "host": "102.66.147.185",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
     {
       "id": "steam-90291032047457291",
       "name": "Pandapuppet Arma 2: EPOCH",
@@ -1061,8 +1053,8 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90291012058770457",
-      "name": "Slow Walking Zombies DayZ Epoch Chernarus (Private Server) (1.0",
+      "id": "steam-90291034081825817",
+      "name": "Stalkers DayZ Epoch Survival Server (1.0.7.1, Slow Walking Zomb",
       "host": "5.67.136.94",
       "gamePort": 2302,
       "queryPort": 2303,
@@ -1437,14 +1429,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90291039902457863",
-      "name": "Epoch Chernarus 1.0.8 Test",
-      "host": "84.173.75.80",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
       "id": "steam-90291037793174537",
       "name": "Remnant Epoch - Taviana (Epoch 1.0.7.1 - Origins 1.7.9.5)",
       "host": "84.80.24.108",
@@ -1624,6 +1608,22 @@
       "id": "steam-90291012083384349",
       "name": "*[RU]-Positive-PvE-evolution",
       "host": "95.165.128.187",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-90291040047937556",
+      "name": "DayZ Epoch Chernarus Server (1.0.7.1/144629) [Personal]",
+      "host": "102.66.147.185",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-90291039902457863",
+      "name": "Epoch Chernarus 1.0.8 Test",
+      "host": "84.173.75.80",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
