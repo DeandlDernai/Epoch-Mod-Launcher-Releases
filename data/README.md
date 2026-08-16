@@ -15,3 +15,6 @@ links. The launcher reads nothing else from this repository.
 Do not edit these files manually. The signature is created from the exact JSON
 bytes; reformatting, re-encoding or changing a single character invalidates it,
 and every installed launcher will then reject the file.
+
+`dev/` holds a frozen copy of an earlier manifest, used only by internal test
+builds. Released launchers never read it.

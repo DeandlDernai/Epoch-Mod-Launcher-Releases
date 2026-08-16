@@ -1,2 +1,4 @@
 data/launcher-manifest.json -text
 data/launcher-manifest.json.sig binary
+data/dev/launcher-manifest.json -text
+data/dev/launcher-manifest.json.sig binary
