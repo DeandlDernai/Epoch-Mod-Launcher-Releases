@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Support and questions
+    url: https://discord.gg/kjGXC7X93S
+    about: Help with installing or using the launcher, and anything else that is not a defect.
+  - name: Security report
+    url: https://github.com/DeandlDernai/Epoch-Mod-Launcher-Releases/security/advisories/new
+    about: Report vulnerabilities, manipulated release files or unsafe download links privately.

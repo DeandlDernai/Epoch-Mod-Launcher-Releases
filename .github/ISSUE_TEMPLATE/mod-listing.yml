@@ -1,0 +1,48 @@
+name: Mod listing or takedown
+description: Request a mod link to be listed, corrected or removed.
+labels: ["mod-listing"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The launcher does not host or redistribute mods. It can point to an
+        external project page or download source. A takedown request is acted
+        on first and discussed afterwards.
+
+        If you prefer not to write publicly, contact the project team on
+        [Discord](https://discord.gg/kjGXC7X93S) instead.
+  - type: dropdown
+    id: request
+    attributes:
+      label: Request
+      options:
+        - List a mod
+        - Correct an existing entry
+        - Remove an entry (takedown)
+    validations:
+      required: true
+  - type: input
+    id: mod
+    attributes:
+      label: Mod name and version
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Official project page or download source
+      placeholder: "https://"
+    validations:
+      required: false
+  - type: textarea
+    id: rights
+    attributes:
+      label: Connection to the project
+      description: >
+        For a listing we need a verifiable connection to the official project,
+        for example a published statement in the official repository or website,
+        confirmation from an established official community account, or licence
+        information that clearly identifies the package and its redistribution
+        terms.
+    validations:
+      required: true

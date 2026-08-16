@@ -1,0 +1,53 @@
+name: Problem report
+description: Something in the launcher does not work as expected.
+labels: ["problem"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please do not report security issues here. Use the private security
+        advisory link instead, so the details are not published.
+  - type: input
+    id: version
+    attributes:
+      label: Launcher version
+      description: Shown in the About window, for example 1.0.0.
+      placeholder: "1.0.0"
+    validations:
+      required: true
+  - type: dropdown
+    id: windows
+    attributes:
+      label: Windows version
+      options:
+        - Windows 11
+        - Windows 10
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened
+      description: What did you do, what did you expect, what happened instead?
+    validations:
+      required: true
+  - type: textarea
+    id: message
+    attributes:
+      label: Error message
+      description: >
+        The exact text of any error dialog. Launcher logs may be attached, but
+        remove personal data, IP addresses and access tokens first.
+      render: text
+    validations:
+      required: false
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I downloaded the launcher from this repository's Releases page.
+          required: true
+        - label: The SHA-256 checksum of my file matches the one published with the release.
+          required: false
