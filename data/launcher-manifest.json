@@ -1,7 +1,7 @@
 {
-  "sequence": 8,
-  "createdAt": "2026-08-16T14:27:29.8750993+00:00",
-  "latestVersion": "0.4.0",
+  "sequence": 9,
+  "createdAt": "2026-08-16T14:31:39.4904537+00:00",
+  "latestVersion": "1.0.0",
   "links": {
     "github": "https://github.com/DeandlDernai/Epoch-Mod-Launcher-Releases/releases",
     "discord": "https://discord.gg/kjGXC7X93S"
@@ -13,7 +13,7 @@
   },
   "servers": [
     {
-      "id": "steam-90291037343867924",
+      "id": "steam-90291037628707860",
       "name": "DayZ Epoch Chernarus Server (1.0.7.1/144629) [Personal]",
       "host": "102.66.147.185",
       "gamePort": 2302,
@@ -837,14 +837,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90290984462578715",
-      "name": "Official Origins Mod #LFS ArcX Gaming(1.8.3/125548) Hosted @ La",
-      "host": "37.187.144.40",
-      "gamePort": 5256,
-      "queryPort": 5257,
-      "requiredMods": []
-    },
-    {
       "id": "steam-90291026428307483",
       "name": "Official Origins Mod #LFS DayZ Origins Salami(1.8.3/125548) Hos",
       "host": "37.187.144.40",
@@ -1610,78 +1602,6 @@
       "host": "95.165.128.187",
       "gamePort": 2302,
       "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-90291027088415751",
-      "name": "chujek na pykpykparampam",
-      "host": "109.95.113.168",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-90290965461249049",
-      "name": "DayZ Mod 1.6 | 2012 |",
-      "host": "110.144.161.166",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-90291022442730507",
-      "name": "---------------------------HELLS HERE--------------------------",
-      "host": "51.222.105.75",
-      "gamePort": 3802,
-      "queryPort": 3803,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-90291026216881158",
-      "name": "DayZ Epoch Chernarus Server (1.0.7.1/144629)",
-      "host": "87.143.225.45",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-90291021249715207",
-      "name": "Cubis Epoch Lingor Wip",
-      "host": "188.193.107.76",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-90291022095172611",
-      "name": "[JCN Epoch] Chernarus V2|Custom Epoch|BEST OPTIMISED",
-      "host": "88.97.218.252",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-90291022428156946",
-      "name": "DayZ Origins 1.8.3 Rebuild - LOCAL TEST SERVER",
-      "host": "94.114.85.213",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-90290253083060252",
-      "name": "Arma 2: Dayz Epoch - German-Task-Force",
-      "host": "208.115.206.173",
-      "gamePort": 2304,
-      "queryPort": 2305,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-90290504070311944",
-      "name": "[RU] 100DB - TVT/PVP Domination 2 Teams",
-      "host": "82.193.80.18",
-      "gamePort": 3302,
-      "queryPort": 3303,
       "requiredMods": []
     }
   ],
