@@ -30,7 +30,10 @@ There is currently no guaranteed response time or bug-bounty programme.
 
 ## Release verification
 
-Download launcher builds only from this repository's Releases page. The
-published `steam-servers.json.sig` file is a detached Ed25519 signature for the
-exact `steam-servers.json` bytes. It is not a checksum, encrypted content or a
-private key.
+Download launcher builds only from this repository's Releases page and compare
+the SHA-256 checksum published with the release.
+
+The file `data/launcher-manifest.json.sig` is a detached Ed25519 signature for
+the exact bytes of `data/launcher-manifest.json`. It is not a checksum,
+encrypted content or a private key. The public key needed to verify it is built
+into the launcher.
