@@ -1,6 +1,6 @@
 {
-  "sequence": 31,
-  "createdAt": "2026-09-15T14:30:45.8450988+00:00",
+  "sequence": 32,
+  "createdAt": "2026-09-16T14:30:43.2008276+00:00",
   "latestVersion": "1.0.0",
   "links": {
     "github": "https://github.com/DeandlDernai/Epoch-Mod-Launcher-Releases/releases",
@@ -9,7 +9,7 @@
   "win11Fix": null,
   "servers": [
     {
-      "id": "steam-90292787809138699",
+      "id": "steam-90292867815231499",
       "name": "Pandapuppet Arma 2: EPOCH",
       "host": "103.193.80.147",
       "gamePort": 2305,
@@ -17,7 +17,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292779160606734",
+      "id": "steam-90292858447363086",
       "name": "AU | Taviana Nights - Tanks \u0026 Jets | Missions | AI Bandits | In",
       "host": "103.193.80.150",
       "gamePort": 2305,
@@ -25,7 +25,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292794137222144",
+      "id": "steam-90292872362564608",
       "name": "Aussie Pensioners PVE coins, deploy, spawn select.",
       "host": "103.193.80.72",
       "gamePort": 2302,
@@ -33,15 +33,15 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292791739682835",
-      "name": "PatientZero Local Test DEV Server #1",
+      "id": "steam-90292870417372179",
+      "name": "PatientZero Official Mod TEST #1 - Join at: pzmod.com |NEW|HC|P",
       "host": "104.246.99.167",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
     },
     {
-      "id": "steam-90292791739724819",
+      "id": "steam-90292870417386515",
       "name": "PatientZero Test Server #2",
       "host": "104.246.99.167",
       "gamePort": 2312,
@@ -49,7 +49,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292791739727891",
+      "id": "steam-90292870417380371",
       "name": "PatientZero Test Server #3",
       "host": "104.246.99.167",
       "gamePort": 2322,
@@ -57,15 +57,15 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292787587471366",
-      "name": "[ECO]Full-Mili|PVE-ONLY|Rank/PrestigeSystems|C\u0026H Missions|LiveS",
-      "host": "104.249.63.102",
-      "gamePort": 2304,
-      "queryPort": 2305,
+      "id": "steam-90292870417261587",
+      "name": "PatientZero Server #TEST",
+      "host": "104.246.99.167",
+      "gamePort": 2382,
+      "queryPort": 2383,
       "requiredMods": []
     },
     {
-      "id": "steam-90292783544067098",
+      "id": "steam-90292861388124186",
       "name": "THAC0 DayZ Epoch Napf PVE HARDCORE | DZAI | JSRS | WALKING DEAD",
       "host": "108.28.99.183",
       "gamePort": 2302,
@@ -73,7 +73,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292791786287126",
+      "id": "steam-90292870302214166",
       "name": "[VFB]DayZ Mod 1.9.1 HOW TO JOIN discord.me/VFB",
       "host": "109.204.186.162",
       "gamePort": 2302,
@@ -81,7 +81,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292783494380571",
+      "id": "steam-90292861339058203",
       "name": "[EU]DayZ Epoch Takistan (1.0.7.1/144629)\u0022",
       "host": "109.228.138.88",
       "gamePort": 2302,
@@ -89,7 +89,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292794991606786",
+      "id": "steam-90292862839808002",
       "name": "Arma 2 Zombie",
       "host": "109.248.247.90",
       "gamePort": 2302,
@@ -97,15 +97,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292728728297497",
-      "name": "DayZ Mod Classic 1.0 [Official]",
-      "host": "110.144.161.166",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-90292787849062404",
+      "id": "steam-90292867759041540",
       "name": "PC-Lily Epoch Server PVE/StarterKit/StarterCash/Patrol/Missions",
       "host": "120.239.199.37",
       "gamePort": 2302,
@@ -121,7 +113,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292794086643727",
+      "id": "steam-90292872297566223",
       "name": "DayZ Gone By | Lots of Mods | FPS\u002B\u002B | XP | Mili | 200k Start \u002B",
       "host": "136.61.36.225",
       "gamePort": 2302,
@@ -137,7 +129,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292791896962051",
+      "id": "steam-90292870189611011",
       "name": "Return of Chernarus |Epoch|PVP| High FPS/XP System/Treasure Hun",
       "host": "138.199.159.83",
       "gamePort": 2302,
@@ -153,7 +145,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292785881552922",
+      "id": "steam-90292866357941274",
       "name": "Crazy Island",
       "host": "142.132.192.57",
       "gamePort": 2602,
@@ -161,7 +153,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292794196189186",
+      "id": "steam-90292872267805698",
       "name": "Over9000 Taviana Survival|XP|Factions|Quests|Planting|discord.g",
       "host": "142.132.210.90",
       "gamePort": 2302,
@@ -169,7 +161,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292794196179970",
+      "id": "steam-90292872267800578",
       "name": "Over9000 PVE Militarized KellerKinder",
       "host": "142.132.210.90",
       "gamePort": 2322,
@@ -177,7 +169,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292781688095753",
+      "id": "steam-90292859955148809",
       "name": "[CAN-East] TangoServers: Good ol\u0027 DayZ (1.9)",
       "host": "142.68.219.128",
       "gamePort": 2302,
@@ -185,7 +177,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292781688132617",
+      "id": "steam-90292859955238921",
       "name": "[CAN-East] TangoServers: Good ol\u0027 DayZ Namalsk (1.9/0.75)",
       "host": "142.68.219.128",
       "gamePort": 2306,
@@ -193,7 +185,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292786614366231",
+      "id": "steam-90292867176098839",
       "name": "[Dawn Patrol] Chernarus|BEST EPOCH|BASE RANSOMS|STARTER KIT|CUS",
       "host": "144.217.0.248",
       "gamePort": 2302,
@@ -201,7 +193,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292787184706583",
+      "id": "steam-90292867653218327",
       "name": "[Dawn Patrol] Napf|BEST EPOCH|BASE RANSOMS|STARTER KIT|CUSTOM S",
       "host": "144.217.0.248",
       "gamePort": 3302,
@@ -209,7 +201,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292786984413207",
+      "id": "steam-90292867346399255",
       "name": "[Dawn Patrol] Namalsk|BEST EPOCH|BASE RANSOMS|STARTER KIT|CUSTO",
       "host": "144.217.0.248",
       "gamePort": 4302,
@@ -217,7 +209,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292788405424151",
+      "id": "steam-90292868428522519",
       "name": "[Dawn Patrol] Taviana|BEST EPOCH|BASE RANSOMS|STARTER BASE KIT|",
       "host": "144.217.0.248",
       "gamePort": 5302,
@@ -225,7 +217,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292787450922007",
+      "id": "steam-90292868068121623",
       "name": "[Dawn Patrol] PVE Sauerland|BEST EPOCH|STARTER BASE KIT|CUSTOM",
       "host": "144.217.0.248",
       "gamePort": 6302,
@@ -233,7 +225,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292789190558743",
+      "id": "steam-90292869463776279",
       "name": "Dawn Patrol TEST Server",
       "host": "144.217.0.248",
       "gamePort": 10302,
@@ -249,7 +241,15 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292791941869596",
+      "id": "steam-90292869773991940",
+      "name": "GEPO\u0027s Warfare Server (Benny Edition)",
+      "host": "145.87.238.24",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-90292870468470812",
       "name": "ManUp Survival | ALPHA SERVER | ePvE | Kit | Cash",
       "host": "15.204.53.162",
       "gamePort": 3302,
@@ -257,7 +257,15 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292730651656199",
+      "id": "steam-90292872430927885",
+      "name": "DayZ Epoch Taviana Server (1.0.7.1/144629)",
+      "host": "152.89.133.147",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-90292812519538695",
       "name": "Miksuu\u0027s Warfare | CTI | TvT | PvE | discord.me/warfare",
       "host": "157.180.54.113",
       "gamePort": 2302,
@@ -265,7 +273,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292794141383700",
+      "id": "steam-90292872342835220",
       "name": "[GER] | in memory of TRC | by Madmax | DayZ Epoch (1.0.7.1/1446",
       "host": "159.195.46.9",
       "gamePort": 2302,
@@ -281,7 +289,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292788783495196",
+      "id": "steam-90292868732013596",
       "name": "[CN][dskxdsl][Qqun:775709473][PVE]DayZ EP 1.0.7 Chernarus",
       "host": "159.75.185.53",
       "gamePort": 2302,
@@ -289,7 +297,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292787918375938",
+      "id": "steam-90292867466460162",
       "name": "Mission Central IV DEV ARMA2 DayZ Epoch Mod PVE Only (1.0.7/144",
       "host": "160.202.166.26",
       "gamePort": 2312,
@@ -297,7 +305,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292787883071497",
+      "id": "steam-90292867531722761",
       "name": "Mission Central IV ARMA2 DayZ Epoch Mod PVE Only (1.0.7/144629)",
       "host": "160.202.166.33",
       "gamePort": 2412,
@@ -313,7 +321,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292787858708507",
+      "id": "steam-90292867660058651",
       "name": "ZGauntlet |PVE| Epoch Walkers Mods Ai Custom Missions 1.0.7.1",
       "host": "162.220.160.28",
       "gamePort": 2302,
@@ -329,7 +337,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292785381744659",
+      "id": "steam-90292865846001683",
       "name": "[JCN] Chernarus V3|Heavily Custom Overpoch|FPS\u002B|infiSTAR",
       "host": "167.114.209.180",
       "gamePort": 2302,
@@ -337,7 +345,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292785381738515",
+      "id": "steam-90292865845996563",
       "name": "[JCN] Taviana V3|Heavily Custom Overpoch|FPS\u002B\u002B\u002B|infiSTAR",
       "host": "167.114.209.180",
       "gamePort": 2502,
@@ -345,7 +353,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292762118092829",
+      "id": "steam-90292806705631261",
       "name": "CarpeDiemZ Epoch|PVE Only|Chernarus|Added Missions \u0026 POI|Active",
       "host": "173.208.136.12",
       "gamePort": 2200,
@@ -353,7 +361,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292787609828381",
+      "id": "steam-90292867779430429",
       "name": "CarpeDiem Taviana |PVE|Traders|Missions",
       "host": "173.208.136.12",
       "gamePort": 2300,
@@ -361,7 +369,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292794151543831",
+      "id": "steam-90292872272979991",
       "name": "-CDO Overpoch WIPED 6/30 1830hrs-|Semi Mil|Custom Map|VG|COINS|",
       "host": "173.208.152.218",
       "gamePort": 2302,
@@ -369,7 +377,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292791810989070",
+      "id": "steam-90292870412444686",
       "name": "[RU] DARK CITY: Epoch |NAPF|PvE\u002BPvP|Auction|Interior|Bank",
       "host": "176.197.182.249",
       "gamePort": 2302,
@@ -377,7 +385,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292769340083221",
+      "id": "steam-90292847601970197",
       "name": "[PVE] Antysoft EVO RED like TehnikPC NO CHERNO! RQed: A2 \u0026 A2OA",
       "host": "178.140.195.120",
       "gamePort": 2302,
@@ -385,7 +393,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292787902481416",
+      "id": "steam-90292867698600968",
       "name": "RU66|ElectroClub Epoch 1.0.7.1|PvP",
       "host": "178.211.184.227",
       "gamePort": 3202,
@@ -393,7 +401,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292785406916616",
+      "id": "steam-90292865983189000",
       "name": "RU66 | Sauerland Epoch 1.0.7.1 | PVE",
       "host": "178.211.184.227",
       "gamePort": 3212,
@@ -401,7 +409,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292785407091720",
+      "id": "steam-90292865983191048",
       "name": "RU66|ElectroClub Epoch 1.0.7.1|PvE",
       "host": "178.211.184.227",
       "gamePort": 3232,
@@ -409,15 +417,15 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292787690216453",
-      "name": "[Nemezis 2.2]WIPED 26.12|EPOCH|ALL CUSTOM|RUS/ENG|HIGH FPS|",
+      "id": "steam-90292865151809541",
+      "name": "[Nemezis]|Closed TEST server|",
       "host": "178.66.51.42",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
     },
     {
-      "id": "steam-90292787725588499",
+      "id": "steam-90292867643448339",
       "name": "Military_PVE(no_PVP)_78RUS test",
       "host": "185.137.235.153",
       "gamePort": 2302,
@@ -425,7 +433,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292787848167428",
+      "id": "steam-90292867758902276",
       "name": "RU 178 Epoch Elite Cherno [Missions|Bank|Spawn Select] (1.0.7.1",
       "host": "185.137.235.74",
       "gamePort": 2602,
@@ -449,7 +457,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292774356334619",
+      "id": "steam-90292872749553691",
       "name": "[NEW] Final Stand Epoch | VG | SEMI-MILITARY | PVP | \u002BMORE",
       "host": "185.216.144.86",
       "gamePort": 2316,
@@ -465,7 +473,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292783729209366",
+      "id": "steam-90292861620710422",
       "name": "Suppenkelle Epoch 1.0.7|Missions|AI Base|Patrols (1.0.7/144629)",
       "host": "185.37.145.99",
       "gamePort": 2302,
@@ -473,7 +481,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292792111663114",
+      "id": "steam-90292863900682250",
       "name": "Dayz noots",
       "host": "185.74.146.252",
       "gamePort": 2302,
@@ -481,15 +489,23 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292783609893904",
-      "name": "DayZ Revolution Hungary PVE 2025",
-      "host": "188.157.5.120",
+      "id": "steam-90292871642473497",
+      "name": "Jens",
+      "host": "188.192.196.167",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
     },
     {
-      "id": "steam-90292785481396225",
+      "id": "steam-90292796695219205",
+      "name": "[UK] Sari\u0027s Warfare | Takistan/Chernarus Rotation | JSRS, SoA \u0026",
+      "host": "188.211.162.139",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-90292865851974657",
       "name": "Sula\u0027s 1.0.7.1 PvE Missions , slow Zedz",
       "host": "188.240.63.100",
       "gamePort": 2402,
@@ -497,7 +513,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292787761404946",
+      "id": "steam-90292867598293010",
       "name": "(HAS)Hard As Steel|PVE|Napf|Overpoch|Militarized|Custom2|1.0.7.",
       "host": "188.40.64.51",
       "gamePort": 2302,
@@ -553,7 +569,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292794583197705",
+      "id": "steam-90292872783387657",
       "name": "#US001 | Official OriginsMod DevServer |All-Skills|Lock:ON|3DP:",
       "host": "192.95.33.8",
       "gamePort": 2302,
@@ -561,7 +577,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292788985541641",
+      "id": "steam-90292868548081673",
       "name": "Official Origins Mod #LFS The Reserve | https://discord.gg/76GH",
       "host": "192.95.33.8",
       "gamePort": 2724,
@@ -569,7 +585,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292787884547081",
+      "id": "steam-90292867805400073",
       "name": "Official Origins Mod #LFS Hells Honor(1.8.3/125548) Hosted @ La",
       "host": "192.95.33.8",
       "gamePort": 2935,
@@ -577,7 +593,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292792415546377",
+      "id": "steam-90292870901901321",
       "name": "Official Origins Mod #LFS RGS Australia [PvE](1.8.3/125548) Hos",
       "host": "192.95.33.8",
       "gamePort": 3146,
@@ -585,15 +601,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90291045118856201",
-      "name": "Official Origins Mod #LFS Pve Hardcore Higher Difficulty(1.8.3/",
-      "host": "192.95.33.8",
-      "gamePort": 3568,
-      "queryPort": 3569,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-90292785915712521",
+      "id": "steam-90292866247992329",
       "name": "Official Origins Mod #LFS Shihos House of Poi(1.8.3/125548) Hos",
       "host": "192.95.33.8",
       "gamePort": 4412,
@@ -601,7 +609,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292794196836354",
+      "id": "steam-90292872267710466",
       "name": "[DE-PvE] Snowcat Gaming",
       "host": "193.135.10.40",
       "gamePort": 2302,
@@ -609,7 +617,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292785481154561",
+      "id": "steam-90292865852008449",
       "name": "iNvU | Low-Mil |PVP| Advanced AI | Adaptive Missions | Bunkers",
       "host": "193.34.69.7",
       "gamePort": 2303,
@@ -617,7 +625,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292785431956505",
+      "id": "steam-90292865776558105",
       "name": "S.W.C Survival Extended Map[Namalsk]",
       "host": "194.50.234.73",
       "gamePort": 2304,
@@ -625,7 +633,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292783694870545",
+      "id": "steam-90292861448785937",
       "name": "CWM Epoch Napf (1.0.5.1/131129)",
       "host": "195.93.181.30",
       "gamePort": 2302,
@@ -641,7 +649,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292794172227603",
+      "id": "steam-90292872413636627",
       "name": "BYES Overpoch| CCG Nostalgia | Mad Scientist | SR25|M110 | Full",
       "host": "203.118.135.209",
       "gamePort": 2302,
@@ -649,7 +657,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292791896988675",
+      "id": "steam-90292870189521923",
       "name": "OxP|Epoch|PvE|NoobFriendly|StartKit|Events|Mili|",
       "host": "205.209.105.34",
       "gamePort": 2302,
@@ -657,7 +665,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292791801258010",
+      "id": "steam-90292870367802394",
       "name": "[JFG]Epoch/Origins|TANKS|AlienRifle|COIN|TELEPORTER|MODDED(1.0.",
       "host": "207.53.201.99",
       "gamePort": 2312,
@@ -681,7 +689,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292767680583689",
+      "id": "steam-90292841959062537",
       "name": "{KG}Community",
       "host": "212.110.214.66",
       "gamePort": 2202,
@@ -689,7 +697,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292785341277201",
+      "id": "steam-90292866007561233",
       "name": "Resthirn auf Napf | PVE | GER | Missions",
       "host": "213.239.197.29",
       "gamePort": 2402,
@@ -697,7 +705,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292785341759505",
+      "id": "steam-90292866008457233",
       "name": "Resthirn Napf Test",
       "host": "213.239.197.29",
       "gamePort": 2602,
@@ -705,7 +713,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292785341279249",
+      "id": "steam-90292866007560209",
       "name": "Resthirn auf Sauerland | PVE | Missions | DZAI",
       "host": "213.239.197.29",
       "gamePort": 2802,
@@ -713,7 +721,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292767944537089",
+      "id": "steam-90292842161011713",
       "name": "Mumin Fighters",
       "host": "217.182.168.134",
       "gamePort": 2302,
@@ -721,7 +729,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292785481057281",
+      "id": "steam-90292865851549697",
       "name": "Challenger Napf PVE Only (1.0.7.1)",
       "host": "23.106.58.144",
       "gamePort": 2302,
@@ -729,7 +737,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292783661753369",
+      "id": "steam-90292861521296409",
       "name": "Bad Grapes Gang | Overpoch Taviana",
       "host": "23.160.192.72",
       "gamePort": 2302,
@@ -737,7 +745,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292782034163717",
+      "id": "steam-90292860320025605",
       "name": "[UA] [A\u002B] Kyiv ArmA 2 [discord.gg/g2vE6tX]",
       "host": "31.43.152.33",
       "gamePort": 2362,
@@ -753,7 +761,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292792590928911",
+      "id": "steam-90292871156797455",
       "name": "Brooks Namalsk [PVE] extended A2 \u002B A1",
       "host": "37.120.164.54",
       "gamePort": 2800,
@@ -761,7 +769,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292793146070043",
+      "id": "steam-90292871568977947",
       "name": "Official Origins Mod #LFS Final Destination [PVE][ACTIVE ADMINS",
       "host": "37.187.144.40",
       "gamePort": 2302,
@@ -769,7 +777,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292791669492763",
+      "id": "steam-90292870477934619",
       "name": "Official Origins Mod #LFS ENDGAME Origins SUMMER WIPE https://d",
       "host": "37.187.144.40",
       "gamePort": 2513,
@@ -777,7 +785,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292794091716635",
+      "id": "steam-90292872258666523",
       "name": "Official Origins Mod #LFS DeadForest | PVP/PVE | Wheeled Titani",
       "host": "37.187.144.40",
       "gamePort": 2724,
@@ -785,7 +793,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292787860858907",
+      "id": "steam-90292867861973019",
       "name": "Official Origins Mod #LFS Rodlers Survival(1.8.3/125548) Hosted",
       "host": "37.187.144.40",
       "gamePort": 2935,
@@ -793,7 +801,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292784035360795",
+      "id": "steam-90292862360174619",
       "name": "Official Origins Mod #LFS / German / Whitelist 187867148 im Ste",
       "host": "37.187.144.40",
       "gamePort": 3146,
@@ -801,7 +809,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292791669473307",
+      "id": "steam-90292870477894683",
       "name": "Official Origins Mod #LFS PVE /FR/EU-MISSION 2 MIN RESART 4H [A",
       "host": "37.187.144.40",
       "gamePort": 3568,
@@ -809,7 +817,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292794612405275",
+      "id": "steam-90292872748870683",
       "name": "Official Origins Mod #LFS BlutigerPfadGottes/PvE/GER-ENG1.5.26(",
       "host": "37.187.144.40",
       "gamePort": 3779,
@@ -817,7 +825,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292783704738843",
+      "id": "steam-90292861631140891",
       "name": "Official Origins Mod #LFS DZ Apokalypse Guardians(1.8.3/125548)",
       "host": "37.187.144.40",
       "gamePort": 3990,
@@ -825,7 +833,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292785470311451",
+      "id": "steam-90292865946835995",
       "name": "Official Origins Mod #LFS Crazy Horse(1.8.3/125548) Hosted @ La",
       "host": "37.187.144.40",
       "gamePort": 4201,
@@ -833,7 +841,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292794271865883",
+      "id": "steam-90292872443922459",
       "name": "Official Origins Mod #LFS Moscow Survivor Server 18\u002B(1.8.3/1255",
       "host": "37.187.144.40",
       "gamePort": 4412,
@@ -841,7 +849,15 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292794612404251",
+      "id": "steam-90292872447520795",
+      "name": "Official Origins Mod #LFS End of dayz(1.8.3/125548) Hosted @ La",
+      "host": "37.187.144.40",
+      "gamePort": 4834,
+      "queryPort": 4835,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-90292872748869659",
       "name": "Official Origins Mod #LFS [PVE] Kush Origins(1.8.3/125548) Host",
       "host": "37.187.144.40",
       "gamePort": 5045,
@@ -849,7 +865,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292783704733723",
+      "id": "steam-90292861631114267",
       "name": "Official Origins Mod #LFS DayZ Origins Salami(1.8.3/125548) Hos",
       "host": "37.187.144.40",
       "gamePort": 5467,
@@ -857,7 +873,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292785681470491",
+      "id": "steam-90292849062319131",
       "name": "Official Origins Mod #LFS FR Only | Last Community PVE | Admin",
       "host": "37.187.144.40",
       "gamePort": 5678,
@@ -865,7 +881,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292794088212507",
+      "id": "steam-90292872255216667",
       "name": "Official Origins Mod #LFS Zombie Comedy Club - HC server PVP/PV",
       "host": "37.187.144.40",
       "gamePort": 5889,
@@ -881,7 +897,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292794271864859",
+      "id": "steam-90292872443972635",
       "name": "Official Origins Mod #LFS [Ger] Zombieland | Skills: unlocked |",
       "host": "37.187.144.40",
       "gamePort": 6522,
@@ -889,7 +905,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292789269060635",
+      "id": "steam-90292868552748059",
       "name": "Official Origins Mod #LFS EZChillPVE(1.8.3/125548) Hosted @ Lag",
       "host": "37.187.144.40",
       "gamePort": 6733,
@@ -897,7 +913,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292794271854619",
+      "id": "steam-90292872443913243",
       "name": "Official Origins Mod #LFS German Crazy BoYz(1.8.3/125548) Hoste",
       "host": "37.187.144.40",
       "gamePort": 7155,
@@ -905,7 +921,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292793145379867",
+      "id": "steam-90292871568404507",
       "name": "Official Origins Mod #LFS [SAW] Clan PVE Server (Whitelist | No",
       "host": "37.187.144.40",
       "gamePort": 7577,
@@ -913,7 +929,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292787858999323",
+      "id": "steam-90292867660431387",
       "name": "Official Origins Mod #LFS Ostfriesland(1.8.3/125548) Hosted @ L",
       "host": "37.187.144.40",
       "gamePort": 7788,
@@ -921,7 +937,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292792003192859",
+      "id": "steam-90292870478818331",
       "name": "Official Origins Mod #LFS Wuestenfuechse PVE(1.8.3/125548) Host",
       "host": "37.187.144.40",
       "gamePort": 8843,
@@ -929,7 +945,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292784035368987",
+      "id": "steam-90292862360188955",
       "name": "Official Origins Mod #LFS DE30\u002B/PVE/OLD-German-Zocker/Sprache-d",
       "host": "37.187.144.40",
       "gamePort": 10953,
@@ -937,7 +953,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292782021701642",
+      "id": "steam-90292860284530698",
       "name": "TheLastRefugium|PVE|Survival|Taviana|discord.gg/3AZKqJB",
       "host": "37.187.78.103",
       "gamePort": 1102,
@@ -945,7 +961,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292787959739402",
+      "id": "steam-90292867791183882",
       "name": "TheLastRefugium|PVE|Survival|Napf|discord.gg/3AZKqJB",
       "host": "37.187.78.103",
       "gamePort": 3302,
@@ -953,7 +969,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292785377054730",
+      "id": "steam-90292865953171466",
       "name": "TheLastRefugium|PVE|Survival|Lingor|discord.gg/3AZKqJB",
       "host": "37.187.78.103",
       "gamePort": 4402,
@@ -961,7 +977,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292791817040906",
+      "id": "steam-90292870383694858",
       "name": "TheLastRefugium|PVE|Survival|Namalsk|discord.gg/3AZKqJB",
       "host": "37.187.78.103",
       "gamePort": 5502,
@@ -969,7 +985,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292794231432202",
+      "id": "steam-90292872418350090",
       "name": "TheLastRefugium|PVE|Survival|Takistan|discord.gg/3AZKqJB",
       "host": "37.187.78.103",
       "gamePort": 6602,
@@ -977,7 +993,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292783639521290",
+      "id": "steam-90292861505556490",
       "name": "TheLastRefugium|PVE|Survival|Chernarus|discord.gg/3AZKqJB",
       "host": "37.187.78.103",
       "gamePort": 7702,
@@ -985,7 +1001,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292769384323092",
+      "id": "steam-90292845504698388",
       "name": "*[RU] - Wasteland Utes - WS.ARMA.SU",
       "host": "37.230.137.174",
       "gamePort": 2502,
@@ -993,7 +1009,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292783554713621",
+      "id": "steam-90292861423174677",
       "name": "[GER][PVE]Unsere Zockerbude Chernarus Epoch",
       "host": "45.138.48.55",
       "gamePort": 2314,
@@ -1001,7 +1017,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292787505134617",
+      "id": "steam-90292867469234201",
       "name": "Killing-Z-Mil_OverPoch-PVE",
       "host": "45.248.145.14",
       "gamePort": 2302,
@@ -1009,7 +1025,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292792126664729",
+      "id": "steam-90292870589739033",
       "name": "Killing-Z Militarized Chernarus-PVP/PVE",
       "host": "45.248.145.14",
       "gamePort": 2402,
@@ -1025,7 +1041,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292791872337925",
+      "id": "steam-90292870493485061",
       "name": "Origins Classic | PVP | discord.gg/rzyt4tQjAR | 1.7.9.5 VIBE |",
       "host": "45.93.200.132",
       "gamePort": 2302,
@@ -1033,7 +1049,15 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292779681291265",
+      "id": "steam-90292872481832978",
+      "name": "DayZ Epoch Napf Server (1.0.7.1/144629)",
+      "host": "46.85.112.4",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-90292858514095105",
       "name": "Pridit\u0027s Domination Takistan | dsc.gg/pridit",
       "host": "49.12.120.97",
       "gamePort": 2302,
@@ -1041,7 +1065,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292785426846720",
+      "id": "steam-90292865959036928",
       "name": "Hajens Dayz Epoch Origins Tavi Server",
       "host": "5.226.141.78",
       "gamePort": 2305,
@@ -1049,7 +1073,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292787766400007",
+      "id": "steam-90292872531200007",
       "name": "ExDecay Epoch 4 Man Group",
       "host": "5.226.141.85",
       "gamePort": 2303,
@@ -1065,7 +1089,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292769660595203",
+      "id": "steam-90292847633244163",
       "name": "Slow Walking Zombies DayZ Epoch Chernarus (Private Server) (1.0",
       "host": "5.70.170.14",
       "gamePort": 2302,
@@ -1073,7 +1097,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292769660449795",
+      "id": "steam-90292847633208323",
       "name": "Slow Walking Zombies DayZ Epoch Lingor Server (1.0.6.1/144629)",
       "host": "5.70.170.14",
       "gamePort": 2402,
@@ -1081,7 +1105,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292769660651523",
+      "id": "steam-90292847633311747",
       "name": "Slow Walking Zombies DayZ Epoch Taviana Server (1.0.6.1/144629)",
       "host": "5.70.170.14",
       "gamePort": 2502,
@@ -1089,7 +1113,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292769660441603",
+      "id": "steam-90292847633217539",
       "name": "Slow Walking Zombies DayZ Epoch Namalsk Server (1.0.6.1/144629)",
       "host": "5.70.170.14",
       "gamePort": 2602,
@@ -1097,7 +1121,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292769660460035",
+      "id": "steam-90292847633239043",
       "name": "Slow Walking Zombies DayZ Epoch Panthera Server (1.0.6.1/144629",
       "host": "5.70.170.14",
       "gamePort": 2702,
@@ -1105,7 +1129,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292769660403715",
+      "id": "steam-90292847633227779",
       "name": "Slow Walking Zombies DayZ Overpoch Chernarus Server (1.0.6.1/14",
       "host": "5.70.170.14",
       "gamePort": 2802,
@@ -1113,7 +1137,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292769660424195",
+      "id": "steam-90292847633095683",
       "name": "DayZ Origins - Private Server (v1.7.1\u002B1785miniClient/Build 1446",
       "host": "5.70.170.14",
       "gamePort": 2902,
@@ -1121,7 +1145,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292785760176132",
+      "id": "steam-90292866235453444",
       "name": "Undead Woods: Legacy DayZ Epoch 1.0.6.2 Roleplay PVP Italia",
       "host": "5.83.165.56",
       "gamePort": 31000,
@@ -1129,7 +1153,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292766131457055",
+      "id": "steam-90292840155266079",
       "name": "nitrado.net gameserver",
       "host": "5.83.170.189",
       "gamePort": 11600,
@@ -1137,7 +1161,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292794185883649",
+      "id": "steam-90292872352100353",
       "name": "[PENNY-DAYZ] Convoy\u0026KotH EU\u0026German PVP",
       "host": "5.9.19.60",
       "gamePort": 2302,
@@ -1153,7 +1177,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292774259128335",
+      "id": "steam-90292849046490127",
       "name": "Kays Epoch Powered by GamingDeluxe.co.uk",
       "host": "51.195.140.241",
       "gamePort": 2302,
@@ -1161,7 +1185,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292785416581136",
+      "id": "steam-90292865917813776",
       "name": "Turbos Hideout",
       "host": "51.195.190.147",
       "gamePort": 2302,
@@ -1169,7 +1193,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292787762205714",
+      "id": "steam-90292867599575058",
       "name": "Noob Friendly PVE - Coins - Mission - Auto Refuel - Heavily Cus",
       "host": "51.195.231.204",
       "gamePort": 2302,
@@ -1177,7 +1201,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292772938255371",
+      "id": "steam-90292843288569867",
       "name": "TooTall\u0027s Server",
       "host": "51.222.105.75",
       "gamePort": 63302,
@@ -1185,7 +1209,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292785366512669",
+      "id": "steam-90292865785377821",
       "name": "Professionals Playground|Epoch|LowMil|StartKit|PvP|Custom(1.0.7",
       "host": "51.81.115.195",
       "gamePort": 2302,
@@ -1193,7 +1217,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292785366513693",
+      "id": "steam-90292865785374749",
       "name": "Professional\u0027s Playground Test4All",
       "host": "51.81.115.195",
       "gamePort": 2352,
@@ -1201,7 +1225,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292776558490628",
+      "id": "steam-90292856243333124",
       "name": "The Last Frontier - Frost Survival PVE Epoch New Beginning",
       "host": "51.81.90.140",
       "gamePort": 2302,
@@ -1209,7 +1233,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292776558501892",
+      "id": "steam-90292856243331076",
       "name": "TLF:Namalsk Crysis|HC|Survival|Toxic Zones|Patrols|[PVE]",
       "host": "51.81.90.140",
       "gamePort": 2402,
@@ -1217,7 +1241,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292775394771983",
+      "id": "steam-90292852949843983",
       "name": "Taviheroes PvE|DB-Economy|SmartAI|Survival|Mili",
       "host": "51.89.145.67",
       "gamePort": 2302,
@@ -1225,7 +1249,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292791719949327",
+      "id": "steam-90292870362655759",
       "name": "[Genesis]Epoch|WIPED 1-6|HC|VG|StartKit|SemiMili|Missions|PVP",
       "host": "51.89.93.157",
       "gamePort": 2302,
@@ -1233,7 +1257,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292776457230365",
+      "id": "steam-90292856507790365",
       "name": "The_Family, Tasmania, epoch 1071, pve, AI",
       "host": "54.36.224.200",
       "gamePort": 2902,
@@ -1241,7 +1265,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292787855491084",
+      "id": "steam-90292867691390988",
       "name": "Stomping Grounds PVE~Militarized/Custom Everything/AI Patrols/H",
       "host": "63.251.42.82",
       "gamePort": 2302,
@@ -1249,7 +1273,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292785416280080",
+      "id": "steam-90292865917182992",
       "name": "Beatniks |PvE| Because Easy is Boring.",
       "host": "64.20.41.82",
       "gamePort": 2305,
@@ -1257,7 +1281,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292783594951693",
+      "id": "steam-90292861404323853",
       "name": "Pasta\u0027s Nostalgia - By Pingperfect.com",
       "host": "64.31.28.154",
       "gamePort": 2302,
@@ -1265,7 +1289,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292794240566281",
+      "id": "steam-90292872422914057",
       "name": "Welcome to Sahrani",
       "host": "64.31.29.251",
       "gamePort": 2315,
@@ -1273,7 +1297,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292785591780362",
+      "id": "steam-90292866148280330",
       "name": "-ISG- Chernarus 1.0.7\u002B PvE|AI|Missions|Custom",
       "host": "64.31.43.235",
       "gamePort": 2302,
@@ -1297,7 +1321,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292783705912347",
+      "id": "steam-90292861632480283",
       "name": "DayZ Epoch Napf|DZAI|PVE (1.0.7.1/144629)",
       "host": "74.83.231.55",
       "gamePort": 2302,
@@ -1305,17 +1329,17 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292794166450182",
-      "name": "Dead Horizon Epoch",
-      "host": "79.140.181.7",
+      "id": "steam-90292871837526036",
+      "name": "Helix \u0432 DESKTOP-AFILPDG",
+      "host": "79.105.60.9",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
     },
     {
-      "id": "steam-90292794654792724",
-      "name": "Epoch Chernarus 1.0.8 Test",
-      "host": "79.213.171.33",
+      "id": "steam-90292872238457862",
+      "name": "Dead Horizon Epoch",
+      "host": "79.140.181.7",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -1329,7 +1353,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292788484287519",
+      "id": "steam-90292865435445279",
       "name": "*[RUS]* GoldKey Epoch Chernorus #1 NO PVP(PVE) \u003E\u003E 3axogu! \u003C\u003C",
       "host": "82.202.197.47",
       "gamePort": 1111,
@@ -1337,7 +1361,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292790998988831",
+      "id": "steam-90292869501959199",
       "name": "*[RUS]* GoldKey Epoch Napf #1 NO PVP(PVE) \u003E\u003E 3axogu! \u003C\u003C",
       "host": "82.202.197.47",
       "gamePort": 6666,
@@ -1345,7 +1369,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292793408113695",
+      "id": "steam-90292870372550687",
       "name": "*[RUS]* GoldKey Epoch-Origins NO PVP(PVE) \u003E\u003E 3axogu! \u003C\u003C",
       "host": "82.202.197.47",
       "gamePort": 7777,
@@ -1369,7 +1393,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292794446404633",
+      "id": "steam-90292870875968537",
       "name": "[RU] Mikser Warfare | CTI | TvT | PvE | discord.ru/warfare",
       "host": "83.167.115.59",
       "gamePort": 2302,
@@ -1377,7 +1401,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292791849134105",
+      "id": "steam-90292870585534489",
       "name": "RU Hardcore DayZ Epoch PVE",
       "host": "83.239.111.98",
       "gamePort": 2302,
@@ -1385,7 +1409,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292794097071134",
+      "id": "steam-90292872408038430",
       "name": ".:BaronsBerg Bootcamp:.|PvE\u0026PvP|AI|SlowZ|1.0.7|DayZ:Epoch",
       "host": "83.79.164.132",
       "gamePort": 2302,
@@ -1393,7 +1417,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292794246040606",
+      "id": "steam-90292872408529950",
       "name": ".:BaronsBerg Action:.|PvE\u0026PvP|AI|SlowZ|1.0.7|DayZ:Epoch",
       "host": "83.79.164.132",
       "gamePort": 2322,
@@ -1401,7 +1425,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292794246141982",
+      "id": "steam-90292872408619038",
       "name": ".:BaronsBerg Survival:.|PvE\u0026PvP|AI|UTC\u002B1|1.0.7|DayZ:Epoch",
       "host": "83.79.164.132",
       "gamePort": 2332,
@@ -1409,7 +1433,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292794240854025",
+      "id": "steam-90292872423066633",
       "name": "Remnant Epoch - Taviana - Old School - PvPvE (1.0.7.1/1.7.9.5)",
       "host": "84.80.24.108",
       "gamePort": 2502,
@@ -1433,19 +1457,19 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292794271297563",
+      "id": "steam-90292860696734751",
+      "name": "diplomacyfails",
+      "host": "87.181.196.205",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-90292872258979867",
       "name": "Arma 2: Dayz Epoch - Powered by GamingDeluxe.co.uk",
       "host": "87.98.129.228",
       "gamePort": 2305,
       "queryPort": 2306,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-90292794498038792",
-      "name": "wavekitsoftware",
-      "host": "88.229.195.124",
-      "gamePort": 2302,
-      "queryPort": 2303,
       "requiredMods": []
     },
     {
@@ -1473,7 +1497,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292773876683807",
+      "id": "steam-90292851147610143",
       "name": "~EW~ NSA - EVO Blue",
       "host": "90.255.245.200",
       "gamePort": 2302,
@@ -1489,7 +1513,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292785481116673",
+      "id": "steam-90292865852035073",
       "name": "Ultraxian PVE Panthera Overpoch",
       "host": "91.208.92.121",
       "gamePort": 2402,
@@ -1497,7 +1521,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292794186205185",
+      "id": "steam-90292872352415745",
       "name": "[Ger] Happy days in Sauerland | 1.0.7.1 | PVE | DZAI | WAI |",
       "host": "91.208.92.121",
       "gamePort": 2502,
@@ -1529,7 +1553,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292783595448333",
+      "id": "steam-90292861722800141",
       "name": "Lenny\u0060s Oripoch (PVE) [epoch.bplaced.net]",
       "host": "94.250.209.39",
       "gamePort": 2302,
@@ -1537,7 +1561,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90292769470790685",
+      "id": "steam-90292845814663197",
       "name": "*[RU]-Positive-PvE-evolution",
       "host": "95.165.128.187",
       "gamePort": 2302,
