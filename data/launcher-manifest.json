@@ -1,6 +1,6 @@
 {
-  "sequence": 44,
-  "createdAt": "2026-10-05T11:05:53.0668901+00:00",
+  "sequence": 45,
+  "createdAt": "2026-10-05T17:05:09.4915056+00:00",
   "latestVersion": "1.1.0",
   "links": {
     "github": "https://github.com/DeandlDernai/Epoch-Mod-Launcher-Releases/releases",
@@ -8,6 +8,14 @@
   },
   "win11Fix": null,
   "servers": [
+    {
+      "id": "steam-103-193-80-147-2306",
+      "name": "Pandapuppet Arma 2: EPOCH",
+      "host": "103.193.80.147",
+      "gamePort": 2305,
+      "queryPort": 2306,
+      "requiredMods": []
+    },
     {
       "id": "steam-103-193-80-150-2306",
       "name": "AU | Taviana Nights - Tanks \u0026 Jets | Missions | AI Bandits | In",
@@ -249,6 +257,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-157-180-54-113-2303",
+      "name": "Miksuu\u0027s Warfare | CTI | TvT | PvE | discord.me/warfare",
+      "host": "157.180.54.113",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
       "id": "steam-159-195-46-9-2303",
       "name": "[GER] | in memory of TRC | by Madmax | DayZ Epoch (1.0.7.1/1446",
       "host": "159.195.46.9",
@@ -409,6 +425,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-185-137-235-153-2303",
+      "name": "Military_PVE 78RU GameServer",
+      "host": "185.137.235.153",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
       "id": "steam-185-216-144-121-2303",
       "name": "RSof fun server",
       "host": "185.216.144.121",
@@ -454,6 +478,14 @@
       "host": "188.211.162.139",
       "gamePort": 2302,
       "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-188-240-63-100-2403",
+      "name": "Sula\u0027s 1.0.7.1 PvE Missions , slow Zedz",
+      "host": "188.240.63.100",
+      "gamePort": 2402,
+      "queryPort": 2403,
       "requiredMods": []
     },
     {
@@ -577,6 +609,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-194-50-234-73-2305",
+      "name": "S.W.C Survival Extended Map[Namalsk]",
+      "host": "194.50.234.73",
+      "gamePort": 2304,
+      "queryPort": 2305,
+      "requiredMods": []
+    },
+    {
       "id": "steam-195-93-181-30-2303",
       "name": "CWM Epoch Napf (1.0.5.1/131129)",
       "host": "195.93.181.30",
@@ -588,14 +628,6 @@
       "id": "steam-203-118-135-209-2303",
       "name": "BYES Overpoch| CCG Nostalgia | Mad Scientist | SR25|M110 | Full",
       "host": "203.118.135.209",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-205-209-105-34-2303",
-      "name": "OxP|Epoch|PvE|NoobFriendly|StartKit|Events|Mili|",
-      "host": "205.209.105.34",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -641,6 +673,22 @@
       "requiredMods": []
     },
     {
+      "id": "steam-213-239-197-29-2603",
+      "name": "Resthirn Napf Test",
+      "host": "213.239.197.29",
+      "gamePort": 2602,
+      "queryPort": 2603,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-213-239-197-29-2803",
+      "name": "Resthirn auf Sauerland | PVE | Missions | DZAI",
+      "host": "213.239.197.29",
+      "gamePort": 2802,
+      "queryPort": 2803,
+      "requiredMods": []
+    },
+    {
       "id": "steam-217-182-168-134-2303",
       "name": "Mumin Fighters",
       "host": "217.182.168.134",
@@ -654,6 +702,14 @@
       "host": "23.160.192.72",
       "gamePort": 2302,
       "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-31-43-152-33-2363",
+      "name": "[UA] [A\u002B] Kyiv ArmA 2 [discord.gg/g2vE6tX]",
+      "host": "31.43.152.33",
+      "gamePort": 2362,
+      "queryPort": 2363,
       "requiredMods": []
     },
     {
@@ -961,11 +1017,27 @@
       "requiredMods": []
     },
     {
+      "id": "steam-5-226-141-78-2306",
+      "name": "Hajens Dayz Epoch Origins Tavi Server",
+      "host": "5.226.141.78",
+      "gamePort": 2305,
+      "queryPort": 2306,
+      "requiredMods": []
+    },
+    {
       "id": "steam-5-226-141-85-2304",
       "name": "ExDecay Epoch 4 Man Group",
       "host": "5.226.141.85",
       "gamePort": 2303,
       "queryPort": 2304,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-5-29-250-96-2303",
+      "name": "maxnig",
+      "host": "5.29.250.96",
+      "gamePort": 2302,
+      "queryPort": 2303,
       "requiredMods": []
     },
     {
@@ -1044,6 +1116,14 @@
       "id": "steam-51-195-140-241-2303",
       "name": "Kays Epoch Powered by GamingDeluxe.co.uk",
       "host": "51.195.140.241",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-51-195-190-147-2303",
+      "name": "Turbos Hideout",
+      "host": "51.195.190.147",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -1169,6 +1249,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-74-140-99-213-2313",
+      "name": "Private DayZ Mod Server",
+      "host": "74.140.99.213",
+      "gamePort": 2312,
+      "queryPort": 2313,
+      "requiredMods": []
+    },
+    {
       "id": "steam-74-63-236-187-2303",
       "name": "Arma 2: Dayz Epoch - Powered by GTXGaming.co.uk",
       "host": "74.63.236.187",
@@ -1185,19 +1273,19 @@
       "requiredMods": []
     },
     {
-      "id": "steam-79-140-181-7-2303",
-      "name": "Dead Horizon Epoch",
-      "host": "79.140.181.7",
+      "id": "steam-78-147-42-123-2303",
+      "name": "Minihattan",
+      "host": "78.147.42.123",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
     },
     {
-      "id": "steam-79-238-42-123-2321",
-      "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
-      "host": "79.238.42.123",
-      "gamePort": 2320,
-      "queryPort": 2321,
+      "id": "steam-79-140-181-7-2303",
+      "name": "Dead Horizon Epoch",
+      "host": "79.140.181.7",
+      "gamePort": 2302,
+      "queryPort": 2303,
       "requiredMods": []
     },
     {
@@ -1260,6 +1348,14 @@
       "id": "steam-82-67-171-109-2303",
       "name": "[FR]THE OLDMEN BACK CHERNARUS (1.0.7.1/144629)",
       "host": "82.67.171.109",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-83-167-115-59-2303",
+      "name": "[RU] Mikser Warfare | CTI | TvT | PvE | discord.ru/warfare",
+      "host": "83.167.115.59",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -1385,6 +1481,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-91-208-92-121-2403",
+      "name": "Ultraxian PVE Panthera Overpoch",
+      "host": "91.208.92.121",
+      "gamePort": 2402,
+      "queryPort": 2403,
+      "requiredMods": []
+    },
+    {
       "id": "steam-91-208-92-121-2503",
       "name": "[Ger] Happy days in Sauerland | 1.0.7.1 | PVE | DZAI | WAI |",
       "host": "91.208.92.121",
@@ -1398,6 +1502,14 @@
       "host": "91.62.105.246",
       "gamePort": 2302,
       "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-92-53-90-39-2403",
+      "name": "----------------ARMA2.ACADEMY [PVE]--------------",
+      "host": "92.53.90.39",
+      "gamePort": 2402,
+      "queryPort": 2403,
       "requiredMods": []
     },
     {
@@ -1425,43 +1537,27 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90294056794348555",
-      "name": "Pandapuppet Arma 2: EPOCH",
-      "host": "103.193.80.147",
-      "gamePort": 2305,
-      "queryPort": 2306,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-90293969519660039",
-      "name": "Miksuu\u0027s Warfare | CTI | TvT | PvE | discord.me/warfare",
-      "host": "157.180.54.113",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-90294059937252371",
-      "name": "Military_PVE 78RU GameServer",
-      "host": "185.137.235.153",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-90294059837841412",
-      "name": "RU 178 Epoch Elite Cherno [Missions|Bank|Spawn Select] (1.0.7.1",
-      "host": "185.137.235.74",
-      "gamePort": 2602,
-      "queryPort": 2603,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-90294056733753345",
-      "name": "Sula\u0027s 1.0.7.1 PvE Missions , slow Zedz",
-      "host": "188.240.63.100",
+      "id": "steam-95-31-39-222-2403",
+      "name": "*Positive missions**St.y*project[TS:\u0027stalnye.opik.net\u0027]",
+      "host": "95.31.39.222",
       "gamePort": 2402,
       "queryPort": 2403,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-205-209-105-34-2303",
+      "name": "OxP|Epoch|PvE|NoobFriendly|StartKit|Events|Mili|",
+      "host": "205.209.105.34",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-79-238-42-123-2321",
+      "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
+      "host": "79.238.42.123",
+      "gamePort": 2320,
+      "queryPort": 2321,
       "requiredMods": []
     },
     {
@@ -1473,99 +1569,11 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90294056743608345",
-      "name": "S.W.C Survival Extended Map[Namalsk]",
-      "host": "194.50.234.73",
-      "gamePort": 2304,
-      "queryPort": 2305,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-90294068488204305",
-      "name": "Resthirn Napf Test",
-      "host": "213.239.197.29",
-      "gamePort": 2602,
-      "queryPort": 2603,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-90294056758666257",
-      "name": "Resthirn auf Sauerland | PVE | Missions | DZAI",
-      "host": "213.239.197.29",
-      "gamePort": 2802,
-      "queryPort": 2803,
-      "requiredMods": []
-    },
-    {
       "id": "steam-90294056733220865",
       "name": "Challenger Napf PVE Only (1.0.7.1)",
       "host": "23.106.58.144",
       "gamePort": 2302,
       "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-90294051800803333",
-      "name": "[UA] [A\u002B] Kyiv ArmA 2 [discord.gg/g2vE6tX]",
-      "host": "31.43.152.33",
-      "gamePort": 2362,
-      "queryPort": 2363,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-90294068792926216",
-      "name": "Origins Mod 1.8.3 - Development",
-      "host": "45.156.84.242",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-90294056753343488",
-      "name": "Hajens Dayz Epoch Origins Tavi Server",
-      "host": "5.226.141.78",
-      "gamePort": 2305,
-      "queryPort": 2306,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-90294056668454928",
-      "name": "Turbos Hideout",
-      "host": "51.195.190.147",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-90292926169313285",
-      "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
-      "host": "79.248.154.16",
-      "gamePort": 2320,
-      "queryPort": 2321,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-90294042042830873",
-      "name": "[RU] Mikser Warfare | CTI | TvT | PvE | discord.ru/warfare",
-      "host": "83.167.115.59",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-90294056733754369",
-      "name": "Ultraxian PVE Panthera Overpoch",
-      "host": "91.208.92.121",
-      "gamePort": 2402,
-      "queryPort": 2403,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-90294021728251908",
-      "name": "----------------ARMA2.ACADEMY [PVE]--------------",
-      "host": "92.53.90.39",
-      "gamePort": 2402,
-      "queryPort": 2403,
       "requiredMods": []
     },
     {
