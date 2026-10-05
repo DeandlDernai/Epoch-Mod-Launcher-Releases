@@ -1,6 +1,6 @@
 {
-  "sequence": 45,
-  "createdAt": "2026-10-05T17:05:09.4915056+00:00",
+  "sequence": 46,
+  "createdAt": "2026-10-05T19:37:37.8973893+00:00",
   "latestVersion": "1.1.0",
   "links": {
     "github": "https://github.com/DeandlDernai/Epoch-Mod-Launcher-Releases/releases",
@@ -34,7 +34,7 @@
     },
     {
       "id": "steam-104-246-99-167-2303",
-      "name": "PatientZero Local Test DEV Server #1",
+      "name": "PatientZero Official Mod TEST #1 - Join at: pzmod.com |NEW|HC|P",
       "host": "104.246.99.167",
       "gamePort": 2302,
       "queryPort": 2303,
@@ -246,6 +246,14 @@
       "host": "15.204.53.162",
       "gamePort": 3302,
       "queryPort": 3303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-152-89-133-147-2303",
+      "name": "DayZ Epoch",
+      "host": "152.89.133.147",
+      "gamePort": 2302,
+      "queryPort": 2303,
       "requiredMods": []
     },
     {
@@ -609,6 +617,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-193-34-69-7-2304",
+      "name": "iNvU | Low-Mil |PVP| Advanced AI | Adaptive Missions | Bunkers",
+      "host": "193.34.69.7",
+      "gamePort": 2303,
+      "queryPort": 2304,
+      "requiredMods": []
+    },
+    {
       "id": "steam-194-50-234-73-2305",
       "name": "S.W.C Survival Extended Map[Namalsk]",
       "host": "194.50.234.73",
@@ -628,6 +644,14 @@
       "id": "steam-203-118-135-209-2303",
       "name": "BYES Overpoch| CCG Nostalgia | Mad Scientist | SR25|M110 | Full",
       "host": "203.118.135.209",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-205-209-105-34-2303",
+      "name": "OxP|Epoch|PvE|NoobFriendly|StartKit|Events|Mili|",
+      "host": "205.209.105.34",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -681,6 +705,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-213-239-197-29-2703",
+      "name": "Resthirn Sauerland Test",
+      "host": "213.239.197.29",
+      "gamePort": 2702,
+      "queryPort": 2703,
+      "requiredMods": []
+    },
+    {
       "id": "steam-213-239-197-29-2803",
       "name": "Resthirn auf Sauerland | PVE | Missions | DZAI",
       "host": "213.239.197.29",
@@ -692,6 +724,14 @@
       "id": "steam-217-182-168-134-2303",
       "name": "Mumin Fighters",
       "host": "217.182.168.134",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-23-106-58-144-2303",
+      "name": "Challenger Napf PVE Only (1.0.7.1)",
+      "host": "23.106.58.144",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -1034,7 +1074,7 @@
     },
     {
       "id": "steam-5-29-250-96-2303",
-      "name": "maxnig",
+      "name": "nig",
       "host": "5.29.250.96",
       "gamePort": 2302,
       "queryPort": 2303,
@@ -1201,6 +1241,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-62-101-165-93-2303",
+      "name": "Minihattan",
+      "host": "62.101.165.93",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
       "id": "steam-63-251-42-82-2303",
       "name": "Stomping Grounds PVE~Militarized/Custom Everything/AI Patrols/H",
       "host": "63.251.42.82",
@@ -1241,19 +1289,19 @@
       "requiredMods": []
     },
     {
+      "id": "steam-65-109-95-44-2203",
+      "name": "[TEST] RESTPLAY #2 Napf PvP Missions Patrols Sector",
+      "host": "65.109.95.44",
+      "gamePort": 2202,
+      "queryPort": 2203,
+      "requiredMods": []
+    },
+    {
       "id": "steam-68-235-60-3-2303",
       "name": "Herbonorot",
       "host": "68.235.60.3",
       "gamePort": 2302,
       "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-74-140-99-213-2313",
-      "name": "Private DayZ Mod Server",
-      "host": "74.140.99.213",
-      "gamePort": 2312,
-      "queryPort": 2313,
       "requiredMods": []
     },
     {
@@ -1273,19 +1321,19 @@
       "requiredMods": []
     },
     {
-      "id": "steam-78-147-42-123-2303",
-      "name": "Minihattan",
-      "host": "78.147.42.123",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
       "id": "steam-79-140-181-7-2303",
       "name": "Dead Horizon Epoch",
       "host": "79.140.181.7",
       "gamePort": 2302,
       "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-79-238-42-123-2321",
+      "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
+      "host": "79.238.42.123",
+      "gamePort": 2320,
+      "queryPort": 2321,
       "requiredMods": []
     },
     {
@@ -1449,6 +1497,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-89-207-223-114-2303",
+      "name": "OriginsMod 1.8.3 Rebuild Custom Server Original Client",
+      "host": "89.207.223.114",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
       "id": "steam-89-34-97-6-2306",
       "name": "CHA SERVER",
       "host": "89.34.97.6",
@@ -1545,39 +1601,23 @@
       "requiredMods": []
     },
     {
-      "id": "steam-205-209-105-34-2303",
-      "name": "OxP|Epoch|PvE|NoobFriendly|StartKit|Events|Mili|",
-      "host": "205.209.105.34",
+      "id": "steam-74-140-99-213-2313",
+      "name": "Private DayZ Mod Server",
+      "host": "74.140.99.213",
+      "gamePort": 2312,
+      "queryPort": 2313,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-78-147-42-123-2303",
+      "name": "Minihattan",
+      "host": "78.147.42.123",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
     },
     {
-      "id": "steam-79-238-42-123-2321",
-      "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
-      "host": "79.238.42.123",
-      "gamePort": 2320,
-      "queryPort": 2321,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-90294056733824001",
-      "name": "iNvU | Low-Mil |PVP| Advanced AI | Adaptive Missions | Bunkers",
-      "host": "193.34.69.7",
-      "gamePort": 2303,
-      "queryPort": 2304,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-90294056733220865",
-      "name": "Challenger Napf PVE Only (1.0.7.1)",
-      "host": "23.106.58.144",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-90293288047074312",
+      "id": "steam-54-39-99-140-2303",
       "name": "PatientZero Official Mod TEST #1 - Join at: pzmod.com |NEW|HC|P",
       "host": "54.39.99.140",
       "gamePort": 2302,
@@ -1585,7 +1625,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90293288046883848",
+      "id": "steam-54-39-99-140-2313",
       "name": "PatientZero Test Server #2",
       "host": "54.39.99.140",
       "gamePort": 2312,
@@ -1593,7 +1633,7 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90293288047031304",
+      "id": "steam-54-39-99-140-2323",
       "name": "PatientZero Test Server #3",
       "host": "54.39.99.140",
       "gamePort": 2322,
@@ -1601,27 +1641,11 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90293288046811144",
+      "id": "steam-54-39-99-140-2383",
       "name": "PatientZero Server #TEST",
       "host": "54.39.99.140",
       "gamePort": 2382,
       "queryPort": 2383,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-90292079126671381",
-      "name": "[GER][PVE]Unsere Zockerbude Chernarus Epoch",
-      "host": "45.138.48.55",
-      "gamePort": 2350,
-      "queryPort": 2315,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-90292026069531669",
-      "name": "[GER][PVE]Unsere Zockerbude Chernarus Epoch",
-      "host": "45.138.48.55",
-      "gamePort": 2434,
-      "queryPort": 2315,
       "requiredMods": []
     }
   ],
