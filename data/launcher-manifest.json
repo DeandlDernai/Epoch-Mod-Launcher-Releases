@@ -1,6 +1,6 @@
 {
-  "sequence": 46,
-  "createdAt": "2026-10-05T19:37:37.8973893+00:00",
+  "sequence": 47,
+  "createdAt": "2026-10-06T14:30:58.2547791+00:00",
   "latestVersion": "1.1.0",
   "links": {
     "github": "https://github.com/DeandlDernai/Epoch-Mod-Launcher-Releases/releases",
@@ -34,7 +34,7 @@
     },
     {
       "id": "steam-104-246-99-167-2303",
-      "name": "PatientZero Official Mod TEST #1 - Join at: pzmod.com |NEW|HC|P",
+      "name": "PatientZero Local Test DEV Server #1",
       "host": "104.246.99.167",
       "gamePort": 2302,
       "queryPort": 2303,
@@ -249,14 +249,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-152-89-133-147-2303",
-      "name": "DayZ Epoch",
-      "host": "152.89.133.147",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
       "id": "steam-156-155-151-236-2303",
       "name": "OssewaSeMoer DayZ Epoch Chernarus",
       "host": "156.155.151.236",
@@ -393,6 +385,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-176-99-158-155-2303",
+      "name": "TEST SERVER",
+      "host": "176.99.158.155",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
       "id": "steam-178-140-195-120-2303",
       "name": "[PVE] Antysoft EVO RED like TehnikPC NO CHERNO! RQed: A2 \u0026 A2OA",
       "host": "178.140.195.120",
@@ -436,6 +436,14 @@
       "id": "steam-185-137-235-153-2303",
       "name": "Military_PVE 78RU GameServer",
       "host": "185.137.235.153",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-185-147-214-166-2303",
+      "name": "DayZ Epoch Chernarus17 Server (1.0.7.1/144629)",
+      "host": "185.147.214.166",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -625,14 +633,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-194-50-234-73-2305",
-      "name": "S.W.C Survival Extended Map[Namalsk]",
-      "host": "194.50.234.73",
-      "gamePort": 2304,
-      "queryPort": 2305,
-      "requiredMods": []
-    },
-    {
       "id": "steam-195-93-181-30-2303",
       "name": "CWM Epoch Napf (1.0.5.1/131129)",
       "host": "195.93.181.30",
@@ -745,14 +745,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-31-43-152-33-2363",
-      "name": "[UA] [A\u002B] Kyiv ArmA 2 [discord.gg/g2vE6tX]",
-      "host": "31.43.152.33",
-      "gamePort": 2362,
-      "queryPort": 2363,
-      "requiredMods": []
-    },
-    {
       "id": "steam-37-120-164-54-2801",
       "name": "Brooks Namalsk [PVE] extended A2 \u002B A1",
       "host": "37.120.164.54",
@@ -854,14 +846,6 @@
       "host": "37.187.144.40",
       "gamePort": 4834,
       "queryPort": 4835,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-37-187-144-40-5257",
-      "name": "Official Origins Mod #LFS ArcX Gaming(1.8.3/125548) Hosted @ La",
-      "host": "37.187.144.40",
-      "gamePort": 5256,
-      "queryPort": 5257,
       "requiredMods": []
     },
     {
@@ -1073,14 +1057,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-5-29-250-96-2303",
-      "name": "nig",
-      "host": "5.29.250.96",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
       "id": "steam-5-70-170-14-2303",
       "name": "Slow Walking Zombies DayZ Epoch Chernarus (Private Server) (1.0",
       "host": "5.70.170.14",
@@ -1177,14 +1153,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-51-222-105-75-3803",
-      "name": "---------------------------HELLS HERE--------------------------",
-      "host": "51.222.105.75",
-      "gamePort": 3802,
-      "queryPort": 3803,
-      "requiredMods": []
-    },
-    {
       "id": "steam-51-81-115-195-2303",
       "name": "Professionals Playground|Epoch|LowMil|StartKit|PvP|Custom(1.0.7",
       "host": "51.81.115.195",
@@ -1241,14 +1209,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-62-101-165-93-2303",
-      "name": "Minihattan",
-      "host": "62.101.165.93",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
       "id": "steam-63-251-42-82-2303",
       "name": "Stomping Grounds PVE~Militarized/Custom Everything/AI Patrols/H",
       "host": "63.251.42.82",
@@ -1289,14 +1249,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-65-109-95-44-2203",
-      "name": "[TEST] RESTPLAY #2 Napf PvP Missions Patrols Sector",
-      "host": "65.109.95.44",
-      "gamePort": 2202,
-      "queryPort": 2203,
-      "requiredMods": []
-    },
-    {
       "id": "steam-68-235-60-3-2303",
       "name": "Herbonorot",
       "host": "68.235.60.3",
@@ -1329,9 +1281,9 @@
       "requiredMods": []
     },
     {
-      "id": "steam-79-238-42-123-2321",
+      "id": "steam-79-248-152-203-2321",
       "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
-      "host": "79.238.42.123",
+      "host": "79.248.152.203",
       "gamePort": 2320,
       "queryPort": 2321,
       "requiredMods": []
@@ -1401,14 +1353,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-83-167-115-59-2303",
-      "name": "[RU] Mikser Warfare | CTI | TvT | PvE | discord.ru/warfare",
-      "host": "83.167.115.59",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
       "id": "steam-83-239-111-98-2303",
       "name": "RU Hardcore DayZ Epoch PVE",
       "host": "83.239.111.98",
@@ -1473,14 +1417,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-87-98-129-228-2306",
-      "name": "Arma 2: Dayz Epoch - Powered by GamingDeluxe.co.uk",
-      "host": "87.98.129.228",
-      "gamePort": 2305,
-      "queryPort": 2306,
-      "requiredMods": []
-    },
-    {
       "id": "steam-89-201-7-209-2303",
       "name": "dSmile LV 2 [1.9.0|REGULAR|VANILLA|LATVIJA [GMT-2] - hosted by",
       "host": "89.201.7.209",
@@ -1494,14 +1430,6 @@
       "host": "89.201.7.209",
       "gamePort": 2326,
       "queryPort": 2327,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-89-207-223-114-2303",
-      "name": "OriginsMod 1.8.3 Rebuild Custom Server Original Client",
-      "host": "89.207.223.114",
-      "gamePort": 2302,
-      "queryPort": 2303,
       "requiredMods": []
     },
     {
@@ -1580,6 +1508,102 @@
       "id": "steam-94-250-209-39-2303",
       "name": "Lenny\u0060s Oripoch (PVE) [epoch.bplaced.net]",
       "host": "94.250.209.39",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-152-89-133-147-2303",
+      "name": "DayZ Epoch",
+      "host": "152.89.133.147",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-194-50-234-73-2305",
+      "name": "S.W.C Survival Extended Map[Namalsk]",
+      "host": "194.50.234.73",
+      "gamePort": 2304,
+      "queryPort": 2305,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-31-43-152-33-2363",
+      "name": "[UA] [A\u002B] Kyiv ArmA 2 [discord.gg/g2vE6tX]",
+      "host": "31.43.152.33",
+      "gamePort": 2362,
+      "queryPort": 2363,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-37-187-144-40-5257",
+      "name": "Official Origins Mod #LFS ArcX Gaming(1.8.3/125548) Hosted @ La",
+      "host": "37.187.144.40",
+      "gamePort": 5256,
+      "queryPort": 5257,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-5-29-250-96-2303",
+      "name": "nig",
+      "host": "5.29.250.96",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-51-222-105-75-3803",
+      "name": "---------------------------HELLS HERE--------------------------",
+      "host": "51.222.105.75",
+      "gamePort": 3802,
+      "queryPort": 3803,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-62-101-165-93-2303",
+      "name": "Minihattan",
+      "host": "62.101.165.93",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-65-109-95-44-2203",
+      "name": "[TEST] RESTPLAY #2 Napf PvP Missions Patrols Sector",
+      "host": "65.109.95.44",
+      "gamePort": 2202,
+      "queryPort": 2203,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-79-238-42-123-2321",
+      "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
+      "host": "79.238.42.123",
+      "gamePort": 2320,
+      "queryPort": 2321,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-83-167-115-59-2303",
+      "name": "[RU] Mikser Warfare | CTI | TvT | PvE | discord.ru/warfare",
+      "host": "83.167.115.59",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-87-98-129-228-2306",
+      "name": "Arma 2: Dayz Epoch - Powered by GamingDeluxe.co.uk",
+      "host": "87.98.129.228",
+      "gamePort": 2305,
+      "queryPort": 2306,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-89-207-223-114-2303",
+      "name": "OriginsMod 1.8.3 Rebuild Custom Server Original Client",
+      "host": "89.207.223.114",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
