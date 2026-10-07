@@ -1,6 +1,6 @@
 {
-  "sequence": 48,
-  "createdAt": "2026-10-07T14:30:34.9661286+00:00",
+  "sequence": 49,
+  "createdAt": "2026-10-07T14:31:07.8035812+00:00",
   "latestVersion": "1.1.0",
   "links": {
     "github": "https://github.com/DeandlDernai/Epoch-Mod-Launcher-Releases/releases",
@@ -166,14 +166,6 @@
       "host": "142.68.219.128",
       "gamePort": 2306,
       "queryPort": 2307,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-144-217-0-248-2303",
-      "name": "[Dawn Patrol] Chernarus|BEST EPOCH|BASE RANSOMS|STARTER KIT|CUS",
-      "host": "144.217.0.248",
-      "gamePort": 2302,
-      "queryPort": 2303,
       "requiredMods": []
     },
     {
@@ -1049,14 +1041,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-5-70-170-14-2303",
-      "name": "Slow Walking Zombies DayZ Epoch Chernarus (Private Server) (1.0",
-      "host": "5.70.170.14",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
       "id": "steam-5-70-170-14-2403",
       "name": "Slow Walking Zombies DayZ Epoch Lingor Server (1.0.6.1/144629)",
       "host": "5.70.170.14",
@@ -1497,14 +1481,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-91-6-177-235-27016",
-      "name": "DayZ - Vanilla Remastered (1.9.1 beta) - hosted by [Reaper]",
-      "host": "91.6.177.235",
-      "gamePort": 2302,
-      "queryPort": 27016,
-      "requiredMods": []
-    },
-    {
       "id": "steam-91-62-105-246-2303",
       "name": "diplomacyfails",
       "host": "91.62.105.246",
@@ -1553,35 +1529,27 @@
       "requiredMods": []
     },
     {
-      "id": "steam-103-193-80-147-2306",
-      "name": "Pandapuppet Arma 2: EPOCH",
-      "host": "103.193.80.147",
-      "gamePort": 2305,
-      "queryPort": 2306,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-120-239-199-25-2303",
-      "name": "PC-Lily Epoch Server PVE/StarterKit/StarterCash/Patrol/Missions",
-      "host": "120.239.199.25",
+      "id": "steam-144-217-0-248-2303",
+      "name": "[Dawn Patrol] Chernarus|BEST EPOCH|BASE RANSOMS|STARTER KIT|CUS",
+      "host": "144.217.0.248",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
     },
     {
-      "id": "steam-37-187-144-40-7156",
-      "name": "Official Origins Mod #LFS German Crazy BoYz(1.8.3/125548) Hoste",
-      "host": "37.187.144.40",
-      "gamePort": 7155,
-      "queryPort": 7156,
+      "id": "steam-5-70-170-14-2303",
+      "name": "Slow Walking Zombies DayZ Epoch Chernarus (Private Server) (1.0",
+      "host": "5.70.170.14",
+      "gamePort": 2302,
+      "queryPort": 2303,
       "requiredMods": []
     },
     {
-      "id": "steam-79-248-152-203-2321",
-      "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
-      "host": "79.248.152.203",
-      "gamePort": 2320,
-      "queryPort": 2321,
+      "id": "steam-91-6-177-235-27016",
+      "name": "DayZ - Vanilla Remastered (1.9.1 beta) - hosted by [Reaper]",
+      "host": "91.6.177.235",
+      "gamePort": 2302,
+      "queryPort": 27016,
       "requiredMods": []
     },
     {
