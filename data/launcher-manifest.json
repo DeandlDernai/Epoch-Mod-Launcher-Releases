@@ -1,6 +1,6 @@
 {
-  "sequence": 50,
-  "createdAt": "2026-10-08T14:30:20.5924625+00:00",
+  "sequence": 51,
+  "createdAt": "2026-10-09T14:30:39.0099594+00:00",
   "latestVersion": "1.1.0",
   "links": {
     "github": "https://github.com/DeandlDernai/Epoch-Mod-Launcher-Releases/releases",
@@ -8,14 +8,6 @@
   },
   "win11Fix": null,
   "servers": [
-    {
-      "id": "steam-103-124-165-175-2303",
-      "name": "Minihattan",
-      "host": "103.124.165.175",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
     {
       "id": "steam-103-193-80-150-2306",
       "name": "AU | Taviana Nights - Tanks \u0026 Jets | Missions | AI Bandits | In",
@@ -34,7 +26,7 @@
     },
     {
       "id": "steam-104-246-99-167-2303",
-      "name": "PatientZero Local Test DEV Server #1",
+      "name": "PatientZero Official Mod TEST #1 - Join at: pzmod.com |NEW|HC|P",
       "host": "104.246.99.167",
       "gamePort": 2302,
       "queryPort": 2303,
@@ -89,9 +81,9 @@
       "requiredMods": []
     },
     {
-      "id": "steam-120-239-199-120-2303",
+      "id": "steam-120-239-199-3-2303",
       "name": "PC-Lily Epoch Server PVE/StarterKit/StarterCash/Patrol/Missions",
-      "host": "120.239.199.120",
+      "host": "120.239.199.3",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -241,6 +233,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-147-189-171-154-2303",
+      "name": "=D!E=Clan Community Server",
+      "host": "147.189.171.154",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
       "id": "steam-15-204-53-162-3303",
       "name": "ManUp Survival | ALPHA SERVER | ePvE | Kit | Cash",
       "host": "15.204.53.162",
@@ -284,14 +284,6 @@
       "id": "steam-159-196-81-147-2303",
       "name": "[AU]|SFPNBN|DayZ Epoch Chernarus [DZAI, WAI, Infinistar] (1.0.7",
       "host": "159.196.81.147",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-159-75-185-53-2303",
-      "name": "[CN][dskxdsl][Qqun:775709473][PVE]DayZ EP 1.0.7 Chernarus",
-      "host": "159.75.185.53",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -505,14 +497,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-188-40-64-51-2103",
-      "name": "(HAS)TEST",
-      "host": "188.40.64.51",
-      "gamePort": 2102,
-      "queryPort": 2103,
-      "requiredMods": []
-    },
-    {
       "id": "steam-188-40-64-51-2303",
       "name": "(HAS)Hard As Steel|PVE|Napf|Overpoch|Militarized|Custom2|1.0.7.",
       "host": "188.40.64.51",
@@ -657,6 +641,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-207-204-248-136-2303",
+      "name": "DayZ Epoch Chernarus17 Server (1.0.7.1/144629)",
+      "host": "207.204.248.136",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
       "id": "steam-207-53-201-99-2313",
       "name": "[JFG]Epoch/Origins|TANKS|AlienRifle|COIN|TELEPORTER|MODDED(1.0.",
       "host": "207.53.201.99",
@@ -694,22 +686,6 @@
       "host": "213.239.197.29",
       "gamePort": 2402,
       "queryPort": 2403,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-213-239-197-29-2603",
-      "name": "Resthirn Napf Test",
-      "host": "213.239.197.29",
-      "gamePort": 2602,
-      "queryPort": 2603,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-213-239-197-29-2703",
-      "name": "Resthirn Sauerland Test",
-      "host": "213.239.197.29",
-      "gamePort": 2702,
-      "queryPort": 2703,
       "requiredMods": []
     },
     {
@@ -1057,14 +1033,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-5-70-170-14-2303",
-      "name": "Slow Walking Zombies DayZ Epoch Chernarus (Private Server) (1.0",
-      "host": "5.70.170.14",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
       "id": "steam-5-70-170-14-2403",
       "name": "Slow Walking Zombies DayZ Epoch Lingor Server (1.0.6.1/144629)",
       "host": "5.70.170.14",
@@ -1265,6 +1233,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-71-255-46-33-2303",
+      "name": "Islamic Brotherhood of Iraq",
+      "host": "71.255.46.33",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
       "id": "steam-74-63-236-187-2303",
       "name": "Arma 2: Dayz Epoch - Powered by GTXGaming.co.uk",
       "host": "74.63.236.187",
@@ -1289,9 +1265,9 @@
       "requiredMods": []
     },
     {
-      "id": "steam-79-238-47-115-2321",
+      "id": "steam-79-248-152-205-2321",
       "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
-      "host": "79.238.47.115",
+      "host": "79.248.152.205",
       "gamePort": 2320,
       "queryPort": 2321,
       "requiredMods": []
@@ -1369,14 +1345,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-83-239-111-98-2303",
-      "name": "RU Hardcore DayZ Epoch PVE",
-      "host": "83.239.111.98",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
       "id": "steam-83-79-164-132-2303",
       "name": ".:BaronsBerg Bootcamp:.|PvE\u0026PvP|AI|SlowZ|1.0.7|DayZ:Epoch",
       "host": "83.79.164.132",
@@ -1449,6 +1417,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-89-207-223-114-2303",
+      "name": "OriginsMod 1.8.3 Rebuild Custom Server Original Client",
+      "host": "89.207.223.114",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
       "id": "steam-89-34-97-6-2306",
       "name": "CHA SERVER",
       "host": "89.34.97.6",
@@ -1497,11 +1473,35 @@
       "requiredMods": []
     },
     {
+      "id": "steam-91-62-96-139-2303",
+      "name": "diplomacyfails",
+      "host": "91.62.96.139",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-92-21-160-50-2303",
+      "name": "Minihattan",
+      "host": "92.21.160.50",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
       "id": "steam-92-53-90-39-2403",
       "name": "----------------ARMA2.ACADEMY [PVE]--------------",
       "host": "92.53.90.39",
       "gamePort": 2402,
       "queryPort": 2403,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-93-92-202-251-2303",
+      "name": "DayZ Epoch Chernarus Server (1.0.7.1/144629)",
+      "host": "93.92.202.251",
+      "gamePort": 2302,
+      "queryPort": 2303,
       "requiredMods": []
     },
     {
@@ -1537,51 +1537,27 @@
       "requiredMods": []
     },
     {
-      "id": "steam-176-99-158-155-2303",
-      "name": "TEST SERVER",
-      "host": "176.99.158.155",
+      "id": "steam-159-75-185-53-2303",
+      "name": "[CN][dskxdsl][Qqun:775709473][PVE]DayZ EP 1.0.7 Chernarus",
+      "host": "159.75.185.53",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
     },
     {
-      "id": "steam-185-147-214-166-2303",
-      "name": "DayZ Epoch Chernarus17 Server (1.0.7.1/144629)",
-      "host": "185.147.214.166",
-      "gamePort": 2302,
-      "queryPort": 2303,
+      "id": "steam-213-239-197-29-2603",
+      "name": "Resthirn Napf Test",
+      "host": "213.239.197.29",
+      "gamePort": 2602,
+      "queryPort": 2603,
       "requiredMods": []
     },
     {
-      "id": "steam-79-205-62-216-2321",
-      "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
-      "host": "79.205.62.216",
-      "gamePort": 2320,
-      "queryPort": 2321,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-85-117-82-108-2303",
-      "name": "DayZ Epoch Chernarus Server (1.0.7.1/144629) RU124 PVP Project",
-      "host": "85.117.82.108",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-91-62-105-246-2303",
-      "name": "diplomacyfails",
-      "host": "91.62.105.246",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-91-6-177-235-27016",
-      "name": "DayZ - Vanilla Remastered (1.9.1 beta) - hosted by [Reaper]",
-      "host": "91.6.177.235",
-      "gamePort": 2302,
-      "queryPort": 27016,
+      "id": "steam-213-239-197-29-2703",
+      "name": "Resthirn Sauerland Test",
+      "host": "213.239.197.29",
+      "gamePort": 2702,
+      "queryPort": 2703,
       "requiredMods": []
     },
     {
