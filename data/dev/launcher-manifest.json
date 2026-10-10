@@ -1,7 +1,7 @@
 {
-  "sequence": 9,
-  "createdAt": "2026-08-16T14:31:39.4904537+00:00",
-  "latestVersion": "1.0.0",
+  "sequence": 10,
+  "createdAt": "2026-10-10T09:41:35.3048508+00:00",
+  "latestVersion": "1.1.0",
   "links": {
     "github": "https://github.com/DeandlDernai/Epoch-Mod-Launcher-Releases/releases",
     "discord": "https://discord.gg/kjGXC7X93S"
@@ -1614,7 +1614,13 @@
       "linkLabel": "Open download page",
       "url": "https://epochmod.com/forum/topic/48244-epoch-1071-release/index.html",
       "notice": "The client download is available on the official release page.",
-      "folderHash": "18E55643A3D3AECAA7EFA3C441D804EF909DB46304F8B78B87E90FA7C4EE17B9"
+      "folderHash": "1DF45C7E74F4FE83D43C2D386700894F553317C98BFCA4AD28CA742CEB8A6866",
+      "install": {
+        "url": "https://drive.google.com/uc?export=download\u0026id=19iCJevU008g311vsxJNR0PjYmkSv36YK",
+        "fileName": "DayZ_Epoch_Client_1.0.7.1_Release.7z",
+        "sha256": "9EB090D960DB714BC59932D73F1DF7C5E331B50BA830E5B84E95887A5C901678",
+        "sizeBytes": 4584728871
+      }
     },
     {
       "id": "namalsk",
@@ -1624,7 +1630,8 @@
       "linkLabel": "Open download page",
       "url": "https://www.moddb.com/games/arma-2/addons/dayz-namalsk",
       "notice": "The official download is offered on the Nightstalkers project page.",
-      "folderHash": "7EF1EE7C527E3C9A329F5C4C13098F3C708B7BCFD7EA04BC4B4D5F4731D8D619"
+      "folderHash": "7EF1EE7C527E3C9A329F5C4C13098F3C708B7BCFD7EA04BC4B4D5F4731D8D619",
+      "install": null
     }
   ]
 }
