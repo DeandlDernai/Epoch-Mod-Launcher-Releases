@@ -1,12 +1,16 @@
 {
-  "sequence": 53,
-  "createdAt": "2026-10-10T16:04:05.7807568+00:00",
+  "sequence": 54,
+  "createdAt": "2026-10-10T16:41:07.7042706+00:00",
   "latestVersion": "1.2.0",
   "links": {
     "github": "https://github.com/DeandlDernai/Epoch-Mod-Launcher-Releases/releases",
     "discord": "https://discord.gg/kjGXC7X93S"
   },
-  "win11Fix": null,
+  "win11Fix": {
+    "url": "https://drive.google.com/uc?export=download\u0026id=1we3dYUkNBaB1U74LuJQWBQ9DfR6Ua3a5",
+    "fileName": "arma2oa-BE_A2OA_v164_2024_Windows11_fix_v2.7z",
+    "sha256": "7A7A7E9683AB2CFD6F217182A6F6256AA8F7C56D1C9F32B0148E33728B634E1B"
+  },
   "servers": [
     {
       "id": "steam-103-193-80-150-2306",
@@ -33,6 +37,38 @@
       "requiredMods": []
     },
     {
+      "id": "steam-104-246-99-167-2313",
+      "name": "PatientZero Test Server #2",
+      "host": "104.246.99.167",
+      "gamePort": 2312,
+      "queryPort": 2313,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-104-246-99-167-2323",
+      "name": "PatientZero Test Server #3",
+      "host": "104.246.99.167",
+      "gamePort": 2322,
+      "queryPort": 2323,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-104-246-99-167-2383",
+      "name": "PatientZero Server #TEST",
+      "host": "104.246.99.167",
+      "gamePort": 2382,
+      "queryPort": 2383,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-108-28-99-183-2303",
+      "name": "THAC0 DayZ Epoch Napf PVE HARDCORE | DZAI | JSRS | WALKING DEAD",
+      "host": "108.28.99.183",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
       "id": "steam-109-204-186-162-2303",
       "name": "[VFB]DayZ Mod 1.9.1 HOW TO JOIN discord.me/VFB",
       "host": "109.204.186.162",
@@ -52,14 +88,6 @@
       "id": "steam-120-239-199-3-2303",
       "name": "PC-Lily Epoch Server PVE/StarterKit/StarterCash/Patrol/Missions",
       "host": "120.239.199.3",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-121-27-84-15-2303",
-      "name": "[CN] Q.D.S.DayZ Epoch QQqun:978712117",
-      "host": "121.27.84.15",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -217,6 +245,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-15-204-53-162-3303",
+      "name": "ManUp Survival | ALPHA SERVER | ePvE | Kit | Cash",
+      "host": "15.204.53.162",
+      "gamePort": 3302,
+      "queryPort": 3303,
+      "requiredMods": []
+    },
+    {
       "id": "steam-156-155-151-236-2303",
       "name": "OssewaSeMoer DayZ Epoch Chernarus",
       "host": "156.155.151.236",
@@ -262,6 +298,14 @@
       "host": "159.75.185.53",
       "gamePort": 2302,
       "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-160-202-166-26-2313",
+      "name": "Mission Central IV DEV ARMA2 DayZ Epoch Mod PVE Only (1.0.7/144",
+      "host": "160.202.166.26",
+      "gamePort": 2312,
+      "queryPort": 2313,
       "requiredMods": []
     },
     {
@@ -428,6 +472,14 @@
       "id": "steam-185-243-106-189-2303",
       "name": "DayZ Epoch Chernarus Server (1.0.7.1/144629)",
       "host": "185.243.106.189",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-185-37-145-99-2303",
+      "name": "Suppenkelle Epoch 1.0.7|Missions|AI Base|Patrols (1.0.7/144629)",
+      "host": "185.37.145.99",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -809,6 +861,22 @@
       "requiredMods": []
     },
     {
+      "id": "steam-37-187-144-40-5468",
+      "name": "Official Origins Mod #LFS DayZ Origins Salami(1.8.3/125548) Hos",
+      "host": "37.187.144.40",
+      "gamePort": 5467,
+      "queryPort": 5468,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-37-187-144-40-5679",
+      "name": "Official Origins Mod #LFS FR Only | Last Community PVE | Admin",
+      "host": "37.187.144.40",
+      "gamePort": 5678,
+      "queryPort": 5679,
+      "requiredMods": []
+    },
+    {
       "id": "steam-37-187-144-40-5890",
       "name": "Official Origins Mod #LFS Zombie Comedy Club PVP/PVE(1.8.3/1255",
       "host": "37.187.144.40",
@@ -854,6 +922,14 @@
       "host": "37.187.144.40",
       "gamePort": 7577,
       "queryPort": 7578,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-37-187-144-40-8844",
+      "name": "Official Origins Mod #LFS Wuestenfuechse PVE(1.8.3/125548) Host",
+      "host": "37.187.144.40",
+      "gamePort": 8843,
+      "queryPort": 8844,
       "requiredMods": []
     },
     {
@@ -977,11 +1053,11 @@
       "requiredMods": []
     },
     {
-      "id": "steam-5-70-170-14-2303",
-      "name": "Slow Walking Zombies DayZ Epoch Chernarus (Private Server) (1.0",
-      "host": "5.70.170.14",
-      "gamePort": 2302,
-      "queryPort": 2303,
+      "id": "steam-5-226-141-85-2304",
+      "name": "ExDecay Epoch 4 Man Group",
+      "host": "5.226.141.85",
+      "gamePort": 2303,
+      "queryPort": 2304,
       "requiredMods": []
     },
     {
@@ -1073,6 +1149,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-51-195-231-204-2303",
+      "name": "Noob Friendly PVE - Coins - Mission - Auto Refuel - Heavily Cus",
+      "host": "51.195.231.204",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
       "id": "steam-51-222-105-75-3803",
       "name": "---------------------------HELLS HERE--------------------------",
       "host": "51.222.105.75",
@@ -1137,6 +1221,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-64-31-28-154-2303",
+      "name": "Pasta\u0027s Nostalgia - By Pingperfect.com",
+      "host": "64.31.28.154",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
       "id": "steam-64-31-29-251-2316",
       "name": "Welcome to Sahrani",
       "host": "64.31.29.251",
@@ -1172,6 +1264,14 @@
       "id": "steam-74-63-236-187-2303",
       "name": "Arma 2: Dayz Epoch - Powered by GTXGaming.co.uk",
       "host": "74.63.236.187",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-74-83-231-55-2303",
+      "name": "DayZ Epoch Napf|DZAI|PVE (1.0.7.1/144629)",
+      "host": "74.83.231.55",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -1289,14 +1389,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-85-144-35-90-2303",
-      "name": "mayday",
-      "host": "85.144.35.90",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
       "id": "steam-85-190-161-104-10301",
       "name": "nitrado.net gameserver",
       "host": "85.190.161.104",
@@ -1334,14 +1426,6 @@
       "host": "89.201.7.209",
       "gamePort": 2326,
       "queryPort": 2327,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-89-207-223-114-2303",
-      "name": "OriginsMod 1.8.3 Rebuild Custom Server Original Client",
-      "host": "89.207.223.114",
-      "gamePort": 2302,
-      "queryPort": 2303,
       "requiredMods": []
     },
     {
@@ -1390,6 +1474,14 @@
       "host": "91.208.92.121",
       "gamePort": 2502,
       "queryPort": 2503,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-91-6-177-235-27016",
+      "name": "DayZ - Vanilla Remastered (1.9.1 beta) - hosted by [Reaper]",
+      "host": "91.6.177.235",
+      "gamePort": 2302,
+      "queryPort": 27016,
       "requiredMods": []
     },
     {
@@ -1449,57 +1541,33 @@
       "requiredMods": []
     },
     {
-      "id": "steam-104-246-99-167-2313",
-      "name": "PatientZero Test Server #2",
-      "host": "104.246.99.167",
-      "gamePort": 2312,
-      "queryPort": 2313,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-104-246-99-167-2323",
-      "name": "PatientZero Test Server #3",
-      "host": "104.246.99.167",
-      "gamePort": 2322,
-      "queryPort": 2323,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-104-246-99-167-2383",
-      "name": "PatientZero Server #TEST",
-      "host": "104.246.99.167",
-      "gamePort": 2382,
-      "queryPort": 2383,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-108-28-99-183-2303",
-      "name": "THAC0 DayZ Epoch Napf PVE HARDCORE | DZAI | JSRS | WALKING DEAD",
-      "host": "108.28.99.183",
+      "id": "steam-5-70-170-14-2303",
+      "name": "Slow Walking Zombies DayZ Epoch Chernarus (Private Server) (1.0",
+      "host": "5.70.170.14",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
     },
     {
-      "id": "steam-15-204-53-162-3303",
-      "name": "ManUp Survival | ALPHA SERVER | ePvE | Kit | Cash",
-      "host": "15.204.53.162",
-      "gamePort": 3302,
-      "queryPort": 3303,
+      "id": "steam-89-207-223-114-2303",
+      "name": "OriginsMod 1.8.3 Rebuild Custom Server Original Client",
+      "host": "89.207.223.114",
+      "gamePort": 2302,
+      "queryPort": 2303,
       "requiredMods": []
     },
     {
-      "id": "steam-160-202-166-26-2313",
-      "name": "Mission Central IV DEV ARMA2 DayZ Epoch Mod PVE Only (1.0.7/144",
-      "host": "160.202.166.26",
-      "gamePort": 2312,
-      "queryPort": 2313,
+      "id": "steam-121-27-84-15-2303",
+      "name": "[CN] Q.D.S.DayZ Epoch QQqun:978712117",
+      "host": "121.27.84.15",
+      "gamePort": 2302,
+      "queryPort": 2303,
       "requiredMods": []
     },
     {
-      "id": "steam-185-37-145-99-2303",
-      "name": "Suppenkelle Epoch 1.0.7|Missions|AI Base|Patrols (1.0.7/144629)",
-      "host": "185.37.145.99",
+      "id": "steam-85-144-35-90-2303",
+      "name": "mayday",
+      "host": "85.144.35.90",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -1513,65 +1581,9 @@
       "requiredMods": []
     },
     {
-      "id": "steam-37-187-144-40-5468",
-      "name": "Official Origins Mod #LFS DayZ Origins Salami(1.8.3/125548) Hos",
-      "host": "37.187.144.40",
-      "gamePort": 5467,
-      "queryPort": 5468,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-37-187-144-40-5679",
-      "name": "Official Origins Mod #LFS FR Only | Last Community PVE | Admin",
-      "host": "37.187.144.40",
-      "gamePort": 5678,
-      "queryPort": 5679,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-37-187-144-40-8844",
-      "name": "Official Origins Mod #LFS Wuestenfuechse PVE(1.8.3/125548) Host",
-      "host": "37.187.144.40",
-      "gamePort": 8843,
-      "queryPort": 8844,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-5-226-141-85-2304",
-      "name": "ExDecay Epoch 4 Man Group",
-      "host": "5.226.141.85",
-      "gamePort": 2303,
-      "queryPort": 2304,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-51-195-231-204-2303",
-      "name": "Noob Friendly PVE - Coins - Mission - Auto Refuel - Heavily Cus",
-      "host": "51.195.231.204",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
       "id": "steam-63-251-42-82-2303",
       "name": "Stomping Grounds PVE~Militarized/Custom Everything/AI Patrols/H",
       "host": "63.251.42.82",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-64-31-28-154-2303",
-      "name": "Pasta\u0027s Nostalgia - By Pingperfect.com",
-      "host": "64.31.28.154",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-74-83-231-55-2303",
-      "name": "DayZ Epoch Napf|DZAI|PVE (1.0.7.1/144629)",
-      "host": "74.83.231.55",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
