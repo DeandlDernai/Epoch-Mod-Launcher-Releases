@@ -1,6 +1,6 @@
 {
-  "sequence": 54,
-  "createdAt": "2026-10-10T16:41:07.7042706+00:00",
+  "sequence": 55,
+  "createdAt": "2026-10-11T14:30:27.0488156+00:00",
   "latestVersion": "1.2.0",
   "links": {
     "github": "https://github.com/DeandlDernai/Epoch-Mod-Launcher-Releases/releases",
@@ -120,6 +120,14 @@
       "id": "steam-138-199-159-83-2303",
       "name": "Return of Chernarus |Epoch|PVP| High FPS/XP System/Treasure Hun",
       "host": "138.199.159.83",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-140-143-144-4-2303",
+      "name": "[CN] Q.D.S.DayZ Epoch QQqun:978712117",
+      "host": "140.143.144.4",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -250,14 +258,6 @@
       "host": "15.204.53.162",
       "gamePort": 3302,
       "queryPort": 3303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-156-155-151-236-2303",
-      "name": "OssewaSeMoer DayZ Epoch Chernarus",
-      "host": "156.155.151.236",
-      "gamePort": 2302,
-      "queryPort": 2303,
       "requiredMods": []
     },
     {
@@ -709,14 +709,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-213-239-197-29-2703",
-      "name": "Resthirn Sauerland Test",
-      "host": "213.239.197.29",
-      "gamePort": 2702,
-      "queryPort": 2703,
-      "requiredMods": []
-    },
-    {
       "id": "steam-213-239-197-29-2803",
       "name": "Resthirn auf Sauerland | PVE | Missions | DZAI",
       "host": "213.239.197.29",
@@ -746,6 +738,14 @@
       "host": "23.160.192.72",
       "gamePort": 2302,
       "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-31-43-152-33-2363",
+      "name": "[UA] [A\u002B] Kyiv ArmA 2 [discord.gg/g2vE6tX]",
+      "host": "31.43.152.33",
+      "gamePort": 2362,
+      "queryPort": 2363,
       "requiredMods": []
     },
     {
@@ -850,14 +850,6 @@
       "host": "37.187.144.40",
       "gamePort": 4834,
       "queryPort": 4835,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-37-187-144-40-5257",
-      "name": "Official Origins Mod #LFS ArcX Gaming(1.8.3/125548) Hosted @ La",
-      "host": "37.187.144.40",
-      "gamePort": 5256,
-      "queryPort": 5257,
       "requiredMods": []
     },
     {
@@ -1061,6 +1053,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-5-70-170-14-2303",
+      "name": "Slow Walking Zombies DayZ Epoch Chernarus (Private Server) (1.0",
+      "host": "5.70.170.14",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
       "id": "steam-5-70-170-14-2403",
       "name": "Slow Walking Zombies DayZ Epoch Lingor Server (1.0.6.1/144629)",
       "host": "5.70.170.14",
@@ -1157,14 +1157,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-51-222-105-75-3803",
-      "name": "---------------------------HELLS HERE--------------------------",
-      "host": "51.222.105.75",
-      "gamePort": 3802,
-      "queryPort": 3803,
-      "requiredMods": []
-    },
-    {
       "id": "steam-51-81-115-195-2303",
       "name": "Professionals Playground|Epoch|LowMil|StartKit|PvP|Custom(1.0.7",
       "host": "51.81.115.195",
@@ -1218,6 +1210,14 @@
       "host": "54.36.224.200",
       "gamePort": 2902,
       "queryPort": 2903,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-63-251-42-82-2303",
+      "name": "Stomping Grounds PVE~Militarized/Custom Everything/AI Patrols/H",
+      "host": "63.251.42.82",
+      "gamePort": 2302,
+      "queryPort": 2303,
       "requiredMods": []
     },
     {
@@ -1285,11 +1285,19 @@
       "requiredMods": []
     },
     {
-      "id": "steam-79-248-156-244-2321",
+      "id": "steam-79-205-55-48-2321",
       "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
-      "host": "79.248.156.244",
+      "host": "79.205.55.48",
       "gamePort": 2320,
       "queryPort": 2321,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-82-193-80-18-3303",
+      "name": "100DB Epoch (1.0.7.1/144629)",
+      "host": "82.193.80.18",
+      "gamePort": 3302,
+      "queryPort": 3303,
       "requiredMods": []
     },
     {
@@ -1381,11 +1389,11 @@
       "requiredMods": []
     },
     {
-      "id": "steam-84-80-24-108-2503",
-      "name": "Remnant Epoch - Taviana - Old School - PvPvE (1.0.7.1/1.7.9.5)",
-      "host": "84.80.24.108",
-      "gamePort": 2502,
-      "queryPort": 2503,
+      "id": "steam-84-173-72-115-2303",
+      "name": "Epoch Chernarus 1.0.8 Test",
+      "host": "84.173.72.115",
+      "gamePort": 2302,
+      "queryPort": 2303,
       "requiredMods": []
     },
     {
@@ -1485,22 +1493,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-91-62-96-139-2303",
-      "name": "diplomacyfails",
-      "host": "91.62.96.139",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-92-21-169-172-2303",
-      "name": "Minihattan",
-      "host": "92.21.169.172",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
       "id": "steam-92-53-90-39-2403",
       "name": "----------------ARMA2.ACADEMY [PVE]--------------",
       "host": "92.53.90.39",
@@ -1541,9 +1533,73 @@
       "requiredMods": []
     },
     {
-      "id": "steam-5-70-170-14-2303",
-      "name": "Slow Walking Zombies DayZ Epoch Chernarus (Private Server) (1.0",
-      "host": "5.70.170.14",
+      "id": "steam-95-216-3-44-2303",
+      "name": "[EU] Enemy // DayZ Epoch 1.0.7.1 | Chernarus | AI missions, con",
+      "host": "95.216.3.44",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-156-155-151-236-2303",
+      "name": "OssewaSeMoer DayZ Epoch Chernarus",
+      "host": "156.155.151.236",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-213-239-197-29-2703",
+      "name": "Resthirn Sauerland Test",
+      "host": "213.239.197.29",
+      "gamePort": 2702,
+      "queryPort": 2703,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-37-187-144-40-5257",
+      "name": "Official Origins Mod #LFS ArcX Gaming(1.8.3/125548) Hosted @ La",
+      "host": "37.187.144.40",
+      "gamePort": 5256,
+      "queryPort": 5257,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-51-222-105-75-3803",
+      "name": "---------------------------HELLS HERE--------------------------",
+      "host": "51.222.105.75",
+      "gamePort": 3802,
+      "queryPort": 3803,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-79-248-156-244-2321",
+      "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
+      "host": "79.248.156.244",
+      "gamePort": 2320,
+      "queryPort": 2321,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-84-80-24-108-2503",
+      "name": "Remnant Epoch - Taviana - Old School - PvPvE (1.0.7.1/1.7.9.5)",
+      "host": "84.80.24.108",
+      "gamePort": 2502,
+      "queryPort": 2503,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-91-62-96-139-2303",
+      "name": "diplomacyfails",
+      "host": "91.62.96.139",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-92-21-169-172-2303",
+      "name": "Minihattan",
+      "host": "92.21.169.172",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -1568,22 +1624,6 @@
       "id": "steam-85-144-35-90-2303",
       "name": "mayday",
       "host": "85.144.35.90",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-31-43-152-33-2363",
-      "name": "[UA] [A\u002B] Kyiv ArmA 2 [discord.gg/g2vE6tX]",
-      "host": "31.43.152.33",
-      "gamePort": 2362,
-      "queryPort": 2363,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-63-251-42-82-2303",
-      "name": "Stomping Grounds PVE~Militarized/Custom Everything/AI Patrols/H",
-      "host": "63.251.42.82",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
