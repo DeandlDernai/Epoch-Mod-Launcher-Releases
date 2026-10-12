@@ -1,6 +1,6 @@
 {
-  "sequence": 55,
-  "createdAt": "2026-10-11T14:30:27.0488156+00:00",
+  "sequence": 56,
+  "createdAt": "2026-10-12T14:31:14.9585487+00:00",
   "latestVersion": "1.2.0",
   "links": {
     "github": "https://github.com/DeandlDernai/Epoch-Mod-Launcher-Releases/releases",
@@ -877,14 +877,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-37-187-144-40-6312",
-      "name": "Official Origins Mod #LFS LeqioDE(1.8.3/125548) Hosted @ LagFre",
-      "host": "37.187.144.40",
-      "gamePort": 6311,
-      "queryPort": 6312,
-      "requiredMods": []
-    },
-    {
       "id": "steam-37-187-144-40-6523",
       "name": "Official Origins Mod #LFS [Ger] Zombieland | Skills: unlocked |",
       "host": "37.187.144.40",
@@ -1053,14 +1045,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-5-70-170-14-2303",
-      "name": "Slow Walking Zombies DayZ Epoch Chernarus (Private Server) (1.0",
-      "host": "5.70.170.14",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
       "id": "steam-5-70-170-14-2403",
       "name": "Slow Walking Zombies DayZ Epoch Lingor Server (1.0.6.1/144629)",
       "host": "5.70.170.14",
@@ -1152,6 +1136,14 @@
       "id": "steam-51-195-231-204-2303",
       "name": "Noob Friendly PVE - Coins - Mission - Auto Refuel - Heavily Cus",
       "host": "51.195.231.204",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-51-38-150-35-2303",
+      "name": "EPOCH_TEST_1751",
+      "host": "51.38.150.35",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -1253,6 +1245,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-65-109-95-44-2203",
+      "name": "[TEST] RESTPLAY #2 Napf PvP Missions Patrols Sector",
+      "host": "65.109.95.44",
+      "gamePort": 2202,
+      "queryPort": 2203,
+      "requiredMods": []
+    },
+    {
       "id": "steam-68-235-60-3-2303",
       "name": "Herbonorot",
       "host": "68.235.60.3",
@@ -1285,19 +1285,19 @@
       "requiredMods": []
     },
     {
-      "id": "steam-79-205-55-48-2321",
+      "id": "steam-79-205-48-218-2321",
       "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
-      "host": "79.205.55.48",
+      "host": "79.205.48.218",
       "gamePort": 2320,
       "queryPort": 2321,
       "requiredMods": []
     },
     {
-      "id": "steam-82-193-80-18-3303",
-      "name": "100DB Epoch (1.0.7.1/144629)",
-      "host": "82.193.80.18",
-      "gamePort": 3302,
-      "queryPort": 3303,
+      "id": "steam-81-172-207-20-2503",
+      "name": "Remnant Epoch - Taviana - Old School - PvPvE (1.0.7.1/1.7.9.5)",
+      "host": "81.172.207.20",
+      "gamePort": 2502,
+      "queryPort": 2503,
       "requiredMods": []
     },
     {
@@ -1389,14 +1389,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-84-173-72-115-2303",
-      "name": "Epoch Chernarus 1.0.8 Test",
-      "host": "84.173.72.115",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
       "id": "steam-85-190-161-104-10301",
       "name": "nitrado.net gameserver",
       "host": "85.190.161.104",
@@ -1434,6 +1426,14 @@
       "host": "89.201.7.209",
       "gamePort": 2326,
       "queryPort": 2327,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-89-207-223-114-2303",
+      "name": "OriginsMod 1.8.3 Rebuild Custom Server Original Client",
+      "host": "89.207.223.114",
+      "gamePort": 2302,
+      "queryPort": 2303,
       "requiredMods": []
     },
     {
@@ -1485,14 +1485,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-91-6-177-235-27016",
-      "name": "DayZ - Vanilla Remastered (1.9.1 beta) - hosted by [Reaper]",
-      "host": "91.6.177.235",
-      "gamePort": 2302,
-      "queryPort": 27016,
-      "requiredMods": []
-    },
-    {
       "id": "steam-92-53-90-39-2403",
       "name": "----------------ARMA2.ACADEMY [PVE]--------------",
       "host": "92.53.90.39",
@@ -1534,26 +1526,10 @@
     },
     {
       "id": "steam-95-216-3-44-2303",
-      "name": "[EU] Enemy // DayZ Epoch 1.0.7.1 | Chernarus | AI missions, con",
+      "name": "[EU] Enemy // DayZ Epoch | PvE | discord.gg/dPCHjUd3u4",
       "host": "95.216.3.44",
       "gamePort": 2302,
       "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-156-155-151-236-2303",
-      "name": "OssewaSeMoer DayZ Epoch Chernarus",
-      "host": "156.155.151.236",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-213-239-197-29-2703",
-      "name": "Resthirn Sauerland Test",
-      "host": "213.239.197.29",
-      "gamePort": 2702,
-      "queryPort": 2703,
       "requiredMods": []
     },
     {
@@ -1562,70 +1538,6 @@
       "host": "37.187.144.40",
       "gamePort": 5256,
       "queryPort": 5257,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-51-222-105-75-3803",
-      "name": "---------------------------HELLS HERE--------------------------",
-      "host": "51.222.105.75",
-      "gamePort": 3802,
-      "queryPort": 3803,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-79-248-156-244-2321",
-      "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
-      "host": "79.248.156.244",
-      "gamePort": 2320,
-      "queryPort": 2321,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-84-80-24-108-2503",
-      "name": "Remnant Epoch - Taviana - Old School - PvPvE (1.0.7.1/1.7.9.5)",
-      "host": "84.80.24.108",
-      "gamePort": 2502,
-      "queryPort": 2503,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-91-62-96-139-2303",
-      "name": "diplomacyfails",
-      "host": "91.62.96.139",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-92-21-169-172-2303",
-      "name": "Minihattan",
-      "host": "92.21.169.172",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-89-207-223-114-2303",
-      "name": "OriginsMod 1.8.3 Rebuild Custom Server Original Client",
-      "host": "89.207.223.114",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-121-27-84-15-2303",
-      "name": "[CN] Q.D.S.DayZ Epoch QQqun:978712117",
-      "host": "121.27.84.15",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-85-144-35-90-2303",
-      "name": "mayday",
-      "host": "85.144.35.90",
-      "gamePort": 2302,
-      "queryPort": 2303,
       "requiredMods": []
     },
     {
