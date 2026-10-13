@@ -1,6 +1,6 @@
 {
-  "sequence": 56,
-  "createdAt": "2026-10-12T14:31:14.9585487+00:00",
+  "sequence": 57,
+  "createdAt": "2026-10-13T14:30:32.9088851+00:00",
   "latestVersion": "1.2.0",
   "links": {
     "github": "https://github.com/DeandlDernai/Epoch-Mod-Launcher-Releases/releases",
@@ -445,14 +445,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-185-147-214-177-2303",
-      "name": "DayZ Epoch Chernarus17 Server (1.0.7.1/144629)",
-      "host": "185.147.214.177",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
       "id": "steam-185-216-144-121-2303",
       "name": "RSof fun server",
       "host": "185.216.144.121",
@@ -661,6 +653,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-207-204-248-154-2303",
+      "name": "DayZ Epoch Chernarus17 Server (1.0.7.1/144629)",
+      "host": "207.204.248.154",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
       "id": "steam-207-53-201-99-2313",
       "name": "[JFG]Epoch/Origins|TANKS|AlienRifle|COIN|TELEPORTER|MODDED(1.0.",
       "host": "207.53.201.99",
@@ -738,14 +738,6 @@
       "host": "23.160.192.72",
       "gamePort": 2302,
       "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-31-43-152-33-2363",
-      "name": "[UA] [A\u002B] Kyiv ArmA 2 [discord.gg/g2vE6tX]",
-      "host": "31.43.152.33",
-      "gamePort": 2362,
-      "queryPort": 2363,
       "requiredMods": []
     },
     {
@@ -1045,6 +1037,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-5-70-170-14-2303",
+      "name": "Slow Walking Zombies DayZ Epoch Chernarus (Private Server) (1.0",
+      "host": "5.70.170.14",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
       "id": "steam-5-70-170-14-2403",
       "name": "Slow Walking Zombies DayZ Epoch Lingor Server (1.0.6.1/144629)",
       "host": "5.70.170.14",
@@ -1136,14 +1136,6 @@
       "id": "steam-51-195-231-204-2303",
       "name": "Noob Friendly PVE - Coins - Mission - Auto Refuel - Heavily Cus",
       "host": "51.195.231.204",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-51-38-150-35-2303",
-      "name": "EPOCH_TEST_1751",
-      "host": "51.38.150.35",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -1245,14 +1237,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-65-109-95-44-2203",
-      "name": "[TEST] RESTPLAY #2 Napf PvP Missions Patrols Sector",
-      "host": "65.109.95.44",
-      "gamePort": 2202,
-      "queryPort": 2203,
-      "requiredMods": []
-    },
-    {
       "id": "steam-68-235-60-3-2303",
       "name": "Herbonorot",
       "host": "68.235.60.3",
@@ -1277,6 +1261,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-78-60-219-158-2316",
+      "name": "Origins 1.8.3 - [DEVELOP]",
+      "host": "78.60.219.158",
+      "gamePort": 2315,
+      "queryPort": 2316,
+      "requiredMods": []
+    },
+    {
       "id": "steam-79-140-181-7-2303",
       "name": "Dead Horizon Epoch",
       "host": "79.140.181.7",
@@ -1285,9 +1277,9 @@
       "requiredMods": []
     },
     {
-      "id": "steam-79-205-48-218-2321",
+      "id": "steam-79-248-159-175-2321",
       "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
-      "host": "79.205.48.218",
+      "host": "79.248.159.175",
       "gamePort": 2320,
       "queryPort": 2321,
       "requiredMods": []
@@ -1298,6 +1290,14 @@
       "host": "81.172.207.20",
       "gamePort": 2502,
       "queryPort": 2503,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-82-193-80-18-3303",
+      "name": "[100DB] EPOCH | MILITARY PVP KAMIKAZE | JETS/TANKS | WIPE 10.20",
+      "host": "82.193.80.18",
+      "gamePort": 3302,
+      "queryPort": 3303,
       "requiredMods": []
     },
     {
@@ -1429,14 +1429,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-89-207-223-114-2303",
-      "name": "OriginsMod 1.8.3 Rebuild Custom Server Original Client",
-      "host": "89.207.223.114",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
       "id": "steam-89-34-97-6-2306",
       "name": "CHA SERVER",
       "host": "89.34.97.6",
@@ -1485,11 +1477,11 @@
       "requiredMods": []
     },
     {
-      "id": "steam-92-53-90-39-2403",
-      "name": "----------------ARMA2.ACADEMY [PVE]--------------",
-      "host": "92.53.90.39",
-      "gamePort": 2402,
-      "queryPort": 2403,
+      "id": "steam-91-62-99-154-2303",
+      "name": "diplomacyfails",
+      "host": "91.62.99.154",
+      "gamePort": 2302,
+      "queryPort": 2303,
       "requiredMods": []
     },
     {
@@ -1530,6 +1522,62 @@
       "host": "95.216.3.44",
       "gamePort": 2302,
       "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-185-147-214-177-2303",
+      "name": "DayZ Epoch Chernarus17 Server (1.0.7.1/144629)",
+      "host": "185.147.214.177",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-31-43-152-33-2363",
+      "name": "[UA] [A\u002B] Kyiv ArmA 2 [discord.gg/g2vE6tX]",
+      "host": "31.43.152.33",
+      "gamePort": 2362,
+      "queryPort": 2363,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-51-38-150-35-2303",
+      "name": "EPOCH_TEST_1751",
+      "host": "51.38.150.35",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-65-109-95-44-2203",
+      "name": "[TEST] RESTPLAY #2 Napf PvP Missions Patrols Sector",
+      "host": "65.109.95.44",
+      "gamePort": 2202,
+      "queryPort": 2203,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-79-205-48-218-2321",
+      "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
+      "host": "79.205.48.218",
+      "gamePort": 2320,
+      "queryPort": 2321,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-89-207-223-114-2303",
+      "name": "OriginsMod 1.8.3 Rebuild Custom Server Original Client",
+      "host": "89.207.223.114",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-92-53-90-39-2403",
+      "name": "----------------ARMA2.ACADEMY [PVE]--------------",
+      "host": "92.53.90.39",
+      "gamePort": 2402,
+      "queryPort": 2403,
       "requiredMods": []
     },
     {
