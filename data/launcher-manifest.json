@@ -1,6 +1,6 @@
 {
-  "sequence": 57,
-  "createdAt": "2026-10-13T14:30:32.9088851+00:00",
+  "sequence": 58,
+  "createdAt": "2026-10-14T14:30:36.5246014+00:00",
   "latestVersion": "1.2.0",
   "links": {
     "github": "https://github.com/DeandlDernai/Epoch-Mod-Launcher-Releases/releases",
@@ -109,9 +109,9 @@
       "requiredMods": []
     },
     {
-      "id": "steam-136-62-90-15-2303",
+      "id": "steam-136-62-93-137-2303",
       "name": "TF1776.com - Task Force 1776 - Domination!",
-      "host": "136.62.90.15",
+      "host": "136.62.93.137",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -333,14 +333,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-163-245-197-157-2303",
-      "name": "In Memory of Boomer!! Hope Heaven has WiFi Brother..",
-      "host": "163.245.197.157",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
       "id": "steam-167-114-209-180-2303",
       "name": "[JCN] Chernarus V3|Heavily Custom Overpoch|FPS\u002B|infiSTAR",
       "host": "167.114.209.180",
@@ -394,30 +386,6 @@
       "host": "178.140.195.120",
       "gamePort": 2302,
       "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-178-211-184-227-3203",
-      "name": "RU66|ElectroClub Epoch 1.0.7.1|PvP",
-      "host": "178.211.184.227",
-      "gamePort": 3202,
-      "queryPort": 3203,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-178-211-184-227-3213",
-      "name": "RU66 | Sauerland Epoch 1.0.7.1 | PVE",
-      "host": "178.211.184.227",
-      "gamePort": 3212,
-      "queryPort": 3213,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-178-211-184-227-3233",
-      "name": "RU66|ElectroClub Epoch 1.0.7.1|PvE",
-      "host": "178.211.184.227",
-      "gamePort": 3232,
-      "queryPort": 3233,
       "requiredMods": []
     },
     {
@@ -653,14 +621,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-207-204-248-154-2303",
-      "name": "DayZ Epoch Chernarus17 Server (1.0.7.1/144629)",
-      "host": "207.204.248.154",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
       "id": "steam-207-53-201-99-2313",
       "name": "[JFG]Epoch/Origins|TANKS|AlienRifle|COIN|TELEPORTER|MODDED(1.0.",
       "host": "207.53.201.99",
@@ -738,6 +698,14 @@
       "host": "23.160.192.72",
       "gamePort": 2302,
       "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-31-43-152-33-2363",
+      "name": "[UA] [A\u002B] Kyiv ArmA 2 [discord.gg/g2vE6tX]",
+      "host": "31.43.152.33",
+      "gamePort": 2362,
+      "queryPort": 2363,
       "requiredMods": []
     },
     {
@@ -978,6 +946,14 @@
       "host": "45.138.48.55",
       "gamePort": 2314,
       "queryPort": 2315,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-45-142-26-112-2303",
+      "name": "Minihattan",
+      "host": "45.142.26.112",
+      "gamePort": 2302,
+      "queryPort": 2303,
       "requiredMods": []
     },
     {
@@ -1237,6 +1213,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-65-109-95-44-2203",
+      "name": "[TEST] RESTPLAY #2 Napf PvP Missions Patrols Sector",
+      "host": "65.109.95.44",
+      "gamePort": 2202,
+      "queryPort": 2203,
+      "requiredMods": []
+    },
+    {
       "id": "steam-68-235-60-3-2303",
       "name": "Herbonorot",
       "host": "68.235.60.3",
@@ -1261,14 +1245,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-78-60-219-158-2316",
-      "name": "Origins 1.8.3 - [DEVELOP]",
-      "host": "78.60.219.158",
-      "gamePort": 2315,
-      "queryPort": 2316,
-      "requiredMods": []
-    },
-    {
       "id": "steam-79-140-181-7-2303",
       "name": "Dead Horizon Epoch",
       "host": "79.140.181.7",
@@ -1277,9 +1253,9 @@
       "requiredMods": []
     },
     {
-      "id": "steam-79-248-159-175-2321",
+      "id": "steam-79-248-145-163-2321",
       "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
-      "host": "79.248.159.175",
+      "host": "79.248.145.163",
       "gamePort": 2320,
       "queryPort": 2321,
       "requiredMods": []
@@ -1294,7 +1270,7 @@
     },
     {
       "id": "steam-82-193-80-18-3303",
-      "name": "[100DB] EPOCH | MILITARY PVP KAMIKAZE | JETS/TANKS | WIPE 10.20",
+      "name": "100DB|EPOCH|MIL|JETS/TANKS|FR.WIPE|MISSIONS|QUESTS",
       "host": "82.193.80.18",
       "gamePort": 3302,
       "queryPort": 3303,
@@ -1357,14 +1333,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-83-167-115-59-2303",
-      "name": "[RU] Mikser Warfare | CTI | TvT | PvE | discord.ru/warfare",
-      "host": "83.167.115.59",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
       "id": "steam-83-79-164-132-2303",
       "name": ".:BaronsBerg Bootcamp:.|PvE\u0026PvP|AI|SlowZ|1.0.7|DayZ:Epoch",
       "host": "83.79.164.132",
@@ -1413,6 +1381,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-85-190-163-208-13201",
+      "name": "nitrado.net gameserver",
+      "host": "85.190.163.208",
+      "gamePort": 13200,
+      "queryPort": 13201,
+      "requiredMods": []
+    },
+    {
       "id": "steam-89-201-7-209-2303",
       "name": "dSmile LV 2 [1.9.0|REGULAR|VANILLA|LATVIJA [GMT-2] - hosted by",
       "host": "89.201.7.209",
@@ -1426,6 +1402,14 @@
       "host": "89.201.7.209",
       "gamePort": 2326,
       "queryPort": 2327,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-89-207-223-114-2303",
+      "name": "[https://discord.gg/DdsUdh9ZjJ] OriginsMod 1.8.3 Rebuild Custom",
+      "host": "89.207.223.114",
+      "gamePort": 2302,
+      "queryPort": 2303,
       "requiredMods": []
     },
     {
@@ -1477,14 +1461,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-91-62-99-154-2303",
-      "name": "diplomacyfails",
-      "host": "91.62.99.154",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
       "id": "steam-94-250-209-112-2303",
       "name": "Was spielen wir?",
       "host": "94.250.209.112",
@@ -1522,62 +1498,6 @@
       "host": "95.216.3.44",
       "gamePort": 2302,
       "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-185-147-214-177-2303",
-      "name": "DayZ Epoch Chernarus17 Server (1.0.7.1/144629)",
-      "host": "185.147.214.177",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-31-43-152-33-2363",
-      "name": "[UA] [A\u002B] Kyiv ArmA 2 [discord.gg/g2vE6tX]",
-      "host": "31.43.152.33",
-      "gamePort": 2362,
-      "queryPort": 2363,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-51-38-150-35-2303",
-      "name": "EPOCH_TEST_1751",
-      "host": "51.38.150.35",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-65-109-95-44-2203",
-      "name": "[TEST] RESTPLAY #2 Napf PvP Missions Patrols Sector",
-      "host": "65.109.95.44",
-      "gamePort": 2202,
-      "queryPort": 2203,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-79-205-48-218-2321",
-      "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
-      "host": "79.205.48.218",
-      "gamePort": 2320,
-      "queryPort": 2321,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-89-207-223-114-2303",
-      "name": "OriginsMod 1.8.3 Rebuild Custom Server Original Client",
-      "host": "89.207.223.114",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-92-53-90-39-2403",
-      "name": "----------------ARMA2.ACADEMY [PVE]--------------",
-      "host": "92.53.90.39",
-      "gamePort": 2402,
-      "queryPort": 2403,
       "requiredMods": []
     },
     {
