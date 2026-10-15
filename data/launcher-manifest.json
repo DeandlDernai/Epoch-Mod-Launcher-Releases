@@ -1,6 +1,6 @@
 {
-  "sequence": 58,
-  "createdAt": "2026-10-14T14:30:36.5246014+00:00",
+  "sequence": 59,
+  "createdAt": "2026-10-15T14:30:33.8219853+00:00",
   "latestVersion": "1.2.0",
   "links": {
     "github": "https://github.com/DeandlDernai/Epoch-Mod-Launcher-Releases/releases",
@@ -12,6 +12,14 @@
     "sha256": "7A7A7E9683AB2CFD6F217182A6F6256AA8F7C56D1C9F32B0148E33728B634E1B"
   },
   "servers": [
+    {
+      "id": "steam-103-124-165-233-2303",
+      "name": "Minihattan",
+      "host": "103.124.165.233",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
     {
       "id": "steam-103-193-80-150-2306",
       "name": "AU | Taviana Nights - Tanks \u0026 Jets | Missions | AI Bandits | In",
@@ -126,7 +134,7 @@
     },
     {
       "id": "steam-140-143-144-4-2303",
-      "name": "[CN] Q.D.S.DayZ Epoch QQqun:978712117",
+      "name": "[CN] Q.D.S.DayZ Epoch PVE QQqun:978712117 Lingor",
       "host": "140.143.144.4",
       "gamePort": 2302,
       "queryPort": 2303,
@@ -389,6 +397,30 @@
       "requiredMods": []
     },
     {
+      "id": "steam-178-211-184-227-3203",
+      "name": "RU66|ElectroClub Epoch 1.0.7.1|PvP",
+      "host": "178.211.184.227",
+      "gamePort": 3202,
+      "queryPort": 3203,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-178-211-184-227-3213",
+      "name": "RU66 | Sauerland Epoch 1.0.7.1 | PVE",
+      "host": "178.211.184.227",
+      "gamePort": 3212,
+      "queryPort": 3213,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-178-211-184-227-3233",
+      "name": "RU66|ElectroClub Epoch 1.0.7.1|PvE",
+      "host": "178.211.184.227",
+      "gamePort": 3232,
+      "queryPort": 3233,
+      "requiredMods": []
+    },
+    {
       "id": "steam-178-66-51-42-2303",
       "name": "[Nemezis 2.2]WIPED 26.12|EPOCH|ALL CUSTOM|RUS/ENG|HIGH FPS|",
       "host": "178.66.51.42",
@@ -442,6 +474,14 @@
       "host": "185.37.145.99",
       "gamePort": 2302,
       "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-186-212-14-20-2314",
+      "name": "Overpoch Origins - laboratorio fase 1",
+      "host": "186.212.14.20",
+      "gamePort": 2313,
+      "queryPort": 2314,
       "requiredMods": []
     },
     {
@@ -605,14 +645,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-203-118-135-209-2303",
-      "name": "BYES Overpoch| CCG Nostalgia | Mad Scientist | SR25|M110 | Full",
-      "host": "203.118.135.209",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
       "id": "steam-205-209-105-34-2303",
       "name": "OxP|Epoch|PvE|NoobFriendly|StartKit|Events|Mili|",
       "host": "205.209.105.34",
@@ -650,6 +682,14 @@
       "host": "212.110.214.66",
       "gamePort": 2202,
       "queryPort": 2203,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-212-3-139-237-2303",
+      "name": "DayZ Epoch Chernarus Server (1.0.7.1/144629)",
+      "host": "212.3.139.237",
+      "gamePort": 2302,
+      "queryPort": 2303,
       "requiredMods": []
     },
     {
@@ -696,6 +736,14 @@
       "id": "steam-23-160-192-72-2303",
       "name": "Bad Grapes Gang | Overpoch Taviana",
       "host": "23.160.192.72",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-24-151-229-245-2303",
+      "name": "Namalsk - Friends Only",
+      "host": "24.151.229.245",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -786,6 +834,14 @@
       "host": "37.187.144.40",
       "gamePort": 3990,
       "queryPort": 3991,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-37-187-144-40-4202",
+      "name": "Official Origins Mod #LFS Sakhalin server RU65 |PVE|(1.8.3/1255",
+      "host": "37.187.144.40",
+      "gamePort": 4201,
+      "queryPort": 4202,
       "requiredMods": []
     },
     {
@@ -949,14 +1005,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-45-142-26-112-2303",
-      "name": "Minihattan",
-      "host": "45.142.26.112",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
       "id": "steam-45-248-145-14-2303",
       "name": "Killing-Z-Mil_OverPoch-PVE",
       "host": "45.248.145.14",
@@ -1010,6 +1058,14 @@
       "host": "5.226.141.85",
       "gamePort": 2303,
       "queryPort": 2304,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-5-226-142-62-2306",
+      "name": "Arma 2: Dayz Epoch - Powered by GTXGaming.co.uk",
+      "host": "5.226.142.62",
+      "gamePort": 2305,
+      "queryPort": 2306,
       "requiredMods": []
     },
     {
@@ -1096,14 +1152,6 @@
       "id": "steam-51-195-140-241-2303",
       "name": "Kays Epoch Powered by GamingDeluxe.co.uk",
       "host": "51.195.140.241",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-51-195-190-147-2303",
-      "name": "Turbos Hideout",
-      "host": "51.195.190.147",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -1213,33 +1261,9 @@
       "requiredMods": []
     },
     {
-      "id": "steam-65-109-95-44-2203",
-      "name": "[TEST] RESTPLAY #2 Napf PvP Missions Patrols Sector",
-      "host": "65.109.95.44",
-      "gamePort": 2202,
-      "queryPort": 2203,
-      "requiredMods": []
-    },
-    {
       "id": "steam-68-235-60-3-2303",
       "name": "Herbonorot",
       "host": "68.235.60.3",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-74-63-236-187-2303",
-      "name": "Arma 2: Dayz Epoch - Powered by GTXGaming.co.uk",
-      "host": "74.63.236.187",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-74-83-231-55-2303",
-      "name": "DayZ Epoch Napf|DZAI|PVE (1.0.7.1/144629)",
-      "host": "74.83.231.55",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -1253,11 +1277,19 @@
       "requiredMods": []
     },
     {
-      "id": "steam-79-248-145-163-2321",
+      "id": "steam-79-248-155-146-2321",
       "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
-      "host": "79.248.145.163",
+      "host": "79.248.155.146",
       "gamePort": 2320,
       "queryPort": 2321,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-80-142-142-38-2303",
+      "name": "Epoch Chernarus 1.0.8 Test",
+      "host": "80.142.142.38",
+      "gamePort": 2302,
+      "queryPort": 2303,
       "requiredMods": []
     },
     {
@@ -1270,7 +1302,7 @@
     },
     {
       "id": "steam-82-193-80-18-3303",
-      "name": "100DB|EPOCH|MIL|JETS/TANKS|FR.WIPE|MISSIONS|QUESTS",
+      "name": "100DB|EPOCH.PVP|MIL.JETS/TANKS|MISSION|QUESTS|RU/EN",
       "host": "82.193.80.18",
       "gamePort": 3302,
       "queryPort": 3303,
@@ -1402,14 +1434,6 @@
       "host": "89.201.7.209",
       "gamePort": 2326,
       "queryPort": 2327,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-89-207-223-114-2303",
-      "name": "[https://discord.gg/DdsUdh9ZjJ] OriginsMod 1.8.3 Rebuild Custom",
-      "host": "89.207.223.114",
-      "gamePort": 2302,
-      "queryPort": 2303,
       "requiredMods": []
     },
     {
