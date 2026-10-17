@@ -1,6 +1,6 @@
 {
-  "sequence": 60,
-  "createdAt": "2026-10-16T14:30:37.488984+00:00",
+  "sequence": 61,
+  "createdAt": "2026-10-17T14:30:33.6095139+00:00",
   "latestVersion": "1.2.0",
   "links": {
     "github": "https://github.com/DeandlDernai/Epoch-Mod-Launcher-Releases/releases",
@@ -12,14 +12,6 @@
     "sha256": "7A7A7E9683AB2CFD6F217182A6F6256AA8F7C56D1C9F32B0148E33728B634E1B"
   },
   "servers": [
-    {
-      "id": "steam-103-124-165-140-2303",
-      "name": "Minihattan",
-      "host": "103.124.165.140",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
     {
       "id": "steam-103-193-80-150-2306",
       "name": "AU | Taviana Nights - Tanks \u0026 Jets | Missions | AI Bandits | In",
@@ -96,6 +88,14 @@
       "id": "steam-120-239-199-122-2303",
       "name": "PC-Lily Epoch Server PVE/StarterKit/StarterCash/Patrol/Missions",
       "host": "120.239.199.122",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-121-27-84-15-2303",
+      "name": "[CN] Q.D.S.DayZ Epoch PVE QQqun:978712117 Sahrani",
+      "host": "121.27.84.15",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -277,14 +277,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-159-195-46-9-2303",
-      "name": "[GER] | in memory of TRC | by Madmax | DayZ Epoch (1.0.7.1/1446",
-      "host": "159.195.46.9",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
       "id": "steam-159-196-126-132-2303",
       "name": "heapslol Wasteland (Chernarus)",
       "host": "159.196.126.132",
@@ -357,6 +349,22 @@
       "requiredMods": []
     },
     {
+      "id": "steam-173-208-136-12-2201",
+      "name": "CarpeDiemZ Epoch|PVE Only|Chernarus|Added Missions \u0026 POI|Active",
+      "host": "173.208.136.12",
+      "gamePort": 2200,
+      "queryPort": 2201,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-173-208-136-12-2301",
+      "name": "CarpeDiem Taviana |PVE|Traders|Missions",
+      "host": "173.208.136.12",
+      "gamePort": 2300,
+      "queryPort": 2301,
+      "requiredMods": []
+    },
+    {
       "id": "steam-173-208-152-218-2303",
       "name": "-CDO Overpoch WIPED 6/30 1830hrs-|Semi Mil|Custom Map|VG|COINS|",
       "host": "173.208.152.218",
@@ -370,14 +378,6 @@
       "host": "176.197.182.249",
       "gamePort": 2302,
       "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-177-155-85-78-2403",
-      "name": "Epoch Particular - Chernarus - Baseline",
-      "host": "177.155.85.78",
-      "gamePort": 2402,
-      "queryPort": 2403,
       "requiredMods": []
     },
     {
@@ -469,14 +469,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-185-5-253-104-2303",
-      "name": "DayZ Epoch Local (Chernarus)",
-      "host": "185.5.253.104",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
       "id": "steam-188-157-5-120-2303",
       "name": "DayZ Revolution Hungary PVE 2025",
       "host": "188.157.5.120",
@@ -506,14 +498,6 @@
       "host": "188.240.63.126",
       "gamePort": 2302,
       "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-188-40-64-51-2103",
-      "name": "(HAS)TEST",
-      "host": "188.40.64.51",
-      "gamePort": 2102,
-      "queryPort": 2103,
       "requiredMods": []
     },
     {
@@ -640,14 +624,6 @@
       "id": "steam-195-93-181-30-2303",
       "name": "CWM Epoch Napf (1.0.5.1/131129)",
       "host": "195.93.181.30",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-2-26-5-33-2303",
-      "name": "Origins Classic | WIPE 10.10.26 | PVP | discord.gg/rzyt4tQjAR |",
-      "host": "2.26.5.33",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -997,6 +973,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-45-237-27-54-2403",
+      "name": "Epoch Particular - PvE Solo",
+      "host": "45.237.27.54",
+      "gamePort": 2402,
+      "queryPort": 2403,
+      "requiredMods": []
+    },
+    {
       "id": "steam-45-248-145-14-2303",
       "name": "Killing-Z-Mil_OverPoch-PVE",
       "host": "45.248.145.14",
@@ -1016,6 +1000,14 @@
       "id": "steam-45-45-238-226-2303",
       "name": "Dayz Epoch 1.07 Temu-Origins Taviana (full-map)- Powered by GTX",
       "host": "45.45.238.226",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-45-93-200-132-2303",
+      "name": "Origins Classic | WIPE 10.10.26 | PVP | discord.gg/rzyt4tQjAR |",
+      "host": "45.93.200.132",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -1205,6 +1197,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-62-101-165-96-2303",
+      "name": "Minihattan",
+      "host": "62.101.165.96",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
       "id": "steam-63-251-42-82-2303",
       "name": "Stomping Grounds PVE~Militarized/Custom Everything/AI Patrols/H",
       "host": "63.251.42.82",
@@ -1253,6 +1253,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-78-60-219-158-2316",
+      "name": "Origins 1.8.3 - [DEVELOP]",
+      "host": "78.60.219.158",
+      "gamePort": 2315,
+      "queryPort": 2316,
+      "requiredMods": []
+    },
+    {
       "id": "steam-79-140-181-7-2303",
       "name": "Dead Horizon Epoch",
       "host": "79.140.181.7",
@@ -1261,9 +1269,9 @@
       "requiredMods": []
     },
     {
-      "id": "steam-79-205-60-230-2321",
+      "id": "steam-79-205-53-192-2321",
       "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
-      "host": "79.205.60.230",
+      "host": "79.205.53.192",
       "gamePort": 2320,
       "queryPort": 2321,
       "requiredMods": []
@@ -1336,6 +1344,14 @@
       "id": "steam-82-67-171-109-2303",
       "name": "[FR]THE OLDMEN BACK CHERNARUS (1.0.7.1/144629)",
       "host": "82.67.171.109",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-83-167-115-59-2303",
+      "name": "[RU] Mikser Warfare | CTI | TvT | PvE | discord.ru/warfare",
+      "host": "83.167.115.59",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -1453,6 +1469,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-92-53-90-39-2403",
+      "name": "----------------ARMA2.ACADEMY [PVE]--------------",
+      "host": "92.53.90.39",
+      "gamePort": 2402,
+      "queryPort": 2403,
+      "requiredMods": []
+    },
+    {
       "id": "steam-94-250-209-112-2303",
       "name": "Was spielen wir?",
       "host": "94.250.209.112",
@@ -1493,11 +1517,59 @@
       "requiredMods": []
     },
     {
-      "id": "steam-45-93-200-132-2303",
-      "name": "Origins Classic | WIPE 10.10.26 | PVP | discord.gg/rzyt4tQjAR |",
-      "host": "45.93.200.132",
+      "id": "steam-103-124-165-140-2303",
+      "name": "Minihattan",
+      "host": "103.124.165.140",
       "gamePort": 2302,
       "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-159-195-46-9-2303",
+      "name": "[GER] | in memory of TRC | by Madmax | DayZ Epoch (1.0.7.1/1446",
+      "host": "159.195.46.9",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-177-155-85-78-2403",
+      "name": "Epoch Particular - Chernarus - Baseline",
+      "host": "177.155.85.78",
+      "gamePort": 2402,
+      "queryPort": 2403,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-185-5-253-104-2303",
+      "name": "DayZ Epoch Local (Chernarus)",
+      "host": "185.5.253.104",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-188-40-64-51-2103",
+      "name": "(HAS)TEST",
+      "host": "188.40.64.51",
+      "gamePort": 2102,
+      "queryPort": 2103,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-2-26-5-33-2303",
+      "name": "Origins Classic | WIPE 10.10.26 | PVP | discord.gg/rzyt4tQjAR |",
+      "host": "2.26.5.33",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-79-205-60-230-2321",
+      "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
+      "host": "79.205.60.230",
+      "gamePort": 2320,
+      "queryPort": 2321,
       "requiredMods": []
     },
     {
