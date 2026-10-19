@@ -1,6 +1,6 @@
 {
-  "sequence": 62,
-  "createdAt": "2026-10-18T14:30:39.7583022+00:00",
+  "sequence": 63,
+  "createdAt": "2026-10-19T14:30:37.4527758+00:00",
   "latestVersion": "1.2.0",
   "links": {
     "github": "https://github.com/DeandlDernai/Epoch-Mod-Launcher-Releases/releases",
@@ -85,17 +85,9 @@
       "requiredMods": []
     },
     {
-      "id": "steam-116-162-53-74-2303",
-      "name": "L016",
-      "host": "116.162.53.74",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-120-239-199-38-2303",
+      "id": "steam-120-239-199-87-2303",
       "name": "PC-Lily Epoch Server PVE/StarterKit/StarterCash/Patrol/Missions",
-      "host": "120.239.199.38",
+      "host": "120.239.199.87",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -134,7 +126,7 @@
     },
     {
       "id": "steam-140-143-144-4-2303",
-      "name": "[CN] Q.D.S.DayZ Epoch PVE QQqun:978712117 Panthera",
+      "name": "[CN] Q.D.S.DayZ Epoch PVE QQqun:978712117 Sahrani",
       "host": "140.143.144.4",
       "gamePort": 2302,
       "queryPort": 2303,
@@ -381,6 +373,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-177-155-85-78-2403",
+      "name": "Epoch Particular - PvE Solo",
+      "host": "177.155.85.78",
+      "gamePort": 2402,
+      "queryPort": 2403,
+      "requiredMods": []
+    },
+    {
       "id": "steam-178-140-195-120-2303",
       "name": "[PVE] Antysoft EVO RED like TehnikPC NO CHERNO! RQed: A2 \u0026 A2OA",
       "host": "178.140.195.120",
@@ -421,19 +421,19 @@
       "requiredMods": []
     },
     {
-      "id": "steam-185-137-235-153-2303",
-      "name": "Military_PVE 78RU GameServer",
-      "host": "185.137.235.153",
+      "id": "steam-185-114-66-174-2303",
+      "name": "DayZ Epoch Chernarus17 Server (1.0.7.1/144629)",
+      "host": "185.114.66.174",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
     },
     {
-      "id": "steam-185-137-235-74-2603",
-      "name": "RU 178 Epoch Elite Cherno [Missions|Bank|Spawn Select] (1.0.7.1",
-      "host": "185.137.235.74",
-      "gamePort": 2602,
-      "queryPort": 2603,
+      "id": "steam-185-137-235-153-2303",
+      "name": "Military_PVE 78RU GameServer",
+      "host": "185.137.235.153",
+      "gamePort": 2302,
+      "queryPort": 2303,
       "requiredMods": []
     },
     {
@@ -557,14 +557,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-192-95-33-8-2514",
-      "name": "Official Origins Mod #LFS KovidKillahs[WSP](1.8.3/125548) Hoste",
-      "host": "192.95.33.8",
-      "gamePort": 2513,
-      "queryPort": 2514,
-      "requiredMods": []
-    },
-    {
       "id": "steam-192-95-33-8-2725",
       "name": "Official Origins Mod #LFS NATION Z ORIGINS|PVP|FULL SKILL|WIPE|",
       "host": "192.95.33.8",
@@ -616,6 +608,14 @@
       "id": "steam-195-93-181-30-2303",
       "name": "CWM Epoch Napf (1.0.5.1/131129)",
       "host": "195.93.181.30",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-205-209-105-34-2303",
+      "name": "OxP|Epoch|PvE|NoobFriendly|StartKit|Events|Mili|",
+      "host": "205.209.105.34",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -941,14 +941,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-45-237-27-54-2403",
-      "name": "Epoch Particular - PvE Solo",
-      "host": "45.237.27.54",
-      "gamePort": 2402,
-      "queryPort": 2403,
-      "requiredMods": []
-    },
-    {
       "id": "steam-45-248-145-14-2303",
       "name": "Killing-Z-Mil_OverPoch-PVE",
       "host": "45.248.145.14",
@@ -1010,14 +1002,6 @@
       "host": "5.226.142.62",
       "gamePort": 2305,
       "queryPort": 2306,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-5-70-170-14-2303",
-      "name": "Slow Walking Zombies DayZ Epoch Chernarus (Private Server) (1.0",
-      "host": "5.70.170.14",
-      "gamePort": 2302,
-      "queryPort": 2303,
       "requiredMods": []
     },
     {
@@ -1213,17 +1197,17 @@
       "requiredMods": []
     },
     {
-      "id": "steam-75-221-247-9-2303",
-      "name": "Daisy.. Daisy..",
-      "host": "75.221.247.9",
+      "id": "steam-77-226-185-163-2303",
+      "name": "Brord LAN Epoch 1.0.7.1",
+      "host": "77.226.185.163",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
     },
     {
-      "id": "steam-77-226-185-163-2303",
-      "name": "Brord LAN Epoch 1.0.7.1",
-      "host": "77.226.185.163",
+      "id": "steam-78-147-47-43-2303",
+      "name": "Minihattan",
+      "host": "78.147.47.43",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -1237,9 +1221,9 @@
       "requiredMods": []
     },
     {
-      "id": "steam-79-238-32-67-2321",
+      "id": "steam-79-238-37-46-2321",
       "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
-      "host": "79.238.32.67",
+      "host": "79.238.37.46",
       "gamePort": 2320,
       "queryPort": 2321,
       "requiredMods": []
@@ -1250,14 +1234,6 @@
       "host": "80.4.202.15",
       "gamePort": 2302,
       "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-81-163-133-168-2385",
-      "name": "-------------------Arma2_Shaitan----------------",
-      "host": "81.163.133.168",
-      "gamePort": 2384,
-      "queryPort": 2385,
       "requiredMods": []
     },
     {
@@ -1328,14 +1304,6 @@
       "id": "steam-82-67-171-109-2303",
       "name": "[FR]THE OLDMEN BACK CHERNARUS (1.0.7.1/144629)",
       "host": "82.67.171.109",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-83-167-115-59-2303",
-      "name": "[RU] Mikser Warfare | CTI | TvT | PvE | discord.ru/warfare",
-      "host": "83.167.115.59",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
