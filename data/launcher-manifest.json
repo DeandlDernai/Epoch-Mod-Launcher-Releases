@@ -1,6 +1,6 @@
 {
-  "sequence": 63,
-  "createdAt": "2026-10-19T14:30:37.4527758+00:00",
+  "sequence": 64,
+  "createdAt": "2026-10-20T14:30:38.2693964+00:00",
   "latestVersion": "1.2.0",
   "links": {
     "github": "https://github.com/DeandlDernai/Epoch-Mod-Launcher-Releases/releases",
@@ -85,9 +85,9 @@
       "requiredMods": []
     },
     {
-      "id": "steam-120-239-199-87-2303",
+      "id": "steam-120-239-199-82-2303",
       "name": "PC-Lily Epoch Server PVE/StarterKit/StarterCash/Patrol/Missions",
-      "host": "120.239.199.87",
+      "host": "120.239.199.82",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -126,7 +126,7 @@
     },
     {
       "id": "steam-140-143-144-4-2303",
-      "name": "[CN] Q.D.S.DayZ Epoch PVE QQqun:978712117 Sahrani",
+      "name": "[CN] Q.D.S.DayZ Epoch PVE QQqun:978712117 Chernarus Winter",
       "host": "140.143.144.4",
       "gamePort": 2302,
       "queryPort": 2303,
@@ -389,41 +389,9 @@
       "requiredMods": []
     },
     {
-      "id": "steam-178-211-184-227-3203",
-      "name": "RU66|ElectroClub Epoch 1.0.7.1|PvP",
-      "host": "178.211.184.227",
-      "gamePort": 3202,
-      "queryPort": 3203,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-178-211-184-227-3213",
-      "name": "RU66 | Sauerland Epoch 1.0.7.1 | PVE",
-      "host": "178.211.184.227",
-      "gamePort": 3212,
-      "queryPort": 3213,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-178-211-184-227-3233",
-      "name": "RU66|ElectroClub Epoch 1.0.7.1|PvE",
-      "host": "178.211.184.227",
-      "gamePort": 3232,
-      "queryPort": 3233,
-      "requiredMods": []
-    },
-    {
       "id": "steam-178-66-51-42-2303",
       "name": "[Nemezis 2.2]WIPED 26.12|EPOCH|ALL CUSTOM|RUS/ENG|HIGH FPS|",
       "host": "178.66.51.42",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-185-114-66-174-2303",
-      "name": "DayZ Epoch Chernarus17 Server (1.0.7.1/144629)",
-      "host": "185.114.66.174",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -434,6 +402,14 @@
       "host": "185.137.235.153",
       "gamePort": 2302,
       "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-185-137-235-74-2603",
+      "name": "RU 178 Epoch Elite Cherno [Missions|Bank|Spawn Select] (1.0.7.1",
+      "host": "185.137.235.74",
+      "gamePort": 2602,
+      "queryPort": 2603,
       "requiredMods": []
     },
     {
@@ -464,14 +440,6 @@
       "id": "steam-185-37-145-99-2303",
       "name": "Suppenkelle Epoch 1.0.7|Missions|AI Base|Patrols (1.0.7/144629)",
       "host": "185.37.145.99",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-188-157-5-120-2303",
-      "name": "DayZ Revolution Hungary PVE 2025",
-      "host": "188.157.5.120",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -554,6 +522,14 @@
       "host": "192.95.33.8",
       "gamePort": 2302,
       "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-192-95-33-8-2514",
+      "name": "Official Origins Mod #LFS KovidKillahs[WSP](1.8.3/125548) Hoste",
+      "host": "192.95.33.8",
+      "gamePort": 2513,
+      "queryPort": 2514,
       "requiredMods": []
     },
     {
@@ -645,6 +621,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-212-110-214-66-2203",
+      "name": "{KG}Community",
+      "host": "212.110.214.66",
+      "gamePort": 2202,
+      "queryPort": 2203,
+      "requiredMods": []
+    },
+    {
       "id": "steam-213-239-197-29-2403",
       "name": "Resthirn auf Napf | PVE | GER | Missions",
       "host": "213.239.197.29",
@@ -693,11 +677,11 @@
       "requiredMods": []
     },
     {
-      "id": "steam-31-43-152-33-2363",
-      "name": "[UA] [A\u002B] Kyiv ArmA 2 [discord.gg/g2vE6tX]",
-      "host": "31.43.152.33",
-      "gamePort": 2362,
-      "queryPort": 2363,
+      "id": "steam-24-151-229-245-2303",
+      "name": "Namalsk - Friends Only",
+      "host": "24.151.229.245",
+      "gamePort": 2302,
+      "queryPort": 2303,
       "requiredMods": []
     },
     {
@@ -1197,14 +1181,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-77-226-185-163-2303",
-      "name": "Brord LAN Epoch 1.0.7.1",
-      "host": "77.226.185.163",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
       "id": "steam-78-147-47-43-2303",
       "name": "Minihattan",
       "host": "78.147.47.43",
@@ -1221,9 +1197,9 @@
       "requiredMods": []
     },
     {
-      "id": "steam-79-238-37-46-2321",
+      "id": "steam-79-248-145-106-2321",
       "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
-      "host": "79.238.37.46",
+      "host": "79.248.145.106",
       "gamePort": 2320,
       "queryPort": 2321,
       "requiredMods": []
@@ -1304,6 +1280,14 @@
       "id": "steam-82-67-171-109-2303",
       "name": "[FR]THE OLDMEN BACK CHERNARUS (1.0.7.1/144629)",
       "host": "82.67.171.109",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-83-167-115-59-2303",
+      "name": "[RU] Mikser Warfare | CTI | TvT | PvE | discord.ru/warfare",
+      "host": "83.167.115.59",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -1421,6 +1405,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-91-62-108-5-2303",
+      "name": "diplomacyfails",
+      "host": "91.62.108.5",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
       "id": "steam-92-53-90-39-2403",
       "name": "----------------ARMA2.ACADEMY [PVE]--------------",
       "host": "92.53.90.39",
@@ -1466,6 +1458,78 @@
       "host": "95.216.3.44",
       "gamePort": 2302,
       "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-120-239-199-87-2303",
+      "name": "PC-Lily Epoch Server PVE/StarterKit/StarterCash/Patrol/Missions",
+      "host": "120.239.199.87",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-178-211-184-227-3203",
+      "name": "RU66|ElectroClub Epoch 1.0.7.1|PvP",
+      "host": "178.211.184.227",
+      "gamePort": 3202,
+      "queryPort": 3203,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-178-211-184-227-3213",
+      "name": "RU66 | Sauerland Epoch 1.0.7.1 | PVE",
+      "host": "178.211.184.227",
+      "gamePort": 3212,
+      "queryPort": 3213,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-178-211-184-227-3233",
+      "name": "RU66|ElectroClub Epoch 1.0.7.1|PvE",
+      "host": "178.211.184.227",
+      "gamePort": 3232,
+      "queryPort": 3233,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-185-114-66-174-2303",
+      "name": "DayZ Epoch Chernarus17 Server (1.0.7.1/144629)",
+      "host": "185.114.66.174",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-188-157-5-120-2303",
+      "name": "DayZ Revolution Hungary PVE 2025",
+      "host": "188.157.5.120",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-31-43-152-33-2363",
+      "name": "[UA] [A\u002B] Kyiv ArmA 2 [discord.gg/g2vE6tX]",
+      "host": "31.43.152.33",
+      "gamePort": 2362,
+      "queryPort": 2363,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-77-226-185-163-2303",
+      "name": "Brord LAN Epoch 1.0.7.1",
+      "host": "77.226.185.163",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-79-238-37-46-2321",
+      "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
+      "host": "79.238.37.46",
+      "gamePort": 2320,
+      "queryPort": 2321,
       "requiredMods": []
     },
     {
