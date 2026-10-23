@@ -1,6 +1,6 @@
 {
-  "sequence": 66,
-  "createdAt": "2026-10-22T14:30:38.1960735+00:00",
+  "sequence": 67,
+  "createdAt": "2026-10-23T14:30:34.2350582+00:00",
   "latestVersion": "1.2.0",
   "links": {
     "github": "https://github.com/DeandlDernai/Epoch-Mod-Launcher-Releases/releases",
@@ -12,6 +12,14 @@
     "sha256": "7A7A7E9683AB2CFD6F217182A6F6256AA8F7C56D1C9F32B0148E33728B634E1B"
   },
   "servers": [
+    {
+      "id": "steam-102-66-147-38-2403",
+      "name": "My Local DayZ Epoch (Lingor)",
+      "host": "102.66.147.38",
+      "gamePort": 2402,
+      "queryPort": 2403,
+      "requiredMods": []
+    },
     {
       "id": "steam-103-193-80-150-2306",
       "name": "AU | Taviana Nights - Tanks \u0026 Jets | Missions | AI Bandits | In",
@@ -85,9 +93,9 @@
       "requiredMods": []
     },
     {
-      "id": "steam-120-239-199-10-2303",
+      "id": "steam-120-239-199-38-2303",
       "name": "PC-Lily Epoch Server PVE/StarterKit/StarterCash/Patrol/Missions",
-      "host": "120.239.199.10",
+      "host": "120.239.199.38",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -462,18 +470,10 @@
     },
     {
       "id": "steam-185-241-226-195-2303",
-      "name": "Old School Adventures - DayZ Epoch (Chernarus)",
+      "name": "DayZ Epoch Living World (Chernarus)",
       "host": "185.241.226.195",
       "gamePort": 2302,
       "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-185-241-226-195-2403",
-      "name": "PLUTO AI Lab (private)",
-      "host": "185.241.226.195",
-      "gamePort": 2402,
-      "queryPort": 2403,
       "requiredMods": []
     },
     {
@@ -709,14 +709,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-213-24-135-220-2303",
-      "name": "sidd",
-      "host": "213.24.135.220",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
       "id": "steam-217-182-168-134-2303",
       "name": "Mumin Fighters",
       "host": "217.182.168.134",
@@ -736,6 +728,14 @@
       "id": "steam-23-160-192-72-2303",
       "name": "Bad Grapes Gang | Overpoch Taviana",
       "host": "23.160.192.72",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-24-151-229-245-2303",
+      "name": "Namalsk - Friends Only",
+      "host": "24.151.229.245",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -1078,7 +1078,7 @@
     },
     {
       "id": "steam-5-9-19-60-2303",
-      "name": "[PENNY-DAYZ]-*WIPED 02.10*-Convoy\u0026KotH EU\u0026German PVP",
+      "name": "[PENNY] *classic-DayZ* Convoy\u0026KotH EU\u0026German PVP",
       "host": "5.9.19.60",
       "gamePort": 2302,
       "queryPort": 2303,
@@ -1205,9 +1205,25 @@
       "requiredMods": []
     },
     {
+      "id": "steam-65-109-95-44-2203",
+      "name": "[TEST] RESTPLAY #2 Napf PvP Missions Patrols Sector",
+      "host": "65.109.95.44",
+      "gamePort": 2202,
+      "queryPort": 2203,
+      "requiredMods": []
+    },
+    {
       "id": "steam-68-235-60-3-2303",
       "name": "Herbonorot",
       "host": "68.235.60.3",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-78-147-47-228-2303",
+      "name": "Minihattan",
+      "host": "78.147.47.228",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -1221,9 +1237,9 @@
       "requiredMods": []
     },
     {
-      "id": "steam-79-205-57-9-2321",
+      "id": "steam-79-205-57-59-2321",
       "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
-      "host": "79.205.57.9",
+      "host": "79.205.57.59",
       "gamePort": 2320,
       "queryPort": 2321,
       "requiredMods": []
@@ -1389,9 +1405,9 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90-255-245-200-2303",
+      "id": "steam-90-255-232-153-2303",
       "name": "~EW~ NSA - EVO Blue",
-      "host": "90.255.245.200",
+      "host": "90.255.232.153",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -1453,9 +1469,9 @@
       "requiredMods": []
     },
     {
-      "id": "steam-94-5-51-142-2303",
-      "name": "Slow Walking Zombies DayZ Epoch Chernarus (Private Server) (1.0",
-      "host": "94.5.51.142",
+      "id": "steam-94-31-70-194-2303",
+      "name": "DayZ Epoch Taviana Server (1.0.7.1/144629)",
+      "host": "94.31.70.194",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -1520,6 +1536,54 @@
       "id": "steam-95-216-3-44-2303",
       "name": "[EU] Enemy // DayZ Epoch | PvE | discord.gg/dPCHjUd3u4",
       "host": "95.216.3.44",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-120-239-199-10-2303",
+      "name": "PC-Lily Epoch Server PVE/StarterKit/StarterCash/Patrol/Missions",
+      "host": "120.239.199.10",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-185-241-226-195-2403",
+      "name": "PLUTO AI Lab (private)",
+      "host": "185.241.226.195",
+      "gamePort": 2402,
+      "queryPort": 2403,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-213-24-135-220-2303",
+      "name": "sidd",
+      "host": "213.24.135.220",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-79-205-57-9-2321",
+      "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
+      "host": "79.205.57.9",
+      "gamePort": 2320,
+      "queryPort": 2321,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-90-255-245-200-2303",
+      "name": "~EW~ NSA - EVO Blue",
+      "host": "90.255.245.200",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-94-5-51-142-2303",
+      "name": "Slow Walking Zombies DayZ Epoch Chernarus (Private Server) (1.0",
+      "host": "94.5.51.142",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
