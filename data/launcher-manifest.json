@@ -1,6 +1,6 @@
 {
-  "sequence": 68,
-  "createdAt": "2026-10-24T14:30:42.1814559+00:00",
+  "sequence": 69,
+  "createdAt": "2026-10-25T15:30:35.6612329+00:00",
   "latestVersion": "1.2.0",
   "links": {
     "github": "https://github.com/DeandlDernai/Epoch-Mod-Launcher-Releases/releases",
@@ -85,9 +85,9 @@
       "requiredMods": []
     },
     {
-      "id": "steam-120-239-199-68-2303",
+      "id": "steam-120-239-199-69-2303",
       "name": "PC-Lily Epoch Server PVE/StarterKit/StarterCash/Patrol/Missions",
-      "host": "120.239.199.68",
+      "host": "120.239.199.69",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -357,6 +357,22 @@
       "requiredMods": []
     },
     {
+      "id": "steam-167-114-209-180-2803",
+      "name": "Minihattan",
+      "host": "167.114.209.180",
+      "gamePort": 2802,
+      "queryPort": 2803,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-168-205-61-200-2303",
+      "name": "FREE TAKISTAN FACEBOOK",
+      "host": "168.205.61.200",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
       "id": "steam-173-208-152-218-2303",
       "name": "-CDO Overpoch WIPED 6/30 1830hrs-|Semi Mil|Custom Map|VG|COINS|",
       "host": "173.208.152.218",
@@ -381,16 +397,8 @@
       "requiredMods": []
     },
     {
-      "id": "steam-178-211-184-227-3203",
-      "name": "RU66|ElectroClub Epoch 1.0.7.1|PvP",
-      "host": "178.211.184.227",
-      "gamePort": 3202,
-      "queryPort": 3203,
-      "requiredMods": []
-    },
-    {
       "id": "steam-178-211-184-227-3213",
-      "name": "RU66 | Sauerland Epoch 1.0.7.1 | PVE",
+      "name": "RU66 | Sauerland Epoch 1.0.7.1 | PVE | ONLY HERO PLAYERS",
       "host": "178.211.184.227",
       "gamePort": 3212,
       "queryPort": 3213,
@@ -477,6 +485,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-188-157-5-120-2303",
+      "name": "DayZ Revolution Hungary PVE 2025",
+      "host": "188.157.5.120",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
       "id": "steam-188-211-162-139-2303",
       "name": "[UK] Sari\u0027s Warfare | Takistan/Chernarus Rotation | JSRS, SoA \u0026",
       "host": "188.211.162.139",
@@ -522,6 +538,38 @@
       "host": "188.64.33.2",
       "gamePort": 2305,
       "queryPort": 2306,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-188-77-43-88-2403",
+      "name": "[0players.online] DayZ Vanilla 1.9.0",
+      "host": "188.77.43.88",
+      "gamePort": 2402,
+      "queryPort": 2403,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-188-77-43-88-2413",
+      "name": "[0players.online] Epoch 1.0.7.1",
+      "host": "188.77.43.88",
+      "gamePort": 2412,
+      "queryPort": 2413,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-188-77-43-88-2423",
+      "name": "Origins - Privat (v1.7.1\u002B1785miniClient/Build 103718) [REGULAR|",
+      "host": "188.77.43.88",
+      "gamePort": 2422,
+      "queryPort": 2423,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-188-77-43-88-2433",
+      "name": "[0players.online] DayZ 1.9.0 | Namalsk",
+      "host": "188.77.43.88",
+      "gamePort": 2432,
+      "queryPort": 2433,
       "requiredMods": []
     },
     {
@@ -581,17 +629,17 @@
       "requiredMods": []
     },
     {
-      "id": "steam-193-34-69-7-2304",
-      "name": "iNvU | Low-Mil |PVP| Advanced AI | Adaptive Missions | Bunkers",
-      "host": "193.34.69.7",
-      "gamePort": 2303,
-      "queryPort": 2304,
-      "requiredMods": []
-    },
-    {
       "id": "steam-195-93-181-30-2303",
       "name": "CWM Epoch Napf (1.0.5.1/131129)",
       "host": "195.93.181.30",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-199-27-248-24-2303",
+      "name": "VFI Escape",
+      "host": "199.27.248.24",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -688,14 +736,6 @@
       "id": "steam-23-160-192-72-2303",
       "name": "Bad Grapes Gang | Overpoch Taviana",
       "host": "23.160.192.72",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-24-151-229-245-2303",
-      "name": "Namalsk - Friends Only",
-      "host": "24.151.229.245",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -810,6 +850,14 @@
       "host": "37.187.144.40",
       "gamePort": 4834,
       "queryPort": 4835,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-37-187-144-40-5046",
+      "name": "Official Origins Mod #LFS [DE] Lemurenhaus Origins 2026(1.8.3/1",
+      "host": "37.187.144.40",
+      "gamePort": 5045,
+      "queryPort": 5046,
       "requiredMods": []
     },
     {
@@ -938,14 +986,6 @@
       "host": "45.138.48.55",
       "gamePort": 2314,
       "queryPort": 2315,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-45-142-26-112-2303",
-      "name": "Minihattan",
-      "host": "45.142.26.112",
-      "gamePort": 2302,
-      "queryPort": 2303,
       "requiredMods": []
     },
     {
@@ -1128,7 +1168,7 @@
       "id": "steam-63-251-42-82-2303",
       "name": "Stomping Grounds PVE~Militarized/Custom Everything/AI Patrols/H",
       "host": "63.251.42.82",
-      "gamePort": 2314,
+      "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
     },
@@ -1181,19 +1221,11 @@
       "requiredMods": []
     },
     {
-      "id": "steam-79-205-56-98-2321",
+      "id": "steam-79-238-33-159-2321",
       "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
-      "host": "79.205.56.98",
+      "host": "79.238.33.159",
       "gamePort": 2320,
       "queryPort": 2321,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-80-4-202-15-2303",
-      "name": "Elite Warriors Evo Red Chernarus",
-      "host": "80.4.202.15",
-      "gamePort": 2302,
-      "queryPort": 2303,
       "requiredMods": []
     },
     {
@@ -1214,7 +1246,7 @@
     },
     {
       "id": "steam-82-193-80-18-2303",
-      "name": "100DB | DOMINATION | PVP/TVT | RU/EN",
+      "name": "100DB | DOMINATION | PVP/TVT",
       "host": "82.193.80.18",
       "gamePort": 2302,
       "queryPort": 2303,
@@ -1230,7 +1262,7 @@
     },
     {
       "id": "steam-82-193-80-18-3303",
-      "name": "100DB|EPOCH.PVP|MIL.JETS/TANKS|MISSION|QUEST|RU/EN",
+      "name": "100DB|EPOCH.PVP|MIL.JETS/TANKS|MISSION|QUEST",
       "host": "82.193.80.18",
       "gamePort": 3302,
       "queryPort": 3303,
@@ -1325,6 +1357,22 @@
       "requiredMods": []
     },
     {
+      "id": "steam-84-197-11-158-2313",
+      "name": "Victor - DayZ 2013 - Chernarus \u002B Bandits",
+      "host": "84.197.11.158",
+      "gamePort": 2312,
+      "queryPort": 2313,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-84-197-11-158-2323",
+      "name": "Victor - DayZ 2013 - Namalsk \u002B Bandits",
+      "host": "84.197.11.158",
+      "gamePort": 2322,
+      "queryPort": 2323,
+      "requiredMods": []
+    },
+    {
       "id": "steam-85-190-161-104-10301",
       "name": "nitrado.net gameserver",
       "host": "85.190.161.104",
@@ -1346,6 +1394,14 @@
       "host": "85.190.163.20",
       "gamePort": 12000,
       "queryPort": 12001,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-85-23-109-23-2303",
+      "name": "DayZ Epoch Chernarus (private)",
+      "host": "85.23.109.23",
+      "gamePort": 2302,
+      "queryPort": 2303,
       "requiredMods": []
     },
     {
@@ -1440,6 +1496,22 @@
       "id": "steam-94-250-248-157-2303",
       "name": "Frost And Winter Gaming Chernarus AI|Bank|Trading|Ess|Crafting",
       "host": "94.250.248.157",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-94-31-70-194-2303",
+      "name": "DayZ Epoch Taviana Server (1.0.7.1/144629)",
+      "host": "94.31.70.194",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-94-31-71-195-2303",
+      "name": "DayZ Epoch Namalsk Server (1.0.7.1/144629)",
+      "host": "94.31.71.195",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
