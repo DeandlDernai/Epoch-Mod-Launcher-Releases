@@ -1,6 +1,6 @@
 {
-  "sequence": 70,
-  "createdAt": "2026-10-26T15:30:37.0542504+00:00",
+  "sequence": 71,
+  "createdAt": "2026-10-27T15:30:38.4937528+00:00",
   "latestVersion": "1.2.0",
   "links": {
     "github": "https://github.com/DeandlDernai/Epoch-Mod-Launcher-Releases/releases",
@@ -85,9 +85,9 @@
       "requiredMods": []
     },
     {
-      "id": "steam-120-239-199-9-2303",
+      "id": "steam-120-239-199-51-2303",
       "name": "PC-Lily Epoch Server PVE/StarterKit/StarterCash/Patrol/Missions",
-      "host": "120.239.199.9",
+      "host": "120.239.199.51",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -126,7 +126,7 @@
     },
     {
       "id": "steam-140-143-144-4-2303",
-      "name": "[CN] Q.D.S.DayZ Epoch PVE QQqun:978712117 Taviana",
+      "name": "[CN] Q.D.S.DayZ Epoch PVE QQqun:978712117 Chernarus Winter",
       "host": "140.143.144.4",
       "gamePort": 2302,
       "queryPort": 2303,
@@ -389,6 +389,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-177-155-85-78-2403",
+      "name": "Epoch Particular - PvE Solo",
+      "host": "177.155.85.78",
+      "gamePort": 2402,
+      "queryPort": 2403,
+      "requiredMods": []
+    },
+    {
       "id": "steam-178-140-195-120-2303",
       "name": "[PVE] Antysoft EVO RED like TehnikPC NO CHERNO! RQed: A2 \u0026 A2OA",
       "host": "178.140.195.120",
@@ -426,14 +434,6 @@
       "host": "178.66.51.42",
       "gamePort": 2302,
       "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-178-66-51-42-2603",
-      "name": "[Nemezis]|Closed TEST server|",
-      "host": "178.66.51.42",
-      "gamePort": 2602,
-      "queryPort": 2603,
       "requiredMods": []
     },
     {
@@ -733,6 +733,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-213-24-132-133-2303",
+      "name": "sidd",
+      "host": "213.24.132.133",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
       "id": "steam-217-182-168-134-2303",
       "name": "Mumin Fighters",
       "host": "217.182.168.134",
@@ -758,18 +766,10 @@
     },
     {
       "id": "steam-24-151-229-245-2303",
-      "name": "Panthera - Friends Only",
+      "name": "Taviana - Friends Only",
       "host": "24.151.229.245",
       "gamePort": 2302,
       "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-31-43-152-33-2363",
-      "name": "[UA] [A\u002B] Kyiv ArmA 2 [discord.gg/g2vE6tX]",
-      "host": "31.43.152.33",
-      "gamePort": 2362,
-      "queryPort": 2363,
       "requiredMods": []
     },
     {
@@ -790,7 +790,7 @@
     },
     {
       "id": "steam-37-187-144-40-2514",
-      "name": "Official Origins Mod #LFS ENDGAME Origins SUMMER WIPE https://d",
+      "name": "Official Origins Mod #LFS ENDGAME Origins AUTUMN WIPE (30/10/20",
       "host": "37.187.144.40",
       "gamePort": 2513,
       "queryPort": 2514,
@@ -810,14 +810,6 @@
       "host": "37.187.144.40",
       "gamePort": 3146,
       "queryPort": 3147,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-37-187-144-40-3358",
-      "name": "Official Origins Mod #LFS ZIEGENLORD(1.8.3/125548) Hosted @ Lag",
-      "host": "37.187.144.40",
-      "gamePort": 3357,
-      "queryPort": 3358,
       "requiredMods": []
     },
     {
@@ -1037,9 +1029,25 @@
       "requiredMods": []
     },
     {
+      "id": "steam-45-85-36-250-2303",
+      "name": "DayZ Epoch Napf Server (1.0.7.1/144629)",
+      "host": "45.85.36.250",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
       "id": "steam-45-93-200-132-2303",
       "name": "Origins Classic | WIPE 10.10.26 | PVP | discord.gg/rzyt4tQjAR |",
       "host": "45.93.200.132",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-46-85-112-4-2303",
+      "name": "DayZ Epoch Napf Server (1.0.7.1/144629)",
+      "host": "46.85.112.4",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -1184,8 +1192,16 @@
       "id": "steam-63-251-42-82-2303",
       "name": "Stomping Grounds PVE~Militarized/Custom Everything/AI Patrols/H",
       "host": "63.251.42.82",
-      "gamePort": 2314,
+      "gamePort": 2302,
       "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-64-20-41-82-2306",
+      "name": "Beatniks |PvE| Because Easy is Boring.",
+      "host": "64.20.41.82",
+      "gamePort": 2305,
+      "queryPort": 2306,
       "requiredMods": []
     },
     {
@@ -1221,6 +1237,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-65-109-95-44-2203",
+      "name": "[TEST] RESTPLAY #2 Napf PvP Missions Patrols Sector",
+      "host": "65.109.95.44",
+      "gamePort": 2202,
+      "queryPort": 2203,
+      "requiredMods": []
+    },
+    {
       "id": "steam-68-235-60-3-2303",
       "name": "Herbonorot",
       "host": "68.235.60.3",
@@ -1229,9 +1253,9 @@
       "requiredMods": []
     },
     {
-      "id": "steam-70-180-172-98-2303",
-      "name": "Local DayZ Epoch Chernarus Server (1.0.7.1/144629)",
-      "host": "70.180.172.98",
+      "id": "steam-79-139-171-162-2303",
+      "name": "Frost And Winter Gaming Chernarus AI|Bank|Trading|Ess|Crafting",
+      "host": "79.139.171.162",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -1245,9 +1269,9 @@
       "requiredMods": []
     },
     {
-      "id": "steam-79-238-32-135-2321",
+      "id": "steam-79-205-61-232-2321",
       "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
-      "host": "79.238.32.135",
+      "host": "79.205.61.232",
       "gamePort": 2320,
       "queryPort": 2321,
       "requiredMods": []
@@ -1306,14 +1330,6 @@
       "host": "82.202.197.47",
       "gamePort": 7777,
       "queryPort": 7778,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-82-24-82-222-2305",
-      "name": "OldSchool Dayz Epoch | AI Missions | 1000\u002B Vehicles | Militariz",
-      "host": "82.24.82.222",
-      "gamePort": 2304,
-      "queryPort": 2305,
       "requiredMods": []
     },
     {
@@ -1429,6 +1445,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-90-184-213-143-2303",
+      "name": "DayZ Epoch Chernarus Server (1.0.7.1/144629)",
+      "host": "90.184.213.143",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
       "id": "steam-90-255-232-153-2303",
       "name": "~EW~ NSA - EVO Blue",
       "host": "90.255.232.153",
@@ -1480,14 +1504,6 @@
       "id": "steam-94-250-209-39-2303",
       "name": "Lenny\u0060s Oripoch (PVE) [epoch.bplaced.net]",
       "host": "94.250.209.39",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-94-250-248-157-2303",
-      "name": "Frost And Winter Gaming Chernarus AI|Bank|Trading|Ess|Crafting",
-      "host": "94.250.248.157",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -1565,105 +1581,9 @@
       "requiredMods": []
     },
     {
-      "id": "steam-120-239-199-69-2303",
-      "name": "PC-Lily Epoch Server PVE/StarterKit/StarterCash/Patrol/Missions",
-      "host": "120.239.199.69",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-168-205-61-200-2303",
-      "name": "FREE TAKISTAN FACEBOOK",
-      "host": "168.205.61.200",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-188-40-64-51-2103",
-      "name": "(HAS)TEST",
-      "host": "188.40.64.51",
-      "gamePort": 2102,
-      "queryPort": 2103,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-199-27-248-24-2303",
-      "name": "VFI Escape",
-      "host": "199.27.248.24",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-213-24-132-133-2303",
-      "name": "sidd",
-      "host": "213.24.132.133",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-51-6-88-104-2303",
-      "name": "DayZ Epoch Sauerland Server (1.0.7.1/144629) @vanilla",
-      "host": "51.6.88.104",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-79-238-33-159-2321",
-      "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
-      "host": "79.238.33.159",
-      "gamePort": 2320,
-      "queryPort": 2321,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-82-193-80-18-2306",
-      "name": "100DB TEST (local, not public)",
-      "host": "82.193.80.18",
-      "gamePort": 2305,
-      "queryPort": 2306,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-84-197-11-158-2313",
-      "name": "Victor - DayZ 2013 - Chernarus \u002B Bandits",
-      "host": "84.197.11.158",
-      "gamePort": 2312,
-      "queryPort": 2313,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-84-197-11-158-2323",
-      "name": "Victor - DayZ 2013 - Namalsk \u002B Bandits",
-      "host": "84.197.11.158",
-      "gamePort": 2322,
-      "queryPort": 2323,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-85-23-109-23-2303",
-      "name": "DayZ Epoch Chernarus (private)",
-      "host": "85.23.109.23",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-94-31-70-194-2303",
-      "name": "DayZ Epoch Taviana Server (1.0.7.1/144629)",
-      "host": "94.31.70.194",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-94-31-71-195-2303",
-      "name": "DayZ Epoch Namalsk Server (1.0.7.1/144629)",
-      "host": "94.31.71.195",
+      "id": "steam-94-250-248-157-2303",
+      "name": "Frost And Winter Gaming Chernarus AI|Bank|Trading|Ess|Crafting",
+      "host": "94.250.248.157",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
