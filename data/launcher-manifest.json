@@ -1,6 +1,6 @@
 {
-  "sequence": 75,
-  "createdAt": "2026-10-31T15:30:28.9892162+00:00",
+  "sequence": 76,
+  "createdAt": "2026-11-01T15:30:32.4214243+00:00",
   "latestVersion": "1.2.0",
   "links": {
     "github": "https://github.com/DeandlDernai/Epoch-Mod-Launcher-Releases/releases",
@@ -30,7 +30,7 @@
     },
     {
       "id": "steam-104-246-99-167-2303",
-      "name": "PatientZero Server #1",
+      "name": "PatientZero Local Test RSI-TESTNODE-02",
       "host": "104.246.99.167",
       "gamePort": 2302,
       "queryPort": 2303,
@@ -85,9 +85,9 @@
       "requiredMods": []
     },
     {
-      "id": "steam-120-239-199-4-2303",
+      "id": "steam-120-239-199-113-2303",
       "name": "PC-Lily Epoch Server PVE/StarterKit/StarterCash/Patrol/Missions",
-      "host": "120.239.199.4",
+      "host": "120.239.199.113",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -229,14 +229,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-144-76-189-238-2303",
-      "name": "German Crayz Boyz",
-      "host": "144.76.189.238",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
       "id": "steam-145-87-238-24-2303",
       "name": "GEPO\u0027s Warfare Server (Benny Edition)",
       "host": "145.87.238.24",
@@ -272,14 +264,6 @@
       "id": "steam-159-195-46-9-2303",
       "name": "[GER] | in memory of TRC | by Madmax | DayZ Epoch (1.0.7.1/1446",
       "host": "159.195.46.9",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-159-196-126-132-2303",
-      "name": "heapslol Wasteland (Chernarus)",
-      "host": "159.196.126.132",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -362,14 +346,6 @@
       "host": "173.208.136.13",
       "gamePort": 2100,
       "queryPort": 2101,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-173-208-136-13-2201",
-      "name": "CarpeDiem Taviana |PVE|Traders|Missions",
-      "host": "173.208.136.13",
-      "gamePort": 2200,
-      "queryPort": 2201,
       "requiredMods": []
     },
     {
@@ -1053,6 +1029,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-5-45-109-158-2303",
+      "name": "DayZ Epoch - Fading Lights |Napf Survival",
+      "host": "5.45.109.158",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
       "id": "steam-5-62-101-131-10501",
       "name": "[EU] INSURGENCY NOW COOP - https://discord.gg/q6qHrhchh",
       "host": "5.62.101.131",
@@ -1205,17 +1189,9 @@
       "requiredMods": []
     },
     {
-      "id": "steam-79-139-171-162-2303",
-      "name": "Frost And Winter Gaming Chernarus AI|Bank|Trading|Ess|Crafting",
-      "host": "79.139.171.162",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-79-205-53-143-2321",
+      "id": "steam-79-238-42-199-2321",
       "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
-      "host": "79.205.53.143",
+      "host": "79.238.42.199",
       "gamePort": 2320,
       "queryPort": 2321,
       "requiredMods": []
@@ -1277,27 +1253,11 @@
       "requiredMods": []
     },
     {
-      "id": "steam-82-67-134-169-2304",
-      "name": "[FR] Neptune Warfare CO Takistan",
-      "host": "82.67.134.169",
-      "gamePort": 2303,
-      "queryPort": 2304,
-      "requiredMods": []
-    },
-    {
       "id": "steam-82-67-134-169-2318",
       "name": "[FR] Neptune Warfare CO Chernarus",
       "host": "82.67.134.169",
       "gamePort": 2317,
       "queryPort": 2318,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-82-67-134-169-2332",
-      "name": "[FR] Neptune Warfare CO Chernarus",
-      "host": "82.67.134.169",
-      "gamePort": 2331,
-      "queryPort": 2332,
       "requiredMods": []
     },
     {
@@ -1338,6 +1298,14 @@
       "host": "83.79.164.132",
       "gamePort": 2332,
       "queryPort": 2333,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-84-145-34-135-2316",
+      "name": "Origins - Privat (v1.7.1\u002B1785miniClient/Build 103718) [REGULAR|",
+      "host": "84.145.34.135",
+      "gamePort": 2315,
+      "queryPort": 2316,
       "requiredMods": []
     },
     {
@@ -1397,14 +1365,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-90-184-213-143-2303",
-      "name": "DayZ Epoch Chernarus Server (1.0.7.1/144629)",
-      "host": "90.184.213.143",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
       "id": "steam-90-255-232-153-2303",
       "name": "~EW~ NSA - EVO Blue",
       "host": "90.255.232.153",
@@ -1456,6 +1416,14 @@
       "id": "steam-94-250-209-39-2303",
       "name": "Lenny\u0060s Oripoch (PVE) [epoch.bplaced.net]",
       "host": "94.250.209.39",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-94-250-248-157-2303",
+      "name": "Frost And Winter Gaming Chernarus AI|Bank|Trading|Ess|Crafting",
+      "host": "94.250.248.157",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -1528,78 +1496,6 @@
       "id": "steam-95-216-3-44-2303",
       "name": "[EU] Enemy // DayZ Epoch | PvE | discord.gg/dPCHjUd3u4",
       "host": "95.216.3.44",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-109-204-186-162-2313",
-      "name": "[AD]DayZ Mod 1.9.1 HOW TO JOIN discord.me/VFB",
-      "host": "109.204.186.162",
-      "gamePort": 2312,
-      "queryPort": 2313,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-120-239-199-63-2303",
-      "name": "PC-Lily Epoch Server PVE/StarterKit/StarterCash/Patrol/Missions",
-      "host": "120.239.199.63",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-142-132-192-57-2303",
-      "name": "CATALAN ARMY",
-      "host": "142.132.192.57",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-78-48-108-146-2303",
-      "name": "Das DayZ Epoch Chernarus Server (1.0.7.1/144629)",
-      "host": "78.48.108.146",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-79-140-181-7-2303",
-      "name": "Dead Horizon Epoch",
-      "host": "79.140.181.7",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-79-205-61-215-2321",
-      "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
-      "host": "79.205.61.215",
-      "gamePort": 2320,
-      "queryPort": 2321,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-82-193-80-18-2306",
-      "name": "100DB TEST (local, not public)",
-      "host": "82.193.80.18",
-      "gamePort": 2305,
-      "queryPort": 2306,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-94-134-193-7-2303",
-      "name": "insan auf Phil-PC",
-      "host": "94.134.193.7",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-94-250-248-157-2303",
-      "name": "Frost And Winter Gaming Chernarus AI|Bank|Trading|Ess|Crafting",
-      "host": "94.250.248.157",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
