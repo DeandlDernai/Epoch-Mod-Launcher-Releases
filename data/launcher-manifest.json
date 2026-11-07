@@ -1,6 +1,6 @@
 {
-  "sequence": 81,
-  "createdAt": "2026-11-06T15:30:29.743347+00:00",
+  "sequence": 82,
+  "createdAt": "2026-11-07T15:30:27.3868097+00:00",
   "latestVersion": "1.2.0",
   "links": {
     "github": "https://github.com/DeandlDernai/Epoch-Mod-Launcher-Releases/releases",
@@ -30,7 +30,7 @@
     },
     {
       "id": "steam-104-246-99-167-2303",
-      "name": "PatientZero Local Test RSI-TESTNODE-01",
+      "name": "PatientZero Local Test RSI-TESTNODE-02",
       "host": "104.246.99.167",
       "gamePort": 2302,
       "queryPort": 2303,
@@ -101,9 +101,9 @@
       "requiredMods": []
     },
     {
-      "id": "steam-120-239-199-120-2303",
+      "id": "steam-120-239-199-68-2303",
       "name": "PC-Lily Epoch Server PVE/StarterKit/StarterCash/Patrol/Missions",
-      "host": "120.239.199.120",
+      "host": "120.239.199.68",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -357,6 +357,22 @@
       "requiredMods": []
     },
     {
+      "id": "steam-173-208-136-13-2101",
+      "name": "CarpeDiemZ Epoch|PVE|Chernarus|Missions",
+      "host": "173.208.136.13",
+      "gamePort": 2100,
+      "queryPort": 2101,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-173-208-136-13-2201",
+      "name": "CarpeDiemZ Taviana|PVE|Traders|Missions",
+      "host": "173.208.136.13",
+      "gamePort": 2200,
+      "queryPort": 2201,
+      "requiredMods": []
+    },
+    {
       "id": "steam-173-208-152-218-2303",
       "name": "-CDO Overpoch WIPED 6/30 1830hrs-|Semi Mil|Custom Map|VG|COINS|",
       "host": "173.208.152.218",
@@ -410,6 +426,14 @@
       "host": "178.66.51.42",
       "gamePort": 2302,
       "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-178-66-51-42-2603",
+      "name": "[Nemezis]|Closed TEST server|",
+      "host": "178.66.51.42",
+      "gamePort": 2602,
+      "queryPort": 2603,
       "requiredMods": []
     },
     {
@@ -518,7 +542,7 @@
     },
     {
       "id": "steam-188-40-64-51-2303",
-      "name": "(HAS)Hard As Steel|PVE|Napf|Overpoch|Militarized|Custom2|1.0.7.",
+      "name": "(HAS)Hard As Steel|Wiped 06-11-26|PVE|Napf|Overpoch|Militarized",
       "host": "188.40.64.51",
       "gamePort": 2302,
       "queryPort": 2303,
@@ -685,14 +709,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-24-230-165-140-2303",
-      "name": "[Olympus] Epoch Chernarus|WIPED|Missions|AI|Spawn Select|VG|Dep",
-      "host": "24.230.165.140",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
       "id": "steam-37-120-164-54-2801",
       "name": "Brooks Namalsk [PVE] extended A2 \u002B A1",
       "host": "37.120.164.54",
@@ -818,14 +834,6 @@
       "host": "37.187.144.40",
       "gamePort": 6733,
       "queryPort": 6734,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-37-187-144-40-6945",
-      "name": "Official Origins Mod #LFS KingKongs World(1.8.3/125548) Hosted",
-      "host": "37.187.144.40",
-      "gamePort": 6944,
-      "queryPort": 6945,
       "requiredMods": []
     },
     {
@@ -965,16 +973,8 @@
       "requiredMods": []
     },
     {
-      "id": "steam-5-226-141-85-2304",
-      "name": "ExDecay Epoch 4 Man Group",
-      "host": "5.226.141.85",
-      "gamePort": 2303,
-      "queryPort": 2304,
-      "requiredMods": []
-    },
-    {
       "id": "steam-5-226-142-60-2305",
-      "name": "Bambie Hell DayZ Epoch",
+      "name": "Bambie Hell |Epoch|Ai|Missions|Hard mode",
       "host": "5.226.142.60",
       "gamePort": 2304,
       "queryPort": 2305,
@@ -1014,7 +1014,7 @@
     },
     {
       "id": "steam-5-9-19-60-2303",
-      "name": "[PENNY] *classic-DayZ* Convoy\u0026KotH EU\u0026German PVP",
+      "name": "[PENNY] EU\u0026GER *Oldschool-DayZ* KotH\u0026Convoy PVP",
       "host": "5.9.19.60",
       "gamePort": 2302,
       "queryPort": 2303,
@@ -1165,9 +1165,17 @@
       "requiredMods": []
     },
     {
-      "id": "steam-79-248-156-252-2321",
+      "id": "steam-77-177-35-3-2303",
+      "name": "Das DayZ Epoch Chernarus Server (1.0.7.1/144629)",
+      "host": "77.177.35.3",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-79-205-60-228-2321",
       "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
-      "host": "79.248.156.252",
+      "host": "79.205.60.228",
       "gamePort": 2320,
       "queryPort": 2321,
       "requiredMods": []
@@ -1194,6 +1202,14 @@
       "host": "82.193.80.18",
       "gamePort": 2302,
       "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-82-193-80-18-2306",
+      "name": "100DB TEST (local, not public)",
+      "host": "82.193.80.18",
+      "gamePort": 2305,
+      "queryPort": 2306,
       "requiredMods": []
     },
     {
@@ -1285,6 +1301,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-84-145-34-135-2316",
+      "name": "Origins - Privat (v1.7.1\u002B1785miniClient/Build 103718) [REGULAR|",
+      "host": "84.145.34.135",
+      "gamePort": 2315,
+      "queryPort": 2316,
+      "requiredMods": []
+    },
+    {
       "id": "steam-85-190-161-104-10301",
       "name": "nitrado.net gameserver",
       "host": "85.190.161.104",
@@ -1362,14 +1386,6 @@
       "host": "91.208.92.121",
       "gamePort": 2502,
       "queryPort": 2503,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-93-131-93-139-2303",
-      "name": "Das DayZ Epoch Chernarus Server (1.0.7.1/144629)",
-      "host": "93.131.93.139",
-      "gamePort": 2302,
-      "queryPort": 2303,
       "requiredMods": []
     },
     {
@@ -1464,6 +1480,54 @@
       "id": "steam-95-216-3-44-2303",
       "name": "[EU] Enemy // DayZ Epoch | PvE | discord.gg/dPCHjUd3u4",
       "host": "95.216.3.44",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-120-239-199-120-2303",
+      "name": "PC-Lily Epoch Server PVE/StarterKit/StarterCash/Patrol/Missions",
+      "host": "120.239.199.120",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-24-230-165-140-2303",
+      "name": "[Olympus] Epoch Chernarus|WIPED|Missions|AI|Spawn Select|VG|Dep",
+      "host": "24.230.165.140",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-37-187-144-40-6945",
+      "name": "Official Origins Mod #LFS KingKongs World(1.8.3/125548) Hosted",
+      "host": "37.187.144.40",
+      "gamePort": 6944,
+      "queryPort": 6945,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-5-226-141-85-2304",
+      "name": "ExDecay Epoch 4 Man Group",
+      "host": "5.226.141.85",
+      "gamePort": 2303,
+      "queryPort": 2304,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-79-248-156-252-2321",
+      "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
+      "host": "79.248.156.252",
+      "gamePort": 2320,
+      "queryPort": 2321,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-93-131-93-139-2303",
+      "name": "Das DayZ Epoch Chernarus Server (1.0.7.1/144629)",
+      "host": "93.131.93.139",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
