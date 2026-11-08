@@ -1,6 +1,6 @@
 {
-  "sequence": 82,
-  "createdAt": "2026-11-07T15:30:27.3868097+00:00",
+  "sequence": 83,
+  "createdAt": "2026-11-08T15:30:34.9105349+00:00",
   "latestVersion": "1.2.0",
   "links": {
     "github": "https://github.com/DeandlDernai/Epoch-Mod-Launcher-Releases/releases",
@@ -30,7 +30,7 @@
     },
     {
       "id": "steam-104-246-99-167-2303",
-      "name": "PatientZero Local Test RSI-TESTNODE-02",
+      "name": "PatientZero Local Test RSI-TESTNODE-03",
       "host": "104.246.99.167",
       "gamePort": 2302,
       "queryPort": 2303,
@@ -101,9 +101,17 @@
       "requiredMods": []
     },
     {
-      "id": "steam-120-239-199-68-2303",
+      "id": "steam-109-51-73-230-2303",
+      "name": "DayZ Epoch Chernarus Server (1.0.7.1/144629)",
+      "host": "109.51.73.230",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-120-239-199-66-2303",
       "name": "PC-Lily Epoch Server PVE/StarterKit/StarterCash/Patrol/Missions",
-      "host": "120.239.199.68",
+      "host": "120.239.199.66",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -429,14 +437,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-178-66-51-42-2603",
-      "name": "[Nemezis]|Closed TEST server|",
-      "host": "178.66.51.42",
-      "gamePort": 2602,
-      "queryPort": 2603,
-      "requiredMods": []
-    },
-    {
       "id": "steam-181-233-46-239-2303",
       "name": "FREE TAKISTAN FACEBOOK",
       "host": "181.233.46.239",
@@ -589,6 +589,78 @@
       "requiredMods": []
     },
     {
+      "id": "steam-192-95-33-8-2303",
+      "name": "#US001 | Official OriginsMod DevServer |All-Skills|Lock:ON|3DP:",
+      "host": "192.95.33.8",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-192-95-33-8-2514",
+      "name": "Official Origins Mod #LFS KovidKillahs[WSP](1.8.3/125548) Hoste",
+      "host": "192.95.33.8",
+      "gamePort": 2513,
+      "queryPort": 2514,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-192-95-33-8-2725",
+      "name": "Official Origins Mod #LFS NATION Z ORIGINS|PVP|FULL SKILL|WIPE|",
+      "host": "192.95.33.8",
+      "gamePort": 2724,
+      "queryPort": 2725,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-192-95-33-8-2936",
+      "name": "Official Origins Mod #LFS Hells Honor(1.8.3/125548) Hosted @ La",
+      "host": "192.95.33.8",
+      "gamePort": 2935,
+      "queryPort": 2936,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-192-95-33-8-3147",
+      "name": "Official Origins Mod #LFS RGS Australia [PvE](1.8.3/125548) Hos",
+      "host": "192.95.33.8",
+      "gamePort": 3146,
+      "queryPort": 3147,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-192-95-33-8-3358",
+      "name": "Official Origins Mod #LFS squids(1.8.3/125548) Hosted @ LagFree",
+      "host": "192.95.33.8",
+      "gamePort": 3357,
+      "queryPort": 3358,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-192-95-33-8-3569",
+      "name": "Official Origins Mod #LFS Origins Free-For-All(1.8.3/125548) Ho",
+      "host": "192.95.33.8",
+      "gamePort": 3568,
+      "queryPort": 3569,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-192-95-33-8-3780",
+      "name": "Official Origins Mod #LFS OG Gaming(1.8.3/125548) Hosted @ LagF",
+      "host": "192.95.33.8",
+      "gamePort": 3779,
+      "queryPort": 3780,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-192-95-33-8-4413",
+      "name": "Official Origins Mod #LFS Shihos House of Poi(1.8.3/125548) Hos",
+      "host": "192.95.33.8",
+      "gamePort": 4412,
+      "queryPort": 4413,
+      "requiredMods": []
+    },
+    {
       "id": "steam-193-34-69-7-2304",
       "name": "iNvU | Low-Mil |PVP| Advanced AI | Adaptive Missions | Bunkers",
       "host": "193.34.69.7",
@@ -704,6 +776,14 @@
       "id": "steam-23-160-192-72-2303",
       "name": "Bad Grapes Gang | Overpoch Taviana",
       "host": "23.160.192.72",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-31-10-92-247-2303",
+      "name": "DayZ Epoch Taviana Server (1.0.7.1/144629)",
+      "host": "31.10.92.247",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -837,6 +917,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-37-187-144-40-6945",
+      "name": "Official Origins Mod #LFS KingKongs World(1.8.3/125548) Hosted",
+      "host": "37.187.144.40",
+      "gamePort": 6944,
+      "queryPort": 6945,
+      "requiredMods": []
+    },
+    {
       "id": "steam-37-187-144-40-7578",
       "name": "Official Origins Mod #LFS [SAW] Clan PVE Server (Whitelist | No",
       "host": "37.187.144.40",
@@ -954,6 +1042,62 @@
       "host": "45.93.200.132",
       "gamePort": 2302,
       "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-46-64-159-139-2303",
+      "name": "Slow Walking Zombies DayZ Epoch Chernarus (Private Server) (1.0",
+      "host": "46.64.159.139",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-46-64-159-139-2403",
+      "name": "Slow Walking Zombies DayZ Epoch Lingor Server (1.0.6.1/144629)",
+      "host": "46.64.159.139",
+      "gamePort": 2402,
+      "queryPort": 2403,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-46-64-159-139-2503",
+      "name": "Slow Walking Zombies DayZ Epoch Taviana Server (1.0.6.1/144629)",
+      "host": "46.64.159.139",
+      "gamePort": 2502,
+      "queryPort": 2503,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-46-64-159-139-2603",
+      "name": "Slow Walking Zombies DayZ Epoch Namalsk Server (1.0.6.1/144629)",
+      "host": "46.64.159.139",
+      "gamePort": 2602,
+      "queryPort": 2603,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-46-64-159-139-2703",
+      "name": "Slow Walking Zombies DayZ Epoch Panthera Server (1.0.6.1/144629",
+      "host": "46.64.159.139",
+      "gamePort": 2702,
+      "queryPort": 2703,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-46-64-159-139-2803",
+      "name": "Slow Walking Zombies DayZ Overpoch Chernarus Server (1.0.6.1/14",
+      "host": "46.64.159.139",
+      "gamePort": 2802,
+      "queryPort": 2803,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-46-64-159-139-2903",
+      "name": "DayZ Origins - Private Server (v1.7.1\u002B1785miniClient/Build 1446",
+      "host": "46.64.159.139",
+      "gamePort": 2902,
+      "queryPort": 2903,
       "requiredMods": []
     },
     {
@@ -1165,17 +1309,17 @@
       "requiredMods": []
     },
     {
-      "id": "steam-77-177-35-3-2303",
+      "id": "steam-77-176-63-83-2303",
       "name": "Das DayZ Epoch Chernarus Server (1.0.7.1/144629)",
-      "host": "77.177.35.3",
+      "host": "77.176.63.83",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
     },
     {
-      "id": "steam-79-205-60-228-2321",
+      "id": "steam-79-205-59-203-2321",
       "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
-      "host": "79.205.60.228",
+      "host": "79.205.59.203",
       "gamePort": 2320,
       "queryPort": 2321,
       "requiredMods": []
@@ -1214,7 +1358,7 @@
     },
     {
       "id": "steam-82-193-80-18-3303",
-      "name": "100DB EPOCH | PVP | JETS/TANKS | MISSIONS/QUESTS/DRUGS",
+      "name": "100DB EPOCH | PVP | HELI/JETS/T | MISSIONS/HOUSES | RU/EN/GER",
       "host": "82.193.80.18",
       "gamePort": 3302,
       "queryPort": 3303,
@@ -1274,30 +1418,6 @@
       "host": "83.167.115.59",
       "gamePort": 2302,
       "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-83-79-164-132-2303",
-      "name": ".:BaronsBerg Bootcamp:.|PvE\u0026PvP|AI|SlowZ|1.0.7|DayZ:Epoch",
-      "host": "83.79.164.132",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-83-79-164-132-2323",
-      "name": ".:BaronsBerg Action:.|PvE\u0026PvP|AI|SlowZ|1.0.7|DayZ:Epoch",
-      "host": "83.79.164.132",
-      "gamePort": 2322,
-      "queryPort": 2323,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-83-79-164-132-2333",
-      "name": ".:BaronsBerg Survival:.|PvE\u0026PvP|AI|UTC\u002B1|1.0.7|DayZ:Epoch",
-      "host": "83.79.164.132",
-      "gamePort": 2332,
-      "queryPort": 2333,
       "requiredMods": []
     },
     {
@@ -1413,62 +1533,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-94-5-51-142-2303",
-      "name": "Slow Walking Zombies DayZ Epoch Chernarus (Private Server) (1.0",
-      "host": "94.5.51.142",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-94-5-51-142-2403",
-      "name": "Slow Walking Zombies DayZ Epoch Lingor Server (1.0.6.1/144629)",
-      "host": "94.5.51.142",
-      "gamePort": 2402,
-      "queryPort": 2403,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-94-5-51-142-2503",
-      "name": "Slow Walking Zombies DayZ Epoch Taviana Server (1.0.6.1/144629)",
-      "host": "94.5.51.142",
-      "gamePort": 2502,
-      "queryPort": 2503,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-94-5-51-142-2603",
-      "name": "Slow Walking Zombies DayZ Epoch Namalsk Server (1.0.6.1/144629)",
-      "host": "94.5.51.142",
-      "gamePort": 2602,
-      "queryPort": 2603,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-94-5-51-142-2703",
-      "name": "Slow Walking Zombies DayZ Epoch Panthera Server (1.0.6.1/144629",
-      "host": "94.5.51.142",
-      "gamePort": 2702,
-      "queryPort": 2703,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-94-5-51-142-2803",
-      "name": "Slow Walking Zombies DayZ Overpoch Chernarus Server (1.0.6.1/14",
-      "host": "94.5.51.142",
-      "gamePort": 2802,
-      "queryPort": 2803,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-94-5-51-142-2903",
-      "name": "DayZ Origins - Private Server (v1.7.1\u002B1785miniClient/Build 1446",
-      "host": "94.5.51.142",
-      "gamePort": 2902,
-      "queryPort": 2903,
-      "requiredMods": []
-    },
-    {
       "id": "steam-95-165-128-187-2303",
       "name": "*[RU]-Positive-PvE-evolution",
       "host": "95.165.128.187",
@@ -1480,54 +1544,6 @@
       "id": "steam-95-216-3-44-2303",
       "name": "[EU] Enemy // DayZ Epoch | PvE | discord.gg/dPCHjUd3u4",
       "host": "95.216.3.44",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-120-239-199-120-2303",
-      "name": "PC-Lily Epoch Server PVE/StarterKit/StarterCash/Patrol/Missions",
-      "host": "120.239.199.120",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-24-230-165-140-2303",
-      "name": "[Olympus] Epoch Chernarus|WIPED|Missions|AI|Spawn Select|VG|Dep",
-      "host": "24.230.165.140",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-37-187-144-40-6945",
-      "name": "Official Origins Mod #LFS KingKongs World(1.8.3/125548) Hosted",
-      "host": "37.187.144.40",
-      "gamePort": 6944,
-      "queryPort": 6945,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-5-226-141-85-2304",
-      "name": "ExDecay Epoch 4 Man Group",
-      "host": "5.226.141.85",
-      "gamePort": 2303,
-      "queryPort": 2304,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-79-248-156-252-2321",
-      "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
-      "host": "79.248.156.252",
-      "gamePort": 2320,
-      "queryPort": 2321,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-93-131-93-139-2303",
-      "name": "Das DayZ Epoch Chernarus Server (1.0.7.1/144629)",
-      "host": "93.131.93.139",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
