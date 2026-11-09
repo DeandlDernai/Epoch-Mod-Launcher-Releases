@@ -1,6 +1,6 @@
 {
-  "sequence": 83,
-  "createdAt": "2026-11-08T15:30:34.9105349+00:00",
+  "sequence": 84,
+  "createdAt": "2026-11-09T15:30:27.7454605+00:00",
   "latestVersion": "1.2.0",
   "links": {
     "github": "https://github.com/DeandlDernai/Epoch-Mod-Launcher-Releases/releases",
@@ -30,7 +30,7 @@
     },
     {
       "id": "steam-104-246-99-167-2303",
-      "name": "PatientZero Local Test RSI-TESTNODE-03",
+      "name": "PatientZero Local Test RSI-TESTNODE-01",
       "host": "104.246.99.167",
       "gamePort": 2302,
       "queryPort": 2303,
@@ -101,17 +101,9 @@
       "requiredMods": []
     },
     {
-      "id": "steam-109-51-73-230-2303",
-      "name": "DayZ Epoch Chernarus Server (1.0.7.1/144629)",
-      "host": "109.51.73.230",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-120-239-199-66-2303",
+      "id": "steam-120-239-199-72-2303",
       "name": "PC-Lily Epoch Server PVE/StarterKit/StarterCash/Patrol/Missions",
-      "host": "120.239.199.66",
+      "host": "120.239.199.72",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -221,14 +213,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-144-217-0-248-5303",
-      "name": "[Dawn Patrol] Taviana|BEST EPOCH|BASE RANSOMS|STARTER BASE KIT|",
-      "host": "144.217.0.248",
-      "gamePort": 5302,
-      "queryPort": 5303,
-      "requiredMods": []
-    },
-    {
       "id": "steam-144-217-0-248-6303",
       "name": "[Dawn Patrol] PVE Sauerland|BEST EPOCH|STARTER BASE KIT|CUSTOM",
       "host": "144.217.0.248",
@@ -296,6 +280,14 @@
       "id": "steam-159-195-46-9-2303",
       "name": "[GER] | in memory of TRC | by Madmax | DayZ Epoch (1.0.7.1/1446",
       "host": "159.195.46.9",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-159-196-81-147-2303",
+      "name": "[AU]|SFPNBN|DayZ Epoch Chernarus [DZAI, WAI, Infinistar] (1.0.7",
+      "host": "159.196.81.147",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -781,9 +773,17 @@
       "requiredMods": []
     },
     {
-      "id": "steam-31-10-92-247-2303",
-      "name": "DayZ Epoch Taviana Server (1.0.7.1/144629)",
-      "host": "31.10.92.247",
+      "id": "steam-24-205-204-99-2303",
+      "name": "DayZ Overpoch Chernarus Server (1.0.7.1/144629)",
+      "host": "24.205.204.99",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-37-114-146-188-2303",
+      "name": "Evolution",
+      "host": "37.114.146.188",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -1032,6 +1032,14 @@
       "id": "steam-45-45-238-226-2303",
       "name": "Dayz Epoch 1.07 Temu-Origins Taviana (full-map)- Powered by GTX",
       "host": "45.45.238.226",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-45-85-105-209-2303",
+      "name": "DayZ Vanilla 1.9.0 - Local",
+      "host": "45.85.105.209",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -1293,14 +1301,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-65-109-95-44-2203",
-      "name": "[TEST] RESTPLAY #2 Napf PvP Missions Patrols Sector",
-      "host": "65.109.95.44",
-      "gamePort": 2202,
-      "queryPort": 2203,
-      "requiredMods": []
-    },
-    {
       "id": "steam-68-235-60-3-2303",
       "name": "Herbonorot",
       "host": "68.235.60.3",
@@ -1309,17 +1309,25 @@
       "requiredMods": []
     },
     {
-      "id": "steam-77-176-63-83-2303",
-      "name": "Das DayZ Epoch Chernarus Server (1.0.7.1/144629)",
-      "host": "77.176.63.83",
+      "id": "steam-70-180-163-130-2303",
+      "name": "SanctifiedRealms DayZ Epoch Portal",
+      "host": "70.180.163.130",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
     },
     {
-      "id": "steam-79-205-59-203-2321",
+      "id": "steam-78-48-57-2-2303",
+      "name": "Das DayZ Epoch Chernarus Server (1.0.7.1/144629)",
+      "host": "78.48.57.2",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-79-205-62-209-2321",
       "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
-      "host": "79.205.59.203",
+      "host": "79.205.62.209",
       "gamePort": 2320,
       "queryPort": 2321,
       "requiredMods": []
@@ -1346,14 +1354,6 @@
       "host": "82.193.80.18",
       "gamePort": 2302,
       "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-82-193-80-18-2306",
-      "name": "100DB TEST (local, not public)",
-      "host": "82.193.80.18",
-      "gamePort": 2305,
-      "queryPort": 2306,
       "requiredMods": []
     },
     {
@@ -1418,6 +1418,30 @@
       "host": "83.167.115.59",
       "gamePort": 2302,
       "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-83-79-164-132-2303",
+      "name": ".:BaronsBerg Bootcamp:.|PvE\u0026PvP|AI|SlowZ|1.0.7|DayZ:Epoch",
+      "host": "83.79.164.132",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-83-79-164-132-2323",
+      "name": ".:BaronsBerg Action:.|PvE\u0026PvP|AI|SlowZ|1.0.7|DayZ:Epoch",
+      "host": "83.79.164.132",
+      "gamePort": 2322,
+      "queryPort": 2323,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-83-79-164-132-2333",
+      "name": ".:BaronsBerg Survival:.|PvE\u0026PvP|AI|UTC\u002B1|1.0.7|DayZ:Epoch",
+      "host": "83.79.164.132",
+      "gamePort": 2332,
+      "queryPort": 2333,
       "requiredMods": []
     },
     {
@@ -1546,6 +1570,70 @@
       "host": "95.216.3.44",
       "gamePort": 2302,
       "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-109-51-73-230-2303",
+      "name": "DayZ Epoch Chernarus Server (1.0.7.1/144629)",
+      "host": "109.51.73.230",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-120-239-199-66-2303",
+      "name": "PC-Lily Epoch Server PVE/StarterKit/StarterCash/Patrol/Missions",
+      "host": "120.239.199.66",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-144-217-0-248-5303",
+      "name": "[Dawn Patrol] Taviana|BEST EPOCH|BASE RANSOMS|STARTER BASE KIT|",
+      "host": "144.217.0.248",
+      "gamePort": 5302,
+      "queryPort": 5303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-31-10-92-247-2303",
+      "name": "DayZ Epoch Taviana Server (1.0.7.1/144629)",
+      "host": "31.10.92.247",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-65-109-95-44-2203",
+      "name": "[TEST] RESTPLAY #2 Napf PvP Missions Patrols Sector",
+      "host": "65.109.95.44",
+      "gamePort": 2202,
+      "queryPort": 2203,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-77-176-63-83-2303",
+      "name": "Das DayZ Epoch Chernarus Server (1.0.7.1/144629)",
+      "host": "77.176.63.83",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-79-205-59-203-2321",
+      "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
+      "host": "79.205.59.203",
+      "gamePort": 2320,
+      "queryPort": 2321,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-82-193-80-18-2306",
+      "name": "100DB TEST (local, not public)",
+      "host": "82.193.80.18",
+      "gamePort": 2305,
+      "queryPort": 2306,
       "requiredMods": []
     },
     {
