@@ -1,6 +1,6 @@
 {
-  "sequence": 85,
-  "createdAt": "2026-11-10T15:30:33.9126679+00:00",
+  "sequence": 86,
+  "createdAt": "2026-11-11T15:30:32.3815286+00:00",
   "latestVersion": "1.2.0",
   "links": {
     "github": "https://github.com/DeandlDernai/Epoch-Mod-Launcher-Releases/releases",
@@ -30,7 +30,7 @@
     },
     {
       "id": "steam-104-246-99-167-2303",
-      "name": "PatientZero Local Test RSI-TESTNODE-02",
+      "name": "PatientZero Local Test RSI-TESTNODE-03",
       "host": "104.246.99.167",
       "gamePort": 2302,
       "queryPort": 2303,
@@ -69,9 +69,9 @@
       "requiredMods": []
     },
     {
-      "id": "steam-120-239-199-107-2303",
+      "id": "steam-120-239-199-0-2303",
       "name": "PC-Lily Epoch Server PVE/StarterKit/StarterCash/Patrol/Missions",
-      "host": "120.239.199.107",
+      "host": "120.239.199.0",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -477,6 +477,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-188-127-218-102-2303",
+      "name": "Rockabilly House - Duala Conflict 1.64 TEST",
+      "host": "188.127.218.102",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
       "id": "steam-188-157-5-120-2303",
       "name": "DayZ Revolution Hungary PVE 2025",
       "host": "188.157.5.120",
@@ -741,14 +749,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-23-106-58-144-2303",
-      "name": "Challenger Napf PVE Only (1.0.7.1)",
-      "host": "23.106.58.144",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
       "id": "steam-23-160-192-72-2303",
       "name": "Bad Grapes Gang | Overpoch Taviana",
       "host": "23.160.192.72",
@@ -845,14 +845,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-37-187-144-40-4835",
-      "name": "Official Origins Mod #LFS End of dayz(1.8.3/125548) Hosted @ La",
-      "host": "37.187.144.40",
-      "gamePort": 4834,
-      "queryPort": 4835,
-      "requiredMods": []
-    },
-    {
       "id": "steam-37-187-144-40-5046",
       "name": "Official Origins Mod #LFS [DE] Lemurenhaus Origins 2026(1.8.3/1",
       "host": "37.187.144.40",
@@ -890,6 +882,14 @@
       "host": "37.187.144.40",
       "gamePort": 6733,
       "queryPort": 6734,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-37-187-144-40-6945",
+      "name": "Official Origins Mod #LFS KingKongs World(1.8.3/125548) Hosted",
+      "host": "37.187.144.40",
+      "gamePort": 6944,
+      "queryPort": 6945,
       "requiredMods": []
     },
     {
@@ -1008,6 +1008,14 @@
       "id": "steam-45-93-200-132-2303",
       "name": "Origins Classic | WIPE 10.10.26 | PVP | discord.gg/rzyt4tQjAR |",
       "host": "45.93.200.132",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-46-64-159-139-2303",
+      "name": "Slow Walking Zombies DayZ Epoch Chernarus (Private Server) (1.0",
+      "host": "46.64.159.139",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -1198,7 +1206,7 @@
     },
     {
       "id": "steam-54-36-224-200-2903",
-      "name": "The_Family, Takistan, epoch 1071, pve, AI",
+      "name": "The_Family, Cherno, epoch 1071, pve, AI",
       "host": "54.36.224.200",
       "gamePort": 2902,
       "queryPort": 2903,
@@ -1269,9 +1277,17 @@
       "requiredMods": []
     },
     {
-      "id": "steam-79-238-34-203-2321",
+      "id": "steam-77-177-3-6-2303",
+      "name": "Das DayZ Epoch Chernarus Server (1.0.7.1/144629)",
+      "host": "77.177.3.6",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-79-205-50-121-2321",
       "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
-      "host": "79.238.34.203",
+      "host": "79.205.50.121",
       "gamePort": 2320,
       "queryPort": 2321,
       "requiredMods": []
@@ -1288,6 +1304,14 @@
       "id": "steam-82-156-50-95-2303",
       "name": "Epoch 1.0.6.2 PVE Server",
       "host": "82.156.50.95",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-82-193-80-18-2303",
+      "name": "100DB | DOMINATION | PVP/TVT",
+      "host": "82.193.80.18",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -1469,14 +1493,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-93-131-48-190-2303",
-      "name": "Das DayZ Epoch Chernarus Server (1.0.7.1/144629)",
-      "host": "93.131.48.190",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
       "id": "steam-94-250-209-112-2303",
       "name": "Was spielen wir?",
       "host": "94.250.209.112",
@@ -1517,105 +1533,41 @@
       "requiredMods": []
     },
     {
-      "id": "steam-104-246-99-167-2313",
-      "name": "PatientZero Test Server #2",
-      "host": "104.246.99.167",
-      "gamePort": 2312,
-      "queryPort": 2313,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-104-246-99-167-2323",
-      "name": "PatientZero Test Server #3",
-      "host": "104.246.99.167",
-      "gamePort": 2322,
-      "queryPort": 2323,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-104-246-99-167-2383",
-      "name": "PatientZero Server #TEST",
-      "host": "104.246.99.167",
-      "gamePort": 2382,
-      "queryPort": 2383,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-109-204-186-162-2313",
-      "name": "[AD]DayZ Mod 1.9.1 HOW TO JOIN discord.me/VFB",
-      "host": "109.204.186.162",
-      "gamePort": 2312,
-      "queryPort": 2313,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-120-239-199-72-2303",
+      "id": "steam-120-239-199-107-2303",
       "name": "PC-Lily Epoch Server PVE/StarterKit/StarterCash/Patrol/Missions",
-      "host": "120.239.199.72",
+      "host": "120.239.199.107",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
     },
     {
-      "id": "steam-37-114-146-188-2303",
-      "name": "Evolution",
-      "host": "37.114.146.188",
+      "id": "steam-23-106-58-144-2303",
+      "name": "Challenger Napf PVE Only (1.0.7.1)",
+      "host": "23.106.58.144",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
     },
     {
-      "id": "steam-37-187-144-40-6945",
-      "name": "Official Origins Mod #LFS KingKongs World(1.8.3/125548) Hosted",
+      "id": "steam-37-187-144-40-4835",
+      "name": "Official Origins Mod #LFS End of dayz(1.8.3/125548) Hosted @ La",
       "host": "37.187.144.40",
-      "gamePort": 6944,
-      "queryPort": 6945,
+      "gamePort": 4834,
+      "queryPort": 4835,
       "requiredMods": []
     },
     {
-      "id": "steam-45-85-105-209-2303",
-      "name": "DayZ Vanilla 1.9.0 - Local",
-      "host": "45.85.105.209",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-46-64-159-139-2303",
-      "name": "Slow Walking Zombies DayZ Epoch Chernarus (Private Server) (1.0",
-      "host": "46.64.159.139",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-70-180-163-130-2303",
-      "name": "SanctifiedRealms DayZ Epoch Portal",
-      "host": "70.180.163.130",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-78-48-57-2-2303",
-      "name": "Das DayZ Epoch Chernarus Server (1.0.7.1/144629)",
-      "host": "78.48.57.2",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-79-205-62-209-2321",
+      "id": "steam-79-238-34-203-2321",
       "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
-      "host": "79.205.62.209",
+      "host": "79.238.34.203",
       "gamePort": 2320,
       "queryPort": 2321,
       "requiredMods": []
     },
     {
-      "id": "steam-82-193-80-18-2303",
-      "name": "100DB | DOMINATION | PVP/TVT",
-      "host": "82.193.80.18",
+      "id": "steam-93-131-48-190-2303",
+      "name": "Das DayZ Epoch Chernarus Server (1.0.7.1/144629)",
+      "host": "93.131.48.190",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -1634,30 +1586,6 @@
       "host": "54.39.99.140",
       "gamePort": 2302,
       "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-54-39-99-140-2313",
-      "name": "PatientZero Test Server #2",
-      "host": "54.39.99.140",
-      "gamePort": 2312,
-      "queryPort": 2313,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-54-39-99-140-2323",
-      "name": "PatientZero Test Server #3",
-      "host": "54.39.99.140",
-      "gamePort": 2322,
-      "queryPort": 2323,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-54-39-99-140-2383",
-      "name": "PatientZero Server #TEST",
-      "host": "54.39.99.140",
-      "gamePort": 2382,
-      "queryPort": 2383,
       "requiredMods": []
     }
   ],
