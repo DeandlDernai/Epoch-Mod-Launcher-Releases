@@ -1,6 +1,6 @@
 {
-  "sequence": 90,
-  "createdAt": "2026-11-15T15:30:26.9600617+00:00",
+  "sequence": 91,
+  "createdAt": "2026-11-16T15:30:33.5651719+00:00",
   "latestVersion": "1.2.0",
   "links": {
     "github": "https://github.com/DeandlDernai/Epoch-Mod-Launcher-Releases/releases",
@@ -69,9 +69,9 @@
       "requiredMods": []
     },
     {
-      "id": "steam-120-239-199-66-2303",
+      "id": "steam-120-239-199-120-2303",
       "name": "PC-Lily Epoch Server PVE/StarterKit/StarterCash/Patrol/Missions",
-      "host": "120.239.199.66",
+      "host": "120.239.199.120",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -138,6 +138,22 @@
       "host": "142.132.210.90",
       "gamePort": 2322,
       "queryPort": 2323,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-142-54-183-235-2101",
+      "name": "CarpeDiemZ Epoch|PVE|Chernarus|Missions",
+      "host": "142.54.183.235",
+      "gamePort": 2100,
+      "queryPort": 2101,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-142-54-183-235-2201",
+      "name": "CarpeDiemZ Taviana|PVE|Traders|Missions",
+      "host": "142.54.183.235",
+      "gamePort": 2200,
+      "queryPort": 2201,
       "requiredMods": []
     },
     {
@@ -349,6 +365,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-174-100-156-219-2303",
+      "name": "DG3",
+      "host": "174.100.156.219",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
       "id": "steam-176-197-182-249-2303",
       "name": "[RU] DARK CITY: Epoch |NAPF|PvE\u002BPvP|Auction|Interior|Bank",
       "host": "176.197.182.249",
@@ -386,6 +410,14 @@
       "host": "178.66.51.42",
       "gamePort": 2302,
       "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-178-66-51-42-2603",
+      "name": "[Nemezis]|Closed TEST server|",
+      "host": "178.66.51.42",
+      "gamePort": 2602,
+      "queryPort": 2603,
       "requiredMods": []
     },
     {
@@ -741,6 +773,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-27-130-231-12-2303",
+      "name": "DayZ Modern Hive Test",
+      "host": "27.130.231.12",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
       "id": "steam-31-204-106-154-2303",
       "name": "WAR and HELL | RU | PvP | Epoch 1.0.7.1 | Chernarus",
       "host": "31.204.106.154",
@@ -754,14 +794,6 @@
       "host": "37.120.164.54",
       "gamePort": 2800,
       "queryPort": 2801,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-37-120-235-30-2303",
-      "name": "Ireland Elite DayZ Taviana [Epoch 1.0.7.1] - local test",
-      "host": "37.120.235.30",
-      "gamePort": 2302,
-      "queryPort": 2303,
       "requiredMods": []
     },
     {
@@ -821,14 +853,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-37-187-144-40-4202",
-      "name": "Official Origins Mod #LFS Sakhalin server RU65 |PVE|(1.8.3/1255",
-      "host": "37.187.144.40",
-      "gamePort": 4201,
-      "queryPort": 4202,
-      "requiredMods": []
-    },
-    {
       "id": "steam-37-187-144-40-5046",
       "name": "Official Origins Mod #LFS [DE] Lemurenhaus Origins 2026(1.8.3/1",
       "host": "37.187.144.40",
@@ -858,14 +882,6 @@
       "host": "37.187.144.40",
       "gamePort": 5889,
       "queryPort": 5890,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-37-187-144-40-6101",
-      "name": "Official Origins Mod #LFS Origins Server Dev(1.8.3/125548) Host",
-      "host": "37.187.144.40",
-      "gamePort": 6100,
-      "queryPort": 6101,
       "requiredMods": []
     },
     {
@@ -1253,41 +1269,25 @@
       "requiredMods": []
     },
     {
-      "id": "steam-74-91-114-237-2303",
-      "name": "EVO Life Reborn [TEST]",
-      "host": "74.91.114.237",
+      "id": "steam-71-255-45-87-2303",
+      "name": "Islamic Brotherhood of Takistan",
+      "host": "71.255.45.87",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
     },
     {
-      "id": "steam-74-91-114-237-2403",
-      "name": "Our Life RPG [EVO TEST]",
-      "host": "74.91.114.237",
-      "gamePort": 2402,
-      "queryPort": 2403,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-77-176-0-25-2303",
-      "name": "Das DayZ Epoch Chernarus Server (1.0.7.1/144629)",
-      "host": "77.176.0.25",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-79-205-56-120-2321",
+      "id": "steam-79-205-60-229-2321",
       "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
-      "host": "79.205.56.120",
+      "host": "79.205.60.229",
       "gamePort": 2320,
       "queryPort": 2321,
       "requiredMods": []
     },
     {
-      "id": "steam-80-4-202-15-2303",
-      "name": "Elite Warriors Evo Red Chernarus",
-      "host": "80.4.202.15",
+      "id": "steam-80-171-155-143-2303",
+      "name": "Das DayZ Epoch Chernarus Server (1.0.7.1/144629)",
+      "host": "80.171.155.143",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -1485,19 +1485,11 @@
       "requiredMods": []
     },
     {
-      "id": "steam-91-98-228-231-2303",
-      "name": "DayZ Classic - Redis Vanilla",
+      "id": "steam-91-98-228-231-2301",
+      "name": "DayZ Classic 1.63 Redis Probe",
       "host": "91.98.228.231",
       "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-93-239-108-150-2303",
-      "name": "Crispy DayZ Epoch Taviana Server",
-      "host": "93.239.108.150",
-      "gamePort": 2302,
-      "queryPort": 2303,
+      "queryPort": 2301,
       "requiredMods": []
     },
     {
@@ -1533,75 +1525,11 @@
       "requiredMods": []
     },
     {
-      "id": "steam-120-239-199-38-2303",
-      "name": "PC-Lily Epoch Server PVE/StarterKit/StarterCash/Patrol/Missions",
-      "host": "120.239.199.38",
+      "id": "steam-91-98-228-231-2303",
+      "name": "DayZ Classic - Redis Vanilla",
+      "host": "91.98.228.231",
       "gamePort": 2302,
       "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-133-18-136-177-2303",
-      "name": "Kongari Bagel",
-      "host": "133.18.136.177",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-145-87-238-24-2303",
-      "name": "GEPO\u0027s Warfare Server (Benny Edition)",
-      "host": "145.87.238.24",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-174-100-156-219-2303",
-      "name": "DG3",
-      "host": "174.100.156.219",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-45-85-105-209-2383",
-      "name": "DayZ isolated Stage 1 live dog",
-      "host": "45.85.105.209",
-      "gamePort": 2382,
-      "queryPort": 2383,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-5-226-142-60-2305",
-      "name": "Bambie Hell |Epoch|Ai|Missions|Hard mode",
-      "host": "5.226.142.60",
-      "gamePort": 2304,
-      "queryPort": 2305,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-79-205-59-204-2321",
-      "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
-      "host": "79.205.59.204",
-      "gamePort": 2320,
-      "queryPort": 2321,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-80-171-40-225-2303",
-      "name": "Das DayZ Epoch Chernarus Server (1.0.7.1/144629)",
-      "host": "80.171.40.225",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-82-193-80-18-2306",
-      "name": "100DB TEST (local, not public)",
-      "host": "82.193.80.18",
-      "gamePort": 2305,
-      "queryPort": 2306,
       "requiredMods": []
     },
     {
