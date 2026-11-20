@@ -1,6 +1,6 @@
 {
-  "sequence": 94,
-  "createdAt": "2026-11-19T15:30:24.8904383+00:00",
+  "sequence": 95,
+  "createdAt": "2026-11-20T15:30:30.0515098+00:00",
   "latestVersion": "1.2.0",
   "links": {
     "github": "https://github.com/DeandlDernai/Epoch-Mod-Launcher-Releases/releases",
@@ -30,7 +30,7 @@
     },
     {
       "id": "steam-104-246-99-167-2303",
-      "name": "PatientZero Official Mod TEST #1 - Join at: pzmod.com |NEW|HC|P",
+      "name": "PatientZero Local Test RSI-TESTNODE-03",
       "host": "104.246.99.167",
       "gamePort": 2302,
       "queryPort": 2303,
@@ -69,9 +69,9 @@
       "requiredMods": []
     },
     {
-      "id": "steam-120-239-199-86-2303",
+      "id": "steam-120-239-199-64-2303",
       "name": "PC-Lily Epoch Server PVE/StarterKit/StarterCash/Patrol/Missions",
-      "host": "120.239.199.86",
+      "host": "120.239.199.64",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -154,22 +154,6 @@
       "host": "142.54.183.235",
       "gamePort": 2200,
       "queryPort": 2201,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-142-68-219-128-2303",
-      "name": "[CAN-East] TangoServers: Good ol\u0027 DayZ (1.9)",
-      "host": "142.68.219.128",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-142-68-219-128-2307",
-      "name": "[CAN-East] TangoServers: Good ol\u0027 DayZ Namalsk (1.9/0.75)",
-      "host": "142.68.219.128",
-      "gamePort": 2306,
-      "queryPort": 2307,
       "requiredMods": []
     },
     {
@@ -261,6 +245,22 @@
       "requiredMods": []
     },
     {
+      "id": "steam-156-34-223-231-2303",
+      "name": "[CAN-East] TangoServers: Good ol\u0027 DayZ (1.9)",
+      "host": "156.34.223.231",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-156-34-223-231-2307",
+      "name": "[CAN-East] TangoServers: Good ol\u0027 DayZ Namalsk (1.9/0.75)",
+      "host": "156.34.223.231",
+      "gamePort": 2306,
+      "queryPort": 2307,
+      "requiredMods": []
+    },
+    {
       "id": "steam-157-180-54-113-2303",
       "name": "Miksuu\u0027s Warfare | CTI | TvT | PvE | discord.me/warfare",
       "host": "157.180.54.113",
@@ -322,6 +322,14 @@
       "host": "167.114.209.180",
       "gamePort": 2302,
       "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-167-114-209-180-2403",
+      "name": "[JCN] Namalsk V3|Heavily Custom Epoch|FPS\u002B\u002B\u002B|infiSTAR",
+      "host": "167.114.209.180",
+      "gamePort": 2402,
+      "queryPort": 2403,
       "requiredMods": []
     },
     {
@@ -669,14 +677,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-212-110-214-66-2203",
-      "name": "{KG}Community",
-      "host": "212.110.214.66",
-      "gamePort": 2202,
-      "queryPort": 2203,
-      "requiredMods": []
-    },
-    {
       "id": "steam-213-239-197-29-2403",
       "name": "Resthirn auf Napf | PVE | GER | Missions",
       "host": "213.239.197.29",
@@ -933,14 +933,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-45-142-26-90-2303",
-      "name": "[JCN] Namalsk V3|Heavily Custom Overpoch|FPS\u002B\u002B\u002B|infiSTAR",
-      "host": "45.142.26.90",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
       "id": "steam-45-248-145-14-2303",
       "name": "Killing-Z-Mil_OverPoch-PVE",
       "host": "45.248.145.14",
@@ -1077,6 +1069,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-5-9-19-60-2313",
+      "name": "[GERMAN PENNY] Test Server",
+      "host": "5.9.19.60",
+      "gamePort": 2312,
+      "queryPort": 2313,
+      "requiredMods": []
+    },
+    {
       "id": "steam-51-195-140-241-2303",
       "name": "Kays Epoch Powered by GamingDeluxe.co.uk",
       "host": "51.195.140.241",
@@ -1157,10 +1157,18 @@
       "requiredMods": []
     },
     {
+      "id": "steam-62-144-129-107-2203",
+      "name": "{KG}Community",
+      "host": "62.144.129.107",
+      "gamePort": 2202,
+      "queryPort": 2203,
+      "requiredMods": []
+    },
+    {
       "id": "steam-63-251-42-82-2303",
       "name": "Stomping Grounds PVE~Militarized/Custom Everything/AI Patrols/H",
       "host": "63.251.42.82",
-      "gamePort": 2302,
+      "gamePort": 2314,
       "queryPort": 2303,
       "requiredMods": []
     },
@@ -1213,27 +1221,19 @@
       "requiredMods": []
     },
     {
-      "id": "steam-70-180-163-130-2303",
-      "name": "SanctifiedRealms DayZ Epoch Portal",
-      "host": "70.180.163.130",
+      "id": "steam-77-176-50-132-2303",
+      "name": "Das DayZ Epoch Chernarus Server (1.0.7.1/144629)",
+      "host": "77.176.50.132",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
     },
     {
-      "id": "steam-79-248-152-238-2321",
+      "id": "steam-79-205-63-2-2321",
       "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
-      "host": "79.248.152.238",
+      "host": "79.205.63.2",
       "gamePort": 2320,
       "queryPort": 2321,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-80-4-202-15-2303",
-      "name": "Elite Warriors Evo Red Chernarus",
-      "host": "80.4.202.15",
-      "gamePort": 2302,
-      "queryPort": 2303,
       "requiredMods": []
     },
     {
@@ -1437,22 +1437,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-93-133-145-174-2303",
-      "name": "Das DayZ Epoch Chernarus Server (1.0.7.1/144629)",
-      "host": "93.133.145.174",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-93-239-108-150-2303",
-      "name": "Crispy DayZ Epoch Taviana Server",
-      "host": "93.239.108.150",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
       "id": "steam-94-250-209-112-2303",
       "name": "Was spielen wir?",
       "host": "94.250.209.112",
@@ -1485,57 +1469,81 @@
       "requiredMods": []
     },
     {
-      "id": "steam-120-239-199-64-2303",
+      "id": "steam-120-239-199-86-2303",
       "name": "PC-Lily Epoch Server PVE/StarterKit/StarterCash/Patrol/Missions",
-      "host": "120.239.199.64",
+      "host": "120.239.199.86",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
     },
     {
-      "id": "steam-181-233-46-173-2303",
-      "name": "FREE TAKISTAN FACEBOOK",
-      "host": "181.233.46.173",
+      "id": "steam-142-68-219-128-2303",
+      "name": "[CAN-East] TangoServers: Good ol\u0027 DayZ (1.9)",
+      "host": "142.68.219.128",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
     },
     {
-      "id": "steam-192-95-33-8-2514",
-      "name": "Official Origins Mod #LFS KovidKillahs[WSP](1.8.3/125548) Hoste",
-      "host": "192.95.33.8",
-      "gamePort": 2513,
-      "queryPort": 2514,
+      "id": "steam-142-68-219-128-2307",
+      "name": "[CAN-East] TangoServers: Good ol\u0027 DayZ Namalsk (1.9/0.75)",
+      "host": "142.68.219.128",
+      "gamePort": 2306,
+      "queryPort": 2307,
       "requiredMods": []
     },
     {
-      "id": "steam-2-243-211-179-2303",
+      "id": "steam-212-110-214-66-2203",
+      "name": "{KG}Community",
+      "host": "212.110.214.66",
+      "gamePort": 2202,
+      "queryPort": 2203,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-45-142-26-90-2303",
+      "name": "[JCN] Namalsk V3|Heavily Custom Overpoch|FPS\u002B\u002B\u002B|infiSTAR",
+      "host": "45.142.26.90",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-70-180-163-130-2303",
+      "name": "SanctifiedRealms DayZ Epoch Portal",
+      "host": "70.180.163.130",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-79-248-152-238-2321",
+      "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
+      "host": "79.248.152.238",
+      "gamePort": 2320,
+      "queryPort": 2321,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-80-4-202-15-2303",
+      "name": "Elite Warriors Evo Red Chernarus",
+      "host": "80.4.202.15",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-93-133-145-174-2303",
       "name": "Das DayZ Epoch Chernarus Server (1.0.7.1/144629)",
-      "host": "2.243.211.179",
+      "host": "93.133.145.174",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
     },
     {
-      "id": "steam-24-2-72-18-2313",
-      "name": "DayZ Hive Test - Chernarus",
-      "host": "24.2.72.18",
-      "gamePort": 2312,
-      "queryPort": 2313,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-24-2-72-18-2323",
-      "name": "DayZ Hive Test - Napf",
-      "host": "24.2.72.18",
-      "gamePort": 2322,
-      "queryPort": 2323,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-31-204-106-154-2303",
-      "name": "WAR and HELL | RU | PvP | Epoch 1.0.7.1 | Chernarus",
-      "host": "31.204.106.154",
+      "id": "steam-93-239-108-150-2303",
+      "name": "Crispy DayZ Epoch Taviana Server",
+      "host": "93.239.108.150",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -1546,14 +1554,6 @@
       "host": "37.187.144.40",
       "gamePort": 5256,
       "queryPort": 5257,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-79-205-49-229-2321",
-      "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
-      "host": "79.205.49.229",
-      "gamePort": 2320,
-      "queryPort": 2321,
       "requiredMods": []
     },
     {
