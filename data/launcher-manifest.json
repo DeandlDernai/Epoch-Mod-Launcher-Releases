@@ -1,6 +1,6 @@
 {
-  "sequence": 96,
-  "createdAt": "2026-11-21T15:30:34.699106+00:00",
+  "sequence": 97,
+  "createdAt": "2026-11-22T15:30:25.9256819+00:00",
   "latestVersion": "1.2.0",
   "links": {
     "github": "https://github.com/DeandlDernai/Epoch-Mod-Launcher-Releases/releases",
@@ -69,17 +69,9 @@
       "requiredMods": []
     },
     {
-      "id": "steam-109-78-29-241-2303",
-      "name": "Ireland Elite | Epoch Taviana | 330\u002B Mil Vehicles | Free Rearm",
-      "host": "109.78.29.241",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-120-239-199-3-2303",
+      "id": "steam-120-239-199-39-2303",
       "name": "PC-Lily Epoch Server PVE/StarterKit/StarterCash/Patrol/Missions",
-      "host": "120.239.199.3",
+      "host": "120.239.199.39",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -413,6 +405,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-178-66-51-42-2603",
+      "name": "[Nemezis]|Closed TEST server|",
+      "host": "178.66.51.42",
+      "gamePort": 2602,
+      "queryPort": 2603,
+      "requiredMods": []
+    },
+    {
       "id": "steam-181-233-46-141-2303",
       "name": "FREE TAKISTAN FACEBOOK",
       "host": "181.233.46.141",
@@ -629,14 +629,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-2-243-198-45-2303",
-      "name": "Das DayZ Epoch Chernarus Server (1.0.7.1/144629)",
-      "host": "2.243.198.45",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
       "id": "steam-205-209-105-34-2303",
       "name": "OxP|Epoch|PvE|NoobFriendly|StartKit|Events|Mili|",
       "host": "205.209.105.34",
@@ -725,14 +717,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-31-10-92-247-2303",
-      "name": "DayZ Epoch Taviana Server (1.0.7.1/144629)",
-      "host": "31.10.92.247",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
       "id": "steam-37-120-164-54-2801",
       "name": "Brooks Namalsk [PVE] extended A2 \u002B A1",
       "host": "37.120.164.54",
@@ -773,6 +757,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-37-187-144-40-3569",
+      "name": "Official Origins Mod #LFS PVE /FR/EU-MISSION 2 MIN RESART 4H [A",
+      "host": "37.187.144.40",
+      "gamePort": 3568,
+      "queryPort": 3569,
+      "requiredMods": []
+    },
+    {
       "id": "steam-37-187-144-40-3780",
       "name": "Official Origins Mod #LFS BlutigerPfadGottes/PvE/GER-ENG1.5.26(",
       "host": "37.187.144.40",
@@ -789,11 +781,11 @@
       "requiredMods": []
     },
     {
-      "id": "steam-37-187-144-40-5257",
-      "name": "Official Origins Mod #LFS ArcX Gaming(1.8.3/125548) Hosted @ La",
+      "id": "steam-37-187-144-40-5046",
+      "name": "Official Origins Mod #LFS [DE] Lemurenhaus Origins 2026(1.8.3/1",
       "host": "37.187.144.40",
-      "gamePort": 5256,
-      "queryPort": 5257,
+      "gamePort": 5045,
+      "queryPort": 5046,
       "requiredMods": []
     },
     {
@@ -821,6 +813,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-37-187-144-40-6101",
+      "name": "Official Origins Mod #LFS Origins Server Dev(1.8.3/125548) Host",
+      "host": "37.187.144.40",
+      "gamePort": 6100,
+      "queryPort": 6101,
+      "requiredMods": []
+    },
+    {
       "id": "steam-37-187-144-40-6734",
       "name": "Official Origins Mod #LFS Hannibals Hideout(1.8.3/125548) Hoste",
       "host": "37.187.144.40",
@@ -834,6 +834,14 @@
       "host": "37.187.144.40",
       "gamePort": 6944,
       "queryPort": 6945,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-37-187-144-40-7578",
+      "name": "Official Origins Mod #LFS [SAW] Clan PVE Server (Whitelist | No",
+      "host": "37.187.144.40",
+      "gamePort": 7577,
+      "queryPort": 7578,
       "requiredMods": []
     },
     {
@@ -1205,9 +1213,17 @@
       "requiredMods": []
     },
     {
-      "id": "steam-79-205-53-98-2321",
+      "id": "steam-77-176-0-164-2303",
+      "name": "Das DayZ Epoch Chernarus Server (1.0.7.1/144629)",
+      "host": "77.176.0.164",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-79-205-62-208-2321",
       "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
-      "host": "79.205.53.98",
+      "host": "79.205.62.208",
       "gamePort": 2320,
       "queryPort": 2321,
       "requiredMods": []
@@ -1365,6 +1381,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-87-192-106-120-2503",
+      "name": "[UAC] DayZ Chernarus Winter",
+      "host": "87.192.106.120",
+      "gamePort": 2502,
+      "queryPort": 2503,
+      "requiredMods": []
+    },
+    {
       "id": "steam-89-201-7-209-2303",
       "name": "dSmile LV 2 [1.9.0|REGULAR|VANILLA|LATVIJA [GMT-2] - hosted by",
       "host": "89.201.7.209",
@@ -1429,6 +1453,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-93-239-108-150-2303",
+      "name": "Crispy DayZ Epoch Taviana Server",
+      "host": "93.239.108.150",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
       "id": "steam-94-19-79-99-2303",
       "name": "Military_PVE 78RUS GameServer",
       "host": "94.19.79.99",
@@ -1474,6 +1506,14 @@
       "host": "99.192.0.153",
       "gamePort": 2306,
       "queryPort": 2307,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-37-187-144-40-5257",
+      "name": "Official Origins Mod #LFS ArcX Gaming(1.8.3/125548) Hosted @ La",
+      "host": "37.187.144.40",
+      "gamePort": 5256,
+      "queryPort": 5257,
       "requiredMods": []
     },
     {
