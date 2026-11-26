@@ -1,6 +1,6 @@
 {
-  "sequence": 100,
-  "createdAt": "2026-11-25T15:30:30.8257358+00:00",
+  "sequence": 101,
+  "createdAt": "2026-11-26T15:30:24.1839808+00:00",
   "latestVersion": "1.2.0",
   "links": {
     "github": "https://github.com/DeandlDernai/Epoch-Mod-Launcher-Releases/releases",
@@ -30,7 +30,7 @@
     },
     {
       "id": "steam-104-246-99-167-2303",
-      "name": "PatientZero Local Test RSI-TESTNODE-03",
+      "name": "PatientZero Local Test RSI-TESTNODE-02",
       "host": "104.246.99.167",
       "gamePort": 2302,
       "queryPort": 2303,
@@ -72,14 +72,6 @@
       "id": "steam-109-248-247-90-2303",
       "name": "Arma 2 WALKING DEAD Zombie \u002B silent hill",
       "host": "109.248.247.90",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-120-239-199-58-2303",
-      "name": "PC-Lily Epoch Server PVE/StarterKit/StarterCash/Patrol/Missions",
-      "host": "120.239.199.58",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -549,6 +541,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-188-254-110-55-2303",
+      "name": "sidd",
+      "host": "188.254.110.55",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
       "id": "steam-188-40-64-51-2303",
       "name": "(HAS)Hard As Steel|Wiped 06-11-26|PVE|Napf|Overpoch|Militarized",
       "host": "188.40.64.51",
@@ -789,6 +789,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-37-187-144-40-2936",
+      "name": "Official Origins Mod #LFS [FR-PVE] Malou of the dead(1.8.3/1255",
+      "host": "37.187.144.40",
+      "gamePort": 2935,
+      "queryPort": 2936,
+      "requiredMods": []
+    },
+    {
       "id": "steam-37-187-144-40-3147",
       "name": "Official Origins Mod #LFS / German / Whitelist 187867148 im Ste",
       "host": "37.187.144.40",
@@ -826,14 +834,6 @@
       "host": "37.187.144.40",
       "gamePort": 5045,
       "queryPort": 5046,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-37-187-144-40-5257",
-      "name": "Official Origins Mod #LFS ArcX Gaming(1.8.3/125548) Hosted @ La",
-      "host": "37.187.144.40",
-      "gamePort": 5256,
-      "queryPort": 5257,
       "requiredMods": []
     },
     {
@@ -1010,6 +1010,14 @@
       "host": "5.226.141.78",
       "gamePort": 2305,
       "queryPort": 2306,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-5-226-142-60-2305",
+      "name": "Bambie Hell |Epoch|Ai|Missions|Hard mode",
+      "host": "5.226.142.60",
+      "gamePort": 2304,
+      "queryPort": 2305,
       "requiredMods": []
     },
     {
@@ -1197,17 +1205,9 @@
       "requiredMods": []
     },
     {
-      "id": "steam-79-110-129-79-2303",
-      "name": "DayZ Epoch Chernarus Server (1.0.7.1/144629)",
-      "host": "79.110.129.79",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-79-205-58-40-2321",
+      "id": "steam-79-205-56-161-2321",
       "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
-      "host": "79.205.58.40",
+      "host": "79.205.56.161",
       "gamePort": 2320,
       "queryPort": 2321,
       "requiredMods": []
@@ -1230,7 +1230,7 @@
     },
     {
       "id": "steam-82-193-80-18-2303",
-      "name": "100DB | DOMINATION | PVP/TVT",
+      "name": "100DB | PVP/TVT DOMINATION | CAPTURE TOWNS",
       "host": "82.193.80.18",
       "gamePort": 2302,
       "queryPort": 2303,
@@ -1301,6 +1301,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-83-239-111-98-2303",
+      "name": "RU Hardcore DayZ Epoch PVE",
+      "host": "83.239.111.98",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
       "id": "steam-84-145-34-135-2316",
       "name": "Origins - Privat (v1.7.1\u002B1785miniClient/Build 103718) [REGULAR|",
       "host": "84.145.34.135",
@@ -1328,6 +1336,22 @@
       "id": "steam-89-201-7-209-2303",
       "name": "dSmile LV 2 [1.9.0|REGULAR|VANILLA|LATVIJA [GMT-2] - hosted by",
       "host": "89.201.7.209",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-89-201-7-209-2327",
+      "name": "dSmile LV 2#2 [1.9.0|EXPERT|Loadout|AIMissions|LATVIJA [GMT-2]",
+      "host": "89.201.7.209",
+      "gamePort": 2326,
+      "queryPort": 2327,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-89-207-223-114-2303",
+      "name": "[https://discord.gg/DdsUdh9ZjJ] OriginsMod 1.8.3 Rebuild Custom",
+      "host": "89.207.223.114",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -1381,17 +1405,17 @@
       "requiredMods": []
     },
     {
-      "id": "steam-93-131-166-63-2303",
+      "id": "steam-93-131-37-120-2303",
       "name": "Das DayZ Epoch Chernarus Server (1.0.7.1/144629)",
-      "host": "93.131.166.63",
+      "host": "93.131.37.120",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
     },
     {
-      "id": "steam-94-19-79-99-2303",
-      "name": "Military_PVE 78RUS GameServer",
-      "host": "94.19.79.99",
+      "id": "steam-93-239-108-150-2303",
+      "name": "Crispy DayZ Epoch Taviana Server",
+      "host": "93.239.108.150",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -1437,11 +1461,11 @@
       "requiredMods": []
     },
     {
-      "id": "steam-82-156-50-95-2303",
-      "name": "Epoch 1.0.6.2 PVE Server",
-      "host": "82.156.50.95",
-      "gamePort": 2302,
-      "queryPort": 2303,
+      "id": "steam-37-187-144-40-5257",
+      "name": "Official Origins Mod #LFS ArcX Gaming(1.8.3/125548) Hosted @ La",
+      "host": "37.187.144.40",
+      "gamePort": 5256,
+      "queryPort": 5257,
       "requiredMods": []
     },
     {
