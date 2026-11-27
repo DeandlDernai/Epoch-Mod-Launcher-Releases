@@ -1,6 +1,6 @@
 {
-  "sequence": 101,
-  "createdAt": "2026-11-26T15:30:24.1839808+00:00",
+  "sequence": 102,
+  "createdAt": "2026-11-27T15:30:27.1474844+00:00",
   "latestVersion": "1.2.0",
   "links": {
     "github": "https://github.com/DeandlDernai/Epoch-Mod-Launcher-Releases/releases",
@@ -445,6 +445,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-178-66-51-42-2603",
+      "name": "[Nemezis]|Closed TEST server|",
+      "host": "178.66.51.42",
+      "gamePort": 2602,
+      "queryPort": 2603,
+      "requiredMods": []
+    },
+    {
       "id": "steam-181-233-46-141-2303",
       "name": "FREE TAKISTAN FACEBOOK",
       "host": "181.233.46.141",
@@ -664,6 +672,14 @@
       "id": "steam-195-93-181-30-2303",
       "name": "CWM Epoch Napf (1.0.5.1/131129)",
       "host": "195.93.181.30",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-2-26-5-33-2303",
+      "name": "Origins Classic | WIPE 10.10.26 | PVP | discord.gg/rzyt4tQjAR |",
+      "host": "2.26.5.33",
       "gamePort": 2302,
       "queryPort": 2303,
       "requiredMods": []
@@ -989,14 +1005,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-45-93-200-132-2303",
-      "name": "Origins Classic | WIPE 10.10.26 | PVP | discord.gg/rzyt4tQjAR |",
-      "host": "45.93.200.132",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
       "id": "steam-49-12-120-97-2303",
       "name": "Pridit\u0027s Domination Takistan | dsc.gg/pridit",
       "host": "49.12.120.97",
@@ -1058,6 +1066,14 @@
       "host": "5.9.19.60",
       "gamePort": 2312,
       "queryPort": 2313,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-51-161-27-101-2306",
+      "name": "[CA] The Forgotten Epoch | Chernarus | PvE",
+      "host": "51.161.27.101",
+      "gamePort": 2305,
+      "queryPort": 2306,
       "requiredMods": []
     },
     {
@@ -1205,9 +1221,17 @@
       "requiredMods": []
     },
     {
-      "id": "steam-79-205-56-161-2321",
+      "id": "steam-77-176-134-246-2303",
+      "name": "Das DayZ Epoch Chernarus Server (1.0.7.1/144629)",
+      "host": "77.176.134.246",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-79-205-58-190-2321",
       "name": "Elite Warriors Tribute Server: Domination [beta test updated]",
-      "host": "79.205.56.161",
+      "host": "79.205.58.190",
       "gamePort": 2320,
       "queryPort": 2321,
       "requiredMods": []
@@ -1301,6 +1325,14 @@
       "requiredMods": []
     },
     {
+      "id": "steam-83-167-115-59-2303",
+      "name": "[RU] Mikser Warfare | CTI | TvT | PvE | discord.ru/warfare",
+      "host": "83.167.115.59",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "requiredMods": []
+    },
+    {
       "id": "steam-83-239-111-98-2303",
       "name": "RU Hardcore DayZ Epoch PVE",
       "host": "83.239.111.98",
@@ -1346,14 +1378,6 @@
       "host": "89.201.7.209",
       "gamePort": 2326,
       "queryPort": 2327,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-89-207-223-114-2303",
-      "name": "[https://discord.gg/DdsUdh9ZjJ] OriginsMod 1.8.3 Rebuild Custom",
-      "host": "89.207.223.114",
-      "gamePort": 2302,
-      "queryPort": 2303,
       "requiredMods": []
     },
     {
@@ -1405,22 +1429,6 @@
       "requiredMods": []
     },
     {
-      "id": "steam-93-131-37-120-2303",
-      "name": "Das DayZ Epoch Chernarus Server (1.0.7.1/144629)",
-      "host": "93.131.37.120",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
-      "id": "steam-93-239-108-150-2303",
-      "name": "Crispy DayZ Epoch Taviana Server",
-      "host": "93.239.108.150",
-      "gamePort": 2302,
-      "queryPort": 2303,
-      "requiredMods": []
-    },
-    {
       "id": "steam-94-250-209-112-2303",
       "name": "Was spielen wir?",
       "host": "94.250.209.112",
@@ -1458,6 +1466,14 @@
       "host": "99.192.0.153",
       "gamePort": 2306,
       "queryPort": 2307,
+      "requiredMods": []
+    },
+    {
+      "id": "steam-45-93-200-132-2303",
+      "name": "Origins Classic | WIPE 10.10.26 | PVP | discord.gg/rzyt4tQjAR |",
+      "host": "45.93.200.132",
+      "gamePort": 2302,
+      "queryPort": 2303,
       "requiredMods": []
     },
     {
